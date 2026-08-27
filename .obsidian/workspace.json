@@ -188,18 +188,23 @@
       "bases:新建数据库": false
     }
   },
-  "active": "f4be01380daa6b58",
+  "active": "e51ed2014286a7b4",
   "lastOpenFiles": [
+    "客户池/客户卡片模板.md",
+    "客户池/00_客户索引.md",
+    "客户池/未分类",
+    "客户池/亚太",
+    "客户池/澳新",
+    "客户池/北美",
+    "客户池/欧洲",
+    "客户池/中东",
+    "客户池",
     "_Star6_Base/Noah_Alaya_Seeds/rules/exclude_list.md",
     "hermes广告文档/ZOE剔除池.md",
     "精准客户资源.md",
     "精准客户资源/ZOE_QUEUE.jsonl",
     "_Star6_Base/Noah_Alaya_Seeds/rules",
     "_Star6_Base/Noah_Alaya_Seeds/inbox",
-    "_Star6_Base/Noah_Alaya_Seeds",
-    "_Star6_Base",
-    "hermes广告文档",
-    "精准客户资源",
     "欢迎.md"
   ]
 }
