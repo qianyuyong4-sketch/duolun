@@ -1,0 +1,164 @@
+{
+ "company": "ABC Prestige Flooring",
+ "website": {
+  "error": "HTTPSConnectionPool(host='abcprestigeflooring.com.au', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1016)')))"
+ },
+ "products": {
+  "source": "website",
+  "items": []
+ },
+ "importyeti": {
+  "hits": [
+   {
+    "title": "Kaindl Flooring",
+    "type": "supplier",
+    "country": "DE",
+    "address": "Kaindlstrasse 2 5071 Wals Austria Wals-Siezenheim 5071 At",
+    "shipments": 4158,
+    "last_shipment": "24/08/2026",
+    "url": "https://www.importyeti.com/supplier/kaindl-flooring"
+   },
+   {
+    "title": "Dsl Flooring",
+    "type": "supplier",
+    "country": "CN",
+    "address": "Building 1 Stella House Asparagus Way Vale Park Evesham Wr11 1Gn Uk",
+    "shipments": 3402,
+    "last_shipment": "27/08/2026",
+    "url": "https://www.importyeti.com/supplier/dsl-flooring"
+   },
+   {
+    "title": "Cfl Flooring International",
+    "type": "supplier",
+    "country": "CN",
+    "address": "Suite 2006 20Th Floor 340 Queens Road Central Hong Kong Hong Ko Nigeriaex: 999077",
+    "shipments": 10222,
+    "last_shipment": "27/08/2026",
+    "url": "https://www.importyeti.com/supplier/cfl-flooring-international"
+   },
+   {
+    "title": "Abc Umformtechnik",
+    "type": "supplier",
+    "country": "DE",
+    "address": "& Co Kg Koelner Strasse 64 Gevelsberg 58285 Germany",
+    "shipments": 1912,
+    "last_shipment": "26/08/2026",
+    "url": "https://www.importyeti.com/supplier/abc-umformtechnik"
+   },
+   {
+    "title": "Abc Recycling",
+    "type": "supplier",
+    "country": "CA",
+    "address": "8081 Meadow Avenue Burnaby B C Ca 8081 Meadow Avenue Burnaby B C Canada V3N 2V9 V3B2P",
+    "shipments": 1907,
+    "last_shipment": "18/08/2026",
+    "url": "https://www.importyeti.com/supplier/abc-recycling"
+   },
+   {
+    "title": "Cambodian Tropic Flooring",
+    "type": "supplier",
+    "country": "KH",
+    "address": "Building No C21-6 Sihanoukville Special Economic Zone Phum Pou Thoeun G Bet Trang Commune & Phum Smach De Ng Ream Commune Prey Nob \"\"",
+    "shipments": 8786,
+    "last_shipment": "27/08/2026",
+    "url": "https://www.importyeti.com/supplier/cambodian-tropic-flooring"
+   }
+  ],
+  "request_remaining": 7
+ },
+ "maps": {
+  "query": "ABC Prestige Flooring Australia",
+  "address_hint": "",
+  "link": "https://www.google.com/maps/search/?api=1&query=ABC%20Prestige%20Flooring%20Australia",
+  "geocode": {
+   "found": false
+  }
+ },
+ "company_info": {
+  "found": true,
+  "abn": "51106911068",
+  "url": "https://abr.business.gov.au/ABN/View?abn=51106911068",
+  "entity_name": "RIV BUILD PROJECTS PTY LTD",
+  "status": "Active from 03 Nov 2003",
+  "entity_type": "Australian Private Company",
+  "gst": "Registered from 03 Nov 2003",
+  "main_location": "NSW 2154",
+  "asic": "106 911 068"
+ },
+ "website_url": "https://abcprestigeflooring.com.au",
+ "whois": {
+  "found": true,
+  "domain": "abcprestigeflooring.com.au",
+  "url": "https://rdap.org/domain/abcprestigeflooring.com.au",
+  "updated": "2026-08-16",
+  "registrar": "Web Address Registration Pty Ltd"
+ },
+ "links": {
+  "google": "https://www.google.com/search?q=ABC%20Prestige%20Flooring",
+  "opencorporates": "https://opencorporates.com/companies?q=ABC%20Prestige%20Flooring&utf8=%E2%9C%93"
+ },
+ "search": {
+  "ABC Prestige Flooring bill of lading": [
+   {
+    "error": "RequestError: RequestError('error sending request for url (https://html.duckduckgo.com/html/) > tls handshake eof')"
+   }
+  ],
+  "ABC Prestige Flooring import records customs data": [
+   {
+    "error": "RequestError: RequestError('error sending request for url (https://html.duckduckgo.com/html/) > tls handshake eof')"
+   }
+  ],
+  "\"ABC Prestige Flooring\" director OR CEO OR founder OR \"managing director\"": [
+   {
+    "error": "RequestError: RequestError('error sending request for url (https://www.google.com/wml/search?q=%22ABC+Prestige+Flooring%22+director+OR+CEO+OR+founder+OR+%22managing+director%22&sca_esv=1&filter=1&star"
+   }
+  ],
+  "\"ABC Prestige Flooring\" email OR contact": [
+   {
+    "title": "Email Finder by ContactOut | Email Lookup",
+    "url": "https://contactout.com/",
+    "desc": "Most accurate email finder for personal and work email outreach. Email lookup, campaign tool, and AI writer. Get 10 credits free - no credit card required."
+   },
+   {
+    "title": "Contact Directory",
+    "url": "https://www.dnb.com/contact-directory.html",
+    "desc": "Use our contacts database of over 100 million contacts to get access to phone numbers, email addresses, and job titles. Start your sales research here."
+   },
+   {
+    "title": "AI People Search Tool: Find New Business Contacts | Zoominfo",
+    "url": "https://www.zoominfo.com/s/search",
+    "desc": "Find profiles for thousands of contacts by industry, name, location, and more. Our in-depth AI search include emails, phone numbers, and industry connections."
+   },
+   {
+    "title": "Contact Us | USPS",
+    "url": "https://www.usps.com/help/contact-us.htm",
+    "desc": "Have questions about USPS products and services? Let us help. Call us at one of the numbers provided or send us an email."
+   }
+  ],
+  "\"ABC Prestige Flooring\" whatsapp": [
+   {
+    "error": "RequestError: RequestError('error sending request for url (https://html.duckduckgo.com/html/) > tls handshake eof')"
+   }
+  ]
+ },
+ "product_fit": {
+  "noav_fit_stars": 1,
+  "core_hits": [],
+  "positive_hits": [],
+  "misfit_hits": [],
+  "hs_hit": false,
+  "reason": "未检出明确产品信号，默认低契合",
+  "profile_version": "2026-08-29"
+ },
+ "score": {
+  "grade": "D",
+  "points": 3,
+  "max": 10,
+  "signals": [
+   "官网启用 HTTPS 加密",
+   "公司注册状态有效（Active）",
+   "海关数据有出货/采购记录"
+  ],
+  "recommendation": "建议谨慎投入、先进一步核实"
+ }
+}

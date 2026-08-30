@@ -1,0 +1,207 @@
+{
+ "company": "Yes Flooring",
+ "website_auto_discovered": true,
+ "website": {
+  "error": "403 Client Error: Forbidden for url: https://yesfloors.com/"
+ },
+ "products": {
+  "source": "search",
+  "items": [
+   "硬木",
+   "地垫/底垫",
+   "强化复合地板",
+   "瓷砖",
+   "石材"
+  ]
+ },
+ "importyeti": {
+  "hits": [
+   {
+    "title": "Yes Logistics",
+    "type": "supplier",
+    "country": "CN",
+    "address": "4-5F No 243 Sec 2 Chongqing N Rd Datong District",
+    "shipments": 47034,
+    "last_shipment": "27/08/2026",
+    "url": "https://www.importyeti.com/supplier/yes-logistics"
+   },
+   {
+    "title": "Kaindl Flooring",
+    "type": "supplier",
+    "country": "DE",
+    "address": "Kaindlstrasse 2 5071 Wals Austria Wals-Siezenheim 5071 At",
+    "shipments": 4158,
+    "last_shipment": "24/08/2026",
+    "url": "https://www.importyeti.com/supplier/kaindl-flooring"
+   },
+   {
+    "title": "Dsl Flooring",
+    "type": "supplier",
+    "country": "CN",
+    "address": "Building 1 Stella House Asparagus Way Vale Park Evesham Wr11 1Gn Uk",
+    "shipments": 3402,
+    "last_shipment": "27/08/2026",
+    "url": "https://www.importyeti.com/supplier/dsl-flooring"
+   },
+   {
+    "title": "Yes Optoelectronics",
+    "type": "supplier",
+    "country": "CN",
+    "address": "288 Yueling Road Lishan District Anshan Liaoning China114000",
+    "shipments": 910,
+    "last_shipment": "25/08/2026",
+    "url": "https://www.importyeti.com/supplier/yes-optoelectronics"
+   },
+   {
+    "title": "Cfl Flooring International",
+    "type": "supplier",
+    "country": "CN",
+    "address": "Suite 2006 20Th Floor 340 Queens Road Central Hong Kong Hong Ko Nigeriaex: 999077",
+    "shipments": 10222,
+    "last_shipment": "27/08/2026",
+    "url": "https://www.importyeti.com/supplier/cfl-flooring-international"
+   },
+   {
+    "title": "Cambodian Tropic Flooring",
+    "type": "supplier",
+    "country": "KH",
+    "address": "Building No C21-6 Sihanoukville Special Economic Zone Phum Pou Thoeun G Bet Trang Commune & Phum Smach De Ng Ream Commune Prey Nob \"\"",
+    "shipments": 8786,
+    "last_shipment": "27/08/2026",
+    "url": "https://www.importyeti.com/supplier/cambodian-tropic-flooring"
+   }
+  ],
+  "request_remaining": 0
+ },
+ "maps": {
+  "query": "Yes Flooring",
+  "address_hint": "",
+  "link": "https://www.google.com/maps/search/?api=1&query=Yes%20Flooring",
+  "geocode": {
+   "found": false
+  }
+ },
+ "company_info": {
+  "found": false,
+  "kind": "other"
+ },
+ "website_url": "https://yesfloors.com/",
+ "whois": {
+  "found": true,
+  "domain": "yesfloors.com",
+  "url": "https://rdap.org/domain/yesfloors.com",
+  "created": "2010-05-04",
+  "updated": "2025-11-20",
+  "registrar": "Wild West Domains, LLC",
+  "age_days": 5962,
+  "age_text": "5962 天（约 16 年）"
+ },
+ "links": {
+  "google": "https://www.google.com/search?q=Yes%20Flooring",
+  "opencorporates": "https://opencorporates.com/companies?q=Yes%20Flooring&utf8=%E2%9C%93"
+ },
+ "search": {
+  "Yes Flooring bill of lading": [
+   {
+    "title": "YES LOGISTICS CORP. | U.S. Import Activity",
+    "url": "https://www.importinfo.com/yes-logistics-corp",
+    "desc": "May 21, 2012 · View all 53,637 bills of lading and manifests for Yes Logistics Corp. located in Taipei City, Taiwan filed between May 21st, 2012 and Aug 21st, 2026."
+   },
+   {
+    "title": "Yes Flooring Contractors Imp data And Contact-Great Export Import",
+    "url": "https://en.52wmb.com/buyer/23842521",
+    "desc": "Bill of lading data Only shown the last 15 items, click more to check all Trade date 2024/12/12 B/L No. 7480010 Supplier madhu india deco ltd. Buyers yes flooring contractors POLs delhi air PODs san francisco, ca Supply "
+   },
+   {
+    "title": "Container Tracking | Bill of Lading Tracking | Shipment ...",
+    "url": "https://www.shipmentrack.com/",
+    "desc": "ShipmentTrack container cargo tracking for 80 shipping companies around the world, supports tracking and query services for bill of lading number/container number/booking number, and realizes visual cargo tracking servic"
+   },
+   {
+    "title": "Bill of Lading (BOL): The Complete Shipper's Guide for 2026",
+    "url": "https://www.freightfigures.com/articles/bill-of-lading-guide",
+    "desc": "Apr 19, 2026 · Everything shippers need to know about the bill of lading — types, how to fill one out correctly, common mistakes, LTL vs FTL differences, electronic BOLs, and how to avoid costly freight claims and reclas"
+   }
+  ],
+  "Yes Flooring import records customs data": [
+   {
+    "error": "RequestError: RequestError('error sending request for url (https://html.duckduckgo.com/html/) > tls handshake eof')"
+   }
+  ],
+  "\"Yes Flooring\" director OR CEO OR founder OR \"managing director\"": [
+   {
+    "error": "RequestError: RequestError('error sending request for url (https://html.duckduckgo.com/html/) > tls handshake eof')"
+   }
+  ],
+  "\"Yes Flooring\" email OR contact": [
+   {
+    "title": "Email Finder by ContactOut | Email Lookup",
+    "url": "https://contactout.com/",
+    "desc": "Most accurate email finder for personal and work email outreach. Email lookup, campaign tool, and AI writer. Get 10 credits free - no credit card required."
+   },
+   {
+    "title": "Contact us - Altro",
+    "url": "https://www.altro.com/us/about-us/contact-us",
+    "desc": "The easiest ways to contact us is by phone, email, or Twitter @AltroAmericas, we're always happy to talk to you wherever you are in the world."
+   },
+   {
+    "title": "Discount Flooring | Vinyl, Laminate, Hardwood & Tile | Efloors",
+    "url": "https://efloors.com/",
+    "desc": "Call 1-888-522-5456. Efloors.com offers big discounts and free shipping on most flooring: laminate, hardwood, bamboo, cork, vinyl and carpet tile, area rugs, underlayment. Shop for clocks, stone tile, and accessories."
+   },
+   {
+    "title": "Email Checker: Verify any Email Address Online (Free ...",
+    "url": "https://mailmeteor.com/email-checker",
+    "desc": "Verify any email address for free. Mailmeteor's Email Checker runs 15+ checks (syntax, disposable, MX, SMTP, catch-all) to confirm the address is real and deliverable — in seconds, no sign-up."
+   }
+  ],
+  "\"Yes Flooring\" whatsapp": [
+   {
+    "title": "Flooring Vaughan | Flooring Store | Yes Flooring & Reno",
+    "url": "https://yesflooringreno.com/",
+    "desc": "Explore quality flooring in Vaughan at a trusted flooring store in Vaughan. Shop vinyl, laminate, hardwood, tile and carpet, with expert local guidance."
+   },
+   {
+    "title": "Flooring Store Anchorage - Flooring Anchorage | Yes Floors",
+    "url": "https://yesfloors.com/",
+    "desc": "4 days ago · Yes Floors is the most trusted and reputable flooring brands with flooring store in Anchorage. Get the best selection of carpet, hardwood, laminate and more."
+   },
+   {
+    "title": "Yes Floors Reviews 2026 | Trustindex.io",
+    "url": "https://www.trustindex.io/reviews/yesfloors.com",
+    "desc": "Yes Floors is trusted by over 47 happy customers, earning a 5-star rating! Explore real reviews and share your own experience."
+   },
+   {
+    "title": "Yes Flooring (@yesflooring_mel) • Instagram photos and videos",
+    "url": "https://www.instagram.com/yesflooring_mel/",
+    "desc": "2,696 Followers, 66 Following, 200 Posts - Yes Flooring (@yesflooring_mel) on Instagram: \"Showroom open every Saturday 6/31-39 Norcal Rd, Nunawading VIC 3131 15years experience Supply&install all floorings James 04254806"
+   }
+  ]
+ },
+ "product_fit": {
+  "noav_fit_stars": 1,
+  "core_hits": [],
+  "positive_hits": [
+   "hardwood"
+  ],
+  "misfit_hits": [
+   "vinyl",
+   "laminate",
+   "tile"
+  ],
+  "hs_hit": false,
+  "reason": "产品线互斥(SPC/LVT/vinyl类): vinyl, laminate, tile; 命中泛木地板品类: hardwood",
+  "profile_version": "2026-08-29"
+ },
+ "score": {
+  "grade": "D",
+  "points": 3,
+  "max": 10,
+  "signals": [
+   "官网启用 HTTPS 加密",
+   "域名注册超过 1 年（可信度加分）",
+   "海关数据有出货/采购记录"
+  ],
+  "recommendation": "建议谨慎投入、先进一步核实"
+ }
+}
