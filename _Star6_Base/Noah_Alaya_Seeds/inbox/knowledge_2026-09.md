@@ -31,3 +31,33 @@
 - **利雅得「九月采购月」成型**：Big 5（8/30–9/2）→ Hotel & Hospitality Expo（9/13–15）→ INDEX Saudi（9/15–17），同一场馆（Riyadh Front）背靠背三展连击。建议发起「利雅得九月攻势」：合并三展展商名录做一次性筛选，按 Tier 分批触达——这是全年密度最高的买家聚集窗口。
 - **品牌住宅（Branded Residences）是当前 GCC 最热产品类型**：Miraval The Red Sea（8/30 记录）与 The Chedi Private Residences（本轮）先后进入采购窗口——建议建立「品牌住宅开发商 × 其 fit-out 承包商」映射清单，作为固定猎场。
 - **二线市场验证成功**：Havelock One（巴林）拿下沙特商业内装 + 巴林/科威特 parquet 经销商可见度上升，印证「GCC 二线竞争密度低、采购真实」的判断——上期建议的 Bahrain/Kuwait/Doha 专项扫描应固化为每周固定扫描源。
+
+## [2026-09-02] 商业情报速报
+
+### 🔥 高价值线索（可直接跟进）
+| # | 类别 | 公司/项目名 | 链接 | 关键信息 | 行动建议 |
+|---|------|-------------|------|----------|----------|
+| 1 | 供应商准入 | NEOM 官方供应商门户 | https://www.neom.com/en-us/our-business/suppliers | NEOM 2026 施工持续放量（The Line/Oxagon/Trojena 同步推进），官方供应商注册入口开放，是进入其 AVL/采购链的第一道正式通道 | ⏰ 本周内完成 NEOM 供应商注册（公司资质+产品目录打包提交），把定制拼花/工程拼花归类到 finishes-interior 类目 |
+| 2 | 供应商准入 | Red Sea Global Vendor Registration | https://www.redseaglobal.com/en/vendor-registration/ | RSG 官方 vendor 注册通道长期开放；其酒店群（Miraval 等品牌住宅 8/30 已记录进入采购窗口）的饰面材料采购走此入口 | 与 NEOM 注册同批完成；RSG 项目偏奢华度假定位，与 NOAH 高定拼花契合度最高，注册材料突出 hospitality 案例 |
+| 3 | 招标门户 | KSA Tenders Gate（沙特全国招标聚合平台） | https://ksatendersgate.com/ | 实时聚合沙特官方+私营部门招标、项目与商机，覆盖全海湾；可直接按 building materials / interior finishes 关键词订阅 | 设为固定扫描源：每周扫描一次 interior finishes / flooring 类新标，命中即入库 |
+| 4 | 合规窗口 | SASO/SABER 建材认证 2026 新规 | https://www.benna.com.sa/post/importing-building-materials-into-saudi-arabia-saso-requirements-and-compliance-guide | 2020 起沙特对建材强制 SASO 认证（SABER 平台 PCoC+SCoC 双证），2026 年流程与文件有更新；不合规=海关拒收+罚款+项目延期 | ⚠️ 高优先：核查 HS 4418 类木地板是否在 SASO Building Materials Part 1 强制清单内；若在，立即启动认证——「SABER-ready」将成为对竞品的先发销售卖点 |
+| 5 | 经销商渠道 | Parquet Floorings UAE（迪拜/阿布扎比） | https://parquetfloorings.ae/engineered-parquet-flooring/ | 专业工程拼花供应商，宣称 6000+ 安装案例、5000+ 客户，覆盖迪拜+阿布扎比——本地 parquet 零售/工程混合渠道成熟度超预期 | Tier 2：建档进经销商池，用「欧洲原产高定拼花+项目技术支持」话术触达，验证其进口货源缺口 |
+| 6 | 经销商渠道 | Shoukat Interior（迪拜） | https://shoukatinterior.ae/flooring/parquet/ | 供应 herringbone/chevron/Versailles/basketweave 全品类拼花，配免费设计咨询+上门测量+安装——品类宽度说明迪拜高定拼花需求已细分到 Versailles 级别 | Tier 2：批量建档触达；其品类结构是迪拜市场需求「价格带+花纹带」的真实样本，可用于定价参考 |
+| 7 | 别墅/私宅 | Rukn Al Wadi Furniture（UAE） | https://ruknalwadifurniture.ae/parquet-flooring-uae-the-2026-ultimate-guide-to-luxury-wood-interiors/ | 发布《2026 Parquet Flooring UAE 终极指南》：主推别墅场景 herringbone/chevron，强调 72 小时养生+防潮底层工艺——别墅零售端教育内容已成形 | Tier 3：纳入别墅开发商/家具商交叉渠道；其内容说明 UAE 别墅 parquet 认知已成熟，可借势做品牌内容合作 |
+
+### 📊 市场情报（趋势参考）
+- **区域**: 中东 / GCC / 沙特
+- **内容**:
+  - 中东木地板市场 2025 年 $60 亿 → 2031 年 $80 亿（CAGR 6.8%，Ken Research），驱动力为住宅/商业建设扩张及对工程拼花、认证环保产品的偏好提升。
+  - GCC 铺地材料市场 2026 年 $38 亿 → 2035 年 $66.4 亿（CAGR 6.4%）；酒店建设加速直接拉动采购量，且沙特建筑规范（SBC）对内装材料防火等级要求收紧——防火认证将成为木地板投标的硬门槛（MarkWide Research）。
+  - SASO 认证自 2020 年强制化后持续加码，2026 年更新流程与文件要求；建材不合规货物海关拒收已成常态——认证能力正在从「合规项」变成「竞争壁垒」。
+
+### 🏆 竞品动态
+- **Foglie d'Oro**：登陆 Salone del Mobile 2026（与 Arte Brotto 联合），主题「SHAPED over TIME」；招牌产品 Diamante Chic（65+ 木元素手工几何拼花）持续作为品牌图腾。更重要的是其 **Relevo 系列墙面 3D 模块板**（胡桃/橡木，可与金属、大理石组合）——拼花头部品牌已明确向「垂直面/家具化」品类延伸，木地板公司正在变成木饰面公司。
+- **Foglie d'Oro USA**：美国子公司主打 20 英寸超宽板+Chevron/Herringbone/设计嵌板，欧洲拼花品牌以自营子公司模式直插北美高端市场。
+- **Bisazza**：以基金会（Fondazione Bisazza）常设展+临时展（设计/建筑/摄影）持续经营品牌文化资产——「品牌即文化机构」打法，值得长线借鉴。
+
+### 💡 洞察/启发
+- **SASO/SABER 是当前最高杠杆动作**：GCC 市场需求侧持续放量（$38→66 亿），但认证门槛同时抬高。若 NOAH 在竞品之前完成木地板 SASO 认证，即持有「海关直通」卖点——沙特进口商最怕的就是货物压港。建议本周出认证可行性评估（费用/周期/测试项）。
+- **品类延伸信号**：Foglie d'Oro 的 Relevo 墙面系列验证了「拼花→木饰面墙板」的产品扩张路径；NOAH 的定制拼花工艺可直接复用到墙面嵌板，进入 fit-out 公司的墙面材料清单（客单价↑、与地板打包交付）。
+- **迪拜 parquet 零售端已成熟到「全品类+内容营销」阶段**：本地经销商自行发布选购指南、强调养生/防潮工艺——说明终端教育已由渠道完成，NOAH 无需从零教育市场，直接以「欧洲原产+定制能力」切入现有渠道即可。
