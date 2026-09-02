@@ -61,3 +61,35 @@
 - **SASO/SABER 是当前最高杠杆动作**：GCC 市场需求侧持续放量（$38→66 亿），但认证门槛同时抬高。若 NOAH 在竞品之前完成木地板 SASO 认证，即持有「海关直通」卖点——沙特进口商最怕的就是货物压港。建议本周出认证可行性评估（费用/周期/测试项）。
 - **品类延伸信号**：Foglie d'Oro 的 Relevo 墙面系列验证了「拼花→木饰面墙板」的产品扩张路径；NOAH 的定制拼花工艺可直接复用到墙面嵌板，进入 fit-out 公司的墙面材料清单（客单价↑、与地板打包交付）。
 - **迪拜 parquet 零售端已成熟到「全品类+内容营销」阶段**：本地经销商自行发布选购指南、强调养生/防潮工艺——说明终端教育已由渠道完成，NOAH 无需从零教育市场，直接以「欧洲原产+定制能力」切入现有渠道即可。
+
+## [2026-09-03] 商业情报速报
+
+### 🔥 高价值线索（可直接跟进）
+| # | 类别 | 公司/项目名 | 链接 | 关键信息 | 行动建议 |
+|---|------|-------------|------|----------|----------|
+| 1 | 供应商准入 | Qiddiya 官方供应商注册门户 | https://qiddiya.com/contact/vendor/ | Qiddiya 供应商注册入口开放，明确征集项目合作意向（含现有供应商支持体系）；SVH 3月分析确认 Diriyah/Qiddiya 是当前沙特施工最活跃的两大超级工程 | ⏰ 本周与 NEOM（9/2 已记录）+ RSG 注册同批打包提交，产品归入 hospitality finishes 类目——至此三大超级工程注册「三件套」齐全 |
+| 2 | 绿色招标 | NEOM $4B 绿色建材国际标扩容 | https://www.hgiron.com/materials/eco-polymers/NEOM-Adds-4B-Green-Materials-Tender-Chinese-Eco-Polymers-Firms-Prequalified.html | 6月13日 NEOM 将绿色建材国际标扩容 $40 亿，聚焦生物基材料/可再生聚合物，多家中国企业已入围——绿色认证正成为 NEOM 采购的显性门槛 | Tier 1：准备 FSC/PEFC + EPD 绿色材料档案；跟进已入围中资总包的材料供应缺口，以「认证拼花饰面供应商」身份切入其分包链 |
+| 3 | 品牌住宅 | Diriyah「Trump Mansions」$9,000 万授标（6月，本轮补录） | https://www.constructionweeksaudi.com/gigaprojects/diriyah-gate | Diriyah 6月授出 Trump 品牌豪宅包 $9,000 万（6/18）+ Red Sea Unit 分包 $9,400 万（6/23）；叠加 9/1 已录的 Waldorf Astoria 超级地块，Diriyah 品牌住宅/酒店板块密集放量 | Tier 1：锁定 Trump Mansions 总包采购链，主包进场后 6–12 个月为饰面预招窗口；并入 9/1「品牌住宅开发商 × fit-out 承包商」映射清单 |
+| 4 | 扫描源 | SaudiGulf Projects · NEOM/超级工程分类页 | https://www.saudigulfprojects.com/category/neom/ | NEOM 基建合同/招标公告/投资合作动态聚合页，本扫描时点 23 小时前刚更新——数据新鲜度高 | 设为固定扫描源：每周扫一次 NEOM/Diriyah/Qiddiya 分类页，命中新材料/内装类授标即入库 |
+| 5 | 设计守门人 | AW² Architecture Workshop（巴黎，沙特首作已落地） | https://www.aw2.com/en/design-middle-east-ashar-tented-resort/ | 巴黎奢华度假酒店建筑事务所 AW² 首个沙特建成项目 Ashar Tented Resort，「back to basics」自然材质叙事——欧洲高端度假设计力量正进入沙特 | Tier 2：邮件+作品集触达其巴黎本部，主打「定制拼花×奢华度假酒店」；同类欧洲事务所可按此模板批量挖掘（S-02×I-02 组合） |
+| 6 | 材料标准师 | Dar Al-Handasah 材料规格/规范团队 | https://jo.linkedin.com/in/kareemqaisi | 区域头部设计咨询公司 Dar Al-Handasah 设有专职 Interior Specifications Writer（认证国际规范师）——其材料库/规范文本直接决定区域大型项目用材 | Tier 2：以「进入其材料库」为目标，寄送样品册+技术档案（EN + SASO 双认证背书）；此身份词验证「materials specifier」打法的可行性 |
+| 7 | 商业内装 | Designsmith（UAE/印度/KSA 三地布局） | https://designsmith.ae/ | 高端 construction & fit-out 公司，数十年经验覆盖商业/住宅/酒店/F&B/塔楼项目，UAE+KSA 双市场在手 | Tier 2：建档触达，主推「商业空间预饰面拼花+快速安装」话术（匹配沙特新建采购偏好） |
+| 8 | 别墅/私宅 | Antonovich Design（迪拜） | https://antonovich-design.ae/ | 全案豪华别墅交付商：建筑+定制内装+持证施工+家具供应一站式，迪拜及全球市场 | Tier 3：纳入别墅渠道清单，拼花作为其别墅整装选材；与 9/2 Rukn Al Wadi 等别墅渠道合并季度跟进 |
+| 9 | 本地木作 | No.7 Factory（吉达） | https://no7factory.com/ | 吉达家族木作坊（2018 年起），定位高端定制细木工——沙特本地定制木作生态正在成熟 | Tier 3：定位为本地安装/收口合作方而非竞争者；深挖吉达木作/内装圈层可为 NOAH 落地交付补齐「最后一公里」 |
+
+### 📊 市场情报（趋势参考）
+- **区域**: GCC / 沙特
+- **内容**:
+  - GCC 铺地材料市场 2026 年 $38 亿 → 2035 年 $66.4 亿（CAGR 6.40%），酒店建设加速直接拉动铺地材料采购量（MarkWide Research）——与 9/1 全球拼花 $629→1,102 亿数据互为印证。
+  - 沙特新建项目采购正转向「标准化打包 + 工厂预饰面 + 快速安装模块」（Mordor Intelligence 7/31 沙特铺地材料报告）——工厂成品化交付能力正在成为投标硬指标。
+  - 沙特 HS 4418（木制拼花/建筑木作）进口占总进口 0.031%（2021 基线约 $4,700 万/年，Trendeconomy）；Cybex HS 441875 全球报关数据可挖——规模属利基但数据可验证，可作为进口商名单挖掘抓手。
+
+### 🏆 竞品动态
+- **Listone Giordano**：Atelier 系列仍为其手工艺叙事旗舰（heritage filigrana / traccia / filo di lama 手工表面工艺）；本轮未捕捉到新品发布——但其「Atelier 工坊叙事」与 NOAH「高定拼花」定位重叠度最高，建议列入重点监控对象。
+- **Parador / Foglie d'Oro**：本轮未捕捉到新动态（搜索后端间歇超时，已安排下轮补扫）。
+
+### 💡 洞察/启发
+- **超级工程供应商注册「三件套」今日集齐**：NEOM（9/2）+ Red Sea Global（9/2）+ Qiddiya（本轮）。建议一次性打包提交，三份材料档案统一主打「FSC 认证 + SASO 合规 + 工厂预饰面」三卖点，注册完成前不启动对三大业主的直销动作（避免绕过采购流程进黑名单）。
+- **绿色认证正在从加分项变成投标门槛**：NEOM $4B 绿色建材标扩容 + 多家中企入围说明业主方对可持续材料的采购偏好已制度化——FSC/EPD 档案是当前性价比最高的投标入场券，建议与 SASO 评估（9/2 记录）合并出一份「认证路线图」。
+- **双话术分层成型**：沙特新建偏好「工厂预饰面+快速安装」（Mordor）→ 商业/fit-out 渠道话术主打成品化交付；高定手工叙事保留给 hospitality/品牌住宅渠道（Diriyah Trump Mansions、AW² 度假项目）。同一条产品线，两套语言，两类买家。
+- **利雅得九月窗口倒计时**：Hotel & Hospitality Expo（9/13–15）+ INDEX Saudi（9/15–17）两周内开幕，三展合并名录筛选（9/1 建议的「利雅得九月攻势」）应在本周完成首轮名单产出。
