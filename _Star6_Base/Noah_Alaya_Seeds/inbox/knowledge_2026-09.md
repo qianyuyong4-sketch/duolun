@@ -1,40 +1,37 @@
-# Noah Knowledge Inbox — 2026-09
+# Noah Alaya Seeds · 知识采集编译
 
-> 信源：web_search 摘要采集（web_extract 后端当日不可用，未做全文深挖）
-> 过滤：排除字典已加载（Company 黑名单 6 组 / Domain 黑名单 2 项 / Industry 排除标签 5 类）
-> 脏数据拦截：Floorworld（酒店地板项目页）命中公司名黑名单 → 已丢弃
+> 每日情报编译存档。由中东猎手 cron job 自动写入。
 
-## [2026-09-04] 商业情报速报
+## [2026-09-05] 商业情报速报
 
 ### 🔥 高价值线索（可直接跟进）
 
 | # | 类别 | 公司/项目名 | 链接 | 关键信息 | 行动建议 |
 |---|------|-------------|------|----------|----------|
-| 1 | 基建招标 | Diriyah Company — SAMoCA 当代艺术博物馆 | https://www.arabianbusiness.com/abnews/saudi-awards-490m-museum-contract-as-63-2bn-diriyah-project-drives-culture-jobs-tourism | $490M（SAR 1.84bn）博物馆合同已授出；$63.2bn Diriyah 项目加速；2 月沙特 4 份大合同中 2 个为 Diriyah 地标项目 | 锁定博物馆总包与 fit-out 分包，文化场馆是拼花/木作天然场景；下一步背调中标方 |
-| 2 | fit-out 承包商 | Havelock One Interiors（巴林） | https://www.havelockone.com/ | 52 万 sqft 巴林自建工厂；Jumeirah Gulf of Bahrain 196 房度假村 turnkey 内装（9000+ 件 FF&E）；业务扩展迪拜（La Mer/Dubai Mall）与 Al Khobar；2026-05 发布豪华住宅作品集 | Tier 2：以定制 engineered parquet 切入其 FF&E/木作供应链；LinkedIn + 邮件触达 |
-| 3 | 地板经销商 | Greenwood（迪拜） | https://greenwood.ae/portfolio/ | 迪拜本地实木地板 + WPC 供应商，官网明示服务全中东豪华别墅与酒店项目 — 渠道开放型 | 立即询盘 + 寄 herringbone/chevron 样册，验证 HS 4418740090 进口意向 |
-| 4 | 酒店承包商 | HTS Interiors（迪拜） | https://htsinteriors.com/service/hotel-fit-out/ | 200 万+ sqft 酒店内装交付记录，13 年经验 | Tier 2/3：邮件 + 季度培育 |
-| 5 | 内装承包商 | Sammour Group（中东多国） | https://sammourgroup.com/ | 覆盖住宅/商业/零售的 luxury fit-out，多国布局 | Tier 3：季度培育 |
-| 6 | 内装承包商 | Pacific Fitout | https://pacificfitout.com/ | 总统套房/宴会厅手工艺内装、摩洛哥风别墅翻新 — 高端酒店+别墅场景完全匹配 | Tier 3：LinkedIn 触达，纳入孵化管线 |
-
-注：当日搜索后端不稳定，以上线索的决策人姓名/邮箱未采集到，跟进前需逐家背调补全。
+| 1 | 基建招标 | Diriyah Company · Grand Avenue / Diriyah Square 零售区 | https://www.diriyahcompany.sa/en/retail | 已授标超 $320 亿，Grand Avenue、Qurain 文化区、媒体与创新区、Diriyah Square 全面进入建造期；MEED（7/22）确认 Diriyah 加速交付大型零售与商业目的地，fit-out 专家、设计师、供应商机会正在扩大 | 立即通过 Diriyah Company 官网 Partners 页完成供应商注册；锁定 Grand Avenue 奢侈品零售区 fit-out 总包名单，以「定制拼花 + Najdi 风格融合」话术切入 |
+| 2 | 基建招标 | Qiddiya · F1 Viewing Lounge / Dragon Ball 主题乐园 | https://www.constructionweeksaudi.com/gigaprojects/qiddiya | El-Seif 中标 F1 Viewing Lounge 合同（7/6）；Dragon Ball 主题乐园包件 7 月重新招标（MEED 7/24）；Qiddiya Rail 招标预计 9 月出结果 | 监控主题乐园类「themed leisure interiors」包件——此类项目用定制拼花做沉浸式场景地面，是马赛克拼花的天然场景；跟踪 El-Seif 等中标商的分包需求 |
+| 3 | 供应商准入 | Red Sea Global (The Red Sea + AMAALA) | https://www.redseaglobal.com/en/portfolio/amaala/ | AMAALA 一期 2027 年完工在即，1,945 间酒店客房 + 430 套住宅——精装与 FF&E 采购窗口就在当下而非明年；RSG 供应商注册需对标 Saudi Aramco Suppliers Code of Conduct | 在 RSG Procurement Portal 完成供应商注册；提前准备 Aramco Code of Conduct 合规文件与财务资料；瞄准 AMAALA Triple Bay 超豪华度假村精装地面包件 |
+| 4 | 渠道线索 | ebarza（迪拜 Palm Jumeirah Mall + 阿布扎比 Yas Mall 双展厅） | https://www.ebarza.com/blogs/news/where-to-buy-parquet-flooring-in-dubai-and-abu-dhabi-in-2026 | 家具零售商，2026 年起售拼花品类：SPC 拼花、天然橡木贴面板、双色实木板、 engineered 拼花；支持线上下单 + 全 UAE 安装 | Tier 2 线索：以「差异化定制拼花（非 SPC 标品）」向其采购负责人建立联系；注意其现有 SPC 拼花为低价位带，NOAH 应卡位 engineered 定制层 |
+| 5 | 渠道线索 | Greenwood UAE（迪拜拼花/实木地板供应商） | https://greenwood.ae/ | 主营 parquet flooring + wood flooring，面向住宅与商业项目提供供应+安装 | Tier 2-3 线索：作为迪拜本地安装/分销渠道评估；背调其客户结构后决定是否列为客开对象 |
+| 6 | 准入情报 | Diriyah 供应商注册新规 | https://motaded.com.sa/blog/diriyah-projects-2026-vendor-registration-investment-sovereignty-motaded | 2026 年起 Diriyah 供应商需经 SAMA 监管下的银行信用审查，确认无财务违约方可进入主权项目流程 | 内部动作：整理 NOAH 财务审计报告、银行资信证明，预审通过后再正式提交注册，避免浪费准入窗口 |
 
 ### 📊 市场情报（趋势参考）
-
-- **区域：GCC（沙特为主）**
-- 沙特地材市场：USD 3.5bn（2025）→ USD 7.1bn（2034），CAGR 7.82%（IMARC Group）
-- 沙特木地板+强化地板细分：2030 年达 US$ 824.6M，2025-2030 CAGR 8.2%（Grand View Research）；沙特是中东最大木地板市场（6Wresearch）
-- GCC 授标热度：2026 年 7 月主要项目授标超 $67bn；8 月锚点是 UAE 天然气加工超 $10bn 巨单 + 沙特 AI 数据中心/储能（SaudiGulf Projects 月报）
-- 沙特承包市场持续放量（SCA 月报口径）：2 月 SAR 2.8bn（Diriyah 领跑）→ 3 月 SAR 15.7bn（11 项目）→ 5 月 SAR 30bn — 授标节奏逐月走高，建材采购窗口前移
-- 迪拜 2026：11 个新豪华酒店项目在册（8 个在建），Kerry Hill Architects 为项目数第一的设计方（Market of Tomorrow 追踪页）
+- **区域**: 沙特全境
+- **内容**: 
+  - MEED Projects：2026 上半年沙特项目总盘 $2.07 万亿，同比 +9.38%，创历史新高
+  - 沙特零售市场规模 2026 年预计突破 $2,000 亿；TMW Intelligence 追踪到 4 个新零售项目、3 个在建——零售 fit-out 需求密集释放
+  - Bayt.com 9 月在招 Saudi interior fit-out 岗位 20+，用工市场印证 fit-out 行业景气度上行
 
 ### 🏆 竞品动态
-
-- **Listone Giordano**：2025 年 10 月 Glue Festival 期间在阿姆斯特丹 Keizersgracht 447 开设新旗舰 Hub，主打 Piero Lissoni 与 Marc Sadler 系列延续「Arena = 文化客厅」模式 — 欧洲高端拼花正以「文化空间型展厅」扩张品牌势能
-- **Foglie d'Oro**：官网 news 页活跃；发布新系列「SHAPED」（21 个注册设计），定位 artisanal excellence + bespoke design + sustainable innovation，持续以注册设计做 IP 壁垒
+- **Kährs**: 时隔 8 年重返 Domotex 2026（主题「Kährs 360° – From Home to Healthcare」，MENA 行业媒体 menacovering 重点报道）；Q1 2026 订单额 +10%，在手订单创两年新高，欧洲与北欧新开工明显回暖 → 意味着 Kährs 正重启国际扩张，中东是其可能补位市场
+- **Parador**: Harmonia engineered 系列获 2026 红点奖；Modular ONE Herringbone 入围 Architizer A+ 奖决赛；4 月全球发布 Taterra 无 PVC 弹性地板 → 人字拼 + 可持续认证双线推进，是 GCC 项目招标中 NOAH 最常相遇的对手
+- **Listone Giordano**: 参展 EuroShop 2026（2/22-26，全球零售与 contract 设计第一展）；米兰设计周与 Seed Festival 合作艺术装置；热那亚新 Arena 展厅（与 FIDRA 合资）；阿姆斯特丹、马德里新概念店 → 零售/contract 渠道全面加码，而 GCC 商场与奢侈品零售 fit-out 买家正是 EuroShop 观展主力
+- **Bauwerk Parkett**: 与瑞士 atelier oï 联名新拼花系列开发中；Bauwerk Group 8 月被 FCN 专题报道（美国 Somerset 代工合作深化）
+- **价格带情报**: 英国 Grosvenor Flooring 横评指出 Kahrs Life Authentic Herringbone 是英国市场定价最锐利的高端人字拼，Parador Trendtime 3 是唯一跨 engineered/SPC/laminate 三工艺提供同花色人字拼的品牌
 
 ### 💡 洞察/启发
-
-- **文化场馆 = 拼花地板新场景**：Diriyah SAMoCA 博物馆授标说明沙特文化基建进入密集落地期。用「场景+身份」搜法：`museum contractor Saudi + interior materials specifier`，比产品词精准一个数量级
-- **展厅模式存在 GCC 空白**：Listone Giordano 的欧洲 Hub 模式在中东尚无对标 — 与迪拜设计区（d3）或利雅得 showroom 合作做「文化客厅」或是 NOAH 差异化打法
-- **节奏建议**：沙特授标量逐月放大 → 材料采购通常滞后授标 2-4 个季度，Q4 起应对 3-5 月授标的文旅类项目做集中开发
+- **Diriyah Grand Avenue 是当前单一最肥拼花机会**：奢侈零售 + Najdi 传统设计叙事，天然适配「手工拼花 + 地域纹样定制」组合拳；fit-out 供应商注册窗口正开，行动优先级排第一
+- **AMAALA 的采购窗口是 2026 而非 2027**：2027 年完工意味着精装/地面包件今年就在定标——不要被「开业年份」误导延迟跟进
+- **人字拼已是红海，马赛克/艺术拼花才是差异位**：Kahrs、Parador 都把 herringbone 当主打，NOAH 应避开标品人字拼价格战，主打 marquetry/mosaic 定制 + 酒店级 engineered 稳定性叙事
+- **准入文件前置**：RSG 要 Aramco Code of Conduct、Diriyah 要 SAMA 银行信用审查——建议把「GCC 主权项目准入文件包」整理成标准动作，一次备齐多处复用
+- **EuroShop 启示**：GCC 零售 fit-out 决策人出现在 EuroShop 而非地面材料展——未来营销预算可考虑面向 retail contract 场景的展会与内容投放
