@@ -35,3 +35,38 @@
 - **人字拼已是红海，马赛克/艺术拼花才是差异位**：Kahrs、Parador 都把 herringbone 当主打，NOAH 应避开标品人字拼价格战，主打 marquetry/mosaic 定制 + 酒店级 engineered 稳定性叙事
 - **准入文件前置**：RSG 要 Aramco Code of Conduct、Diriyah 要 SAMA 银行信用审查——建议把「GCC 主权项目准入文件包」整理成标准动作，一次备齐多处复用
 - **EuroShop 启示**：GCC 零售 fit-out 决策人出现在 EuroShop 而非地面材料展——未来营销预算可考虑面向 retail contract 场景的展会与内容投放
+
+## [2026-09-06] 商业情报速报
+
+> 排除字典已加载（asdevelop.org/com、FloorWorld、Wood Floors Middle East、Indus、Bostik/Gerflor/Vinifloor、nonprofit/NGO 类），全部线索已过筛。
+
+### 🔥 高价值线索（可直接跟进）
+
+| # | 类别 | 公司/项目名 | 链接 | 关键信息 | 行动建议 |
+|---|------|-------------|------|----------|----------|
+| 1 | 酒店项目 | The Red Palace Riyadh（Boutique Group，PIF 旗下） | https://theopeninglist.com/hotel/the-red-palace-riyadh | 70+ 间客房 + 8 间 spa suite + 5 餐厅的宫殿式超豪华酒店，2025 年底进度 60%，目标 2026 年 Q2/初夏开业；Aedas Middle East 主创设计 | 开业窗口收紧，FF&E/精装尾部包件正在收尾定标——立即背调 Boutique Group 采购与项目团队，以「heritage 宫殿内饰 + 手工拼花」叙事直接触达 |
+| 2 | 酒店项目 | Al Hamra Palace Jeddah（Boutique Group） | https://hoteliersingulf.com/al-hamra-palace-jeddah-ultra-luxury-boutique-hotel-transformation | 吉达滨海历史王宫改造为超豪华精品酒店：90+ 豪华套房与别墅、spa、高端餐饮；2026 年 2 月官方报道推进中（OBMI 参与 repositioning 设计） | 与 Red Palace 打包跟进：Boutique Group 一家客户对应三座宫殿酒店（含 Al Yamamah），建立一次覆盖整个宫殿酒店产品线 |
+| 3 | 基建-总包中标 | Qiddiya Racecourse 赛马场（Taj Dhabi / Trojan Construction） | https://www.mepmiddleeast.com/business/contracts/qiddiya-contract-riyadh-racecourse | QIC 授标 SAR4.3bn（$1.1bn）给 Taj Dhabi 建造 1.3M sqm 专业赛马场；配套看台、会员贵宾区、接待设施 | 联系 Taj Dhabi 项目采购部，瞄准贵宾俱乐部/接待区精装地面包件；赛马俱乐部场景适配高端定制拼花 |
+| 4 | 基建-总包中标 | Diriyah Pendry Superblock NW（Diriyah Gate II） | https://gulfconstructiononline.com/ArticleTA/389954/diriyah-awards-$666m-pendry-superblock-package-deal | SAR2.5bn（$666m）授标，含 Pendry Hotel Diriyah + 豪华住宅与商业资产，面积 75,000 sqm（2026 年 3 月授标） | 主体结构在建→精装/FF&E 包件将于 2026H2-2027 释放；识别中标 GC 并加入其分包与供应商名单，提前递交拼花样板资料 |
+| 5 | 酒店项目 | Raffles Jeddah（Accor） | https://hoteliersingulf.com/raffles-jeddah-red-sea-luxury-hotel-opening-2026 | 滨海双子塔：182 间客房 + 120 套品牌公寓，2026 年开业，私人露台 + 红海景观定位超豪华 | 通过 Accor 采购/业主方联系内装团队，主推酒店级 engineered 拼花（客流耐磨 + 声学基底方案） |
+| 6 | 渠道线索 | AACC（沙特高端内装 finishing 承包商） | https://aacc.co/about-us/ | 专营宫殿、酒店、VIP 别墅、博物馆、商业中心内装精装，覆盖吉达与利雅得——正好卡在 palace-hotel 赛道 | Tier 2：背调其项目履历与客户结构，评估作为利雅得/吉达精装分包渠道伙伴（绕过总包直触业主） |
+| 7 | 渠道线索 | Alriyadah Flooring（吉达地板承包商） | https://alriyadahflooring.com/ | 面向酒店/医院/办公/住宅供料+自有班组安装，木地板在列，贸易价供料 | Tier 3：本地执行/安装渠道候选，先背调客户结构再决定是否客开 |
+
+### 📊 市场情报（趋势参考）
+- **区域**: 沙特 / GCC 全境
+- **内容**:
+  - Q-Express 高速铁路 9 月正式招标：连接利雅德新机场、KAFD 与 Qiddiya（30 分钟直达）——车站枢纽精装为外围监测机会（https://www.constructionweeksaudi.com/projects-tenders/qiddiya-q-express-high-speed-rail-tender-september-2026）
+  - GCC 地板市场 2026 年 $68 亿 → 2035 年 $118.8 亿（CAGR 6.4%）；其中地面铺装材料细分 $38 亿 → $66.4 亿；迪拜与利雅得酒店建设加速拉动 engineered 高端面层选型；UAE 建筑节能规范收紧 IAQ/VOC 要求——利好低排放实木与水性涂装叙事
+  - 主权项目战略再校准：MEED 记分卡显示 NEOM 部分范围暂停，而 Diriyah、Qiddiya、Red Sea Global 三线持续推进（Diriyah 2026H1 新签合同+投资超 SAR4.9bn；Qiddiya 7 月连发大标）——客户开发火力应向这三线集中
+
+### 🏆 竞品动态
+- **Mohawk Industries**: 8 月底在 Edge Summit 预热 2027 年 RevWood / Karastan / TecWood 新品，主打 premium 硬质面层——美国工程渠道整体 premium 化，2027 年进口定制拼花竞争将加剧
+- **Bjelin**: Woodura Herringbone 系列主打抗冲击+防水 + 北欧色系两种规格，以「免维护工程人字拼」卡位酒店与商业项目——GCC 投标中会遇到的技术话术对手
+- **DOMOTEX 2026 Green Collection** 连续第三届成为展会主题板块——可持续/循环材料已从卖点变为准入门槛，GCC 招标 ESG 条款将跟进
+- Foglie d'Oro / Listone Giordano / Bauwerk / Parador / Kährs：今日未发现新动态（上期 9/5 报告内容仍为最新）
+
+### 💡 洞察/启发
+- **Boutique Group 是被低估的黄金客户**：一家 PIF 子公司掌控 Red Palace、Al Hamra、Al Yamamah 三座宫殿酒店产品线，全部是「heritage 叙事 + 超豪华内饰」——这正是手工拼花/马赛克拼花的完美场景。建议本周内为 Boutique Group 建专项背调档案，定位其采购决策链（PIF 采购体系内）
+- **资源重配**：NEOM 减速信号已明确，把 GCC 猎手的主要搜索权重从 NEOM 模板切换到 Diriyah（Grand Avenue/Pendry 超级街区）+ Qiddiya（赛马场/主题乐园）+ RSG（AMAALA 精装窗口）
+- **Palace-hotel 赛道是 NOAH 与 Foglie d'Oro 等欧洲竞品的正面战场**：欧洲品牌走设计师渠道，NOAH 可用 AACC 类本地精装承包商 + 直接业主触达形成差异化通路
+- **竞品 premium 化验证方向正确**：Mohawk、Bjelin 都在把工程地板往高端酒店/商业拉，NOAH 的定制拼花卡位正处于行业上行带，无需调整定位
