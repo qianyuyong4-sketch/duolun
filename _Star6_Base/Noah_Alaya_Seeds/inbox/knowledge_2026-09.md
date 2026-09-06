@@ -70,3 +70,37 @@
 - **资源重配**：NEOM 减速信号已明确，把 GCC 猎手的主要搜索权重从 NEOM 模板切换到 Diriyah（Grand Avenue/Pendry 超级街区）+ Qiddiya（赛马场/主题乐园）+ RSG（AMAALA 精装窗口）
 - **Palace-hotel 赛道是 NOAH 与 Foglie d'Oro 等欧洲竞品的正面战场**：欧洲品牌走设计师渠道，NOAH 可用 AACC 类本地精装承包商 + 直接业主触达形成差异化通路
 - **竞品 premium 化验证方向正确**：Mohawk、Bjelin 都在把工程地板往高端酒店/商业拉，NOAH 的定制拼花卡位正处于行业上行带，无需调整定位
+
+## [2026-09-07] 商业情报速报
+
+> 排除字典已加载（域名黑名单 asdevelop/floorworld/woodfloors.ae、公司名黑名单、行业排除标签 nonprofit/NGO 类），全部线索已过筛，无一命中。
+
+### 🔥 高价值线索（可直接跟进）
+
+| # | 类别 | 公司/项目名 | 链接 | 关键信息 | 行动建议 |
+|---|------|-------------|------|----------|----------|
+| 1 | 基建-总包中标 | Diriyah SAMoCA 沙特当代艺术博物馆（Hassan Allam × Albawani JV） | https://www.diriyahcompany.sa/en/news/diriyah-company-awards-490-million-construction-contract-for-the-iconic-saudi-arabia-museum-of-contemporary-art-samoca | Diriyah Company 授标 $490M（SAR 1.84bn）给 Hassan Allam Construction Saudi + Albawani 联合体（4/26 官宣，SPA 同步）；系 $63.2bn Diriyah 巨型项目中的旗舰文化地标 | 博物馆 = 高标准精装地面场景；背调两家 JV 的采购与分包架构，以「文化场馆级定制拼花 + 高耐磨 engineered」递交资质与样板 |
+| 2 | 供应商准入 | Red Sea Global 供应商注册（The Red Sea + AMAALA 双项目） | https://www.redseaglobal.com/en/vendor-registration/ | RSG 供应链覆盖 hospitality fit-out、建材、logistics 等数百个 specialist categories；注册入口常开，需对标 Aramco Suppliers Code of Conduct（mhk-services 6 月注册指南确认） | 完成 RSG Procurement Portal 注册并勾选 flooring/fit-out 品类；合规文件包（Aramco CoC + 财务资信）一次备齐，9/5 报告的 AMAALA 采购窗口判断不变 |
+| 3 | 渠道线索 | Havelock One Interiors（沙特精装承包商，Riyadh/Jeddah/Red Sea 三办公室） | https://www.havelockone.com/ksa | KSA 头部 fit-out 公司之一，办公室直接设在 Red Sea 区域——天然贴着 RSG/AMAALA 项目群 | Tier 2：背调其酒店 fit-out 履历与在手项目，评估作为 RSG 体系的拼花供应通道（借其 fit-out 资质进场） |
+| 4 | 渠道线索 | KSA 酒店 fit-out 承包商池（Volant 等 Top10 榜单） | https://volant-fitout.com/blog/top-10-hotel-fit-out-companies-saudi-arabia/ | Vision 2030 酒店供给扩张下，品牌标准合规、采购风险、开业日期都押在 fit-out 承包商身上——榜单即采购链地图 | 用该榜单建立 KSA 酒店 fit-out 承包商名单库，按 Tier 分级批量背调，锁定 3-5 家作客开对象 |
+| 5 | 渠道线索 | LUMI Interiors（迪拜 Palm Jumeirah 高端工作室） | https://lumi-interiors.com/ | 获奖高端住宅室内设计工作室，覆盖 Dubai/London/Dallas，Palm Jumeirah 设新展厅——超豪华住宅客群入口 | Tier 2：以「别墅级定制拼花 + 人字/鱼骨定制花色」向其设计团队建立联系，Palm Jumeirah 客群客单价与 NOAH 定位匹配 |
+| 6 | 渠道线索 | CK Architecture Interiors（迪拜超豪华 design-and-build） | https://ckarchitecture.com/journals/luxury-interior-design-companies-in-dubai | 迪拜超豪华设计+施工一体化，覆盖别墅、顶层公寓、豪车展厅、高端商业——design-and-build 模式意味着材料选型话语权在自家 | Tier 2：直接触达其材料/采购负责人，其 villa 与 showroom 项目可用定制拼花打样切入 |
+
+### 📊 市场情报（趋势参考）
+- **区域**: 沙特 / GCC
+- **内容**:
+  - IMARC：沙特地板市场 2025 年 $3.5bn，2026-2034 CAGR 7.82%（https://www.imarcgroup.com/saudi-arabia-flooring-market）
+  - IndexBox 2026 报告：沙特 parquet flooring 市场正经历结构转型，驱动力为经济多元化与城市开发议程，预测期至 2035——拼花细分在大盘之外独立走强
+  - 结构性反差信号：6Wresearch 数据显示沙特广义 wood flooring 市场 2025-2029 增速在 -0.2%~0 区间徘徊，而地板总盘 CAGR 7.8%+——增量向 engineered/premium/拼花迁移，标品实木滞涨
+  - 沙特 2026 建筑总盘收缩：合同授标额已跌破 2024 年一半，PIF 削减资本承诺（MEInsider 3 月）——与 9/6 报告「火力向 Diriyah/Qiddiya/RSG 三线集中」判断互证
+
+### 🏆 竞品动态
+- **Foglie d'Oro**: Salone del Mobile.Milano 2026 参展收官（5 月），主打「21 个注册设计」收藏（21 design registrati）——以设计资产专利化构筑护城河，其授权设计库是 GCC 高端项目投标的差异化武器
+- **Listone Giordano**: Spring Time 2026 季节性促销（4 月）延续零售端打法；contract 渠道无新增动作（9/5 EuroShop 内容仍为最新）
+- 今日未发现 Parador / Kährs / Bauwerk / Berti 新动态（以 9/5-9/6 报告为最新基准）
+
+### 💡 洞察/启发
+- **博物馆/文化场馆是拼花的隐形场景**：SAMoCA 之后 Diriyah 还有多个文化包件在路上——文化建筑对「手工感 + 地域叙事 + 高人流量耐磨」的要求与手工拼花天然契合，建议把「museum-grade」加入产品话术库
+- **Hassan Allam × Albawani JV 是进入 Diriyah 供应链的新入口**：与其在业主端排队，不如借中标 JV 的分包名单进场——JV 采购决策周期比主权业主短
+- **数据反差即定位验证**：总盘增长 7.8% vs 标品实木滞涨，说明 GCC 买方正从「铺木地板」升级为「选 premium 面层」——销售叙事应从产品参数转向「项目级定制 + 场景适配」
+- **迪拜 Palm Jumeirah 设计工作室带是私宅拼花快渠道**：LUMI / KC Design / Known Design / CK 集群密度高，一次批量背调可覆盖整个 ultra-luxury residential 圈层
