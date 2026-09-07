@@ -104,3 +104,36 @@
 - **Hassan Allam × Albawani JV 是进入 Diriyah 供应链的新入口**：与其在业主端排队，不如借中标 JV 的分包名单进场——JV 采购决策周期比主权业主短
 - **数据反差即定位验证**：总盘增长 7.8% vs 标品实木滞涨，说明 GCC 买方正从「铺木地板」升级为「选 premium 面层」——销售叙事应从产品参数转向「项目级定制 + 场景适配」
 - **迪拜 Palm Jumeirah 设计工作室带是私宅拼花快渠道**：LUMI / KC Design / Known Design / CK 集群密度高，一次批量背调可覆盖整个 ultra-luxury residential 圈层
+
+## [2026-09-08] 商业情报速报
+
+> 排除字典已加载（域名黑名单 asdevelop.org/com、公司名黑名单 FloorWorld/Wood Floors ME/Indus/Bostik/Gerflor/Vinifloor、行业排除标签 nonprofit/NGO 类），全部线索已过筛，无一命中。
+
+### 🔥 高价值线索（可直接跟进）
+
+| # | 类别 | 公司/项目名 | 链接 | 关键信息 | 行动建议 |
+|---|------|-------------|------|----------|----------|
+| 1 | 基建-总包中标 | Diriyah Waldorf Astoria Superblock（Hassan Allam × UCC Holding JV） | https://www.saudigulfprojects.com/2026/06/hassan-allam-and-ucc-holding-jv-awarded-sar-2-7-billion-waldorf-astoria-superblock-contract/ | Diriyah Company 授标 SAR 2.7bn（$727M）主建合同：160 客房 + 39 套房 + 总统套房，GFA 22,715㎡，含餐厅/咖啡等商业配套 | Hassan Allam 已在 SAMoCA 博物馆（9/7 报告）与 Waldorf Astoria 两个 Diriyah 包件中出现——一家承包商多扇门；将 Hassan Allam 采购部列为一号触达对象，UCC Holding 同步背调 |
+| 2 | 基建-总包中标 | Qiddiya 国家网球中心 33,000 座（Bouygues × Almabani JV，Populous 设计） | https://www.saudigulfprojects.com/2026/09/qiddiya-awards-design-build-contract-to-bouygues-almabani-jv-for-33000-seat-national-tennis-centre/ | 9/6-9/7 新授标 design-build：30 片球场、15,000 座开合屋顶中央球场 + 8,000 座多功能球场；Almabani 为沙特老牌承包商 | Bouygues 系国际 GC 新进入 Qiddiya 供应链——法国总包采购标准高、偏好认证 engineered 产品；跟踪其分包名单，准备 NOAH 认证文件包对接 |
+| 3 | 供应商准入-窗口 | AMAALA Triple Bay 一期已开业，Six Senses AMAALA 2026 跟进 | https://www.linkedin.com/posts/elite-style-designbuild_elite-style-contracting-project-activity-7495158234496999424-M_Ek | Triple Bay 现已开放（首批不足 800 间客房交付），Six Senses AMAALA 排期 2026 年内——9/5 报告「2027 完工」的判断需上修：剩余酒店 fit-out/FF&E 采购正在进行时 | RSG 供应商注册升级为本周必办事项；剩余期酒店（Six Senses、Four Seasons 等）地面包件仍在定标，样板资料立即递交 |
+| 4 | 渠道线索 | The Luxe Developers × Interiors International Industries（RAK Al Marjan Oceano） | https://www.cbnme.com/news/the-luxe-developers-advances-oceano-with-aed150-million-contract/ | 6 月底正式化 AED 150M（$41M）精装合同，Oceano 225 套超豪华住宅；Interiors International 自 2026 年初嵌入业主项目团队 | Tier 2：触达 Interiors International 材料负责人——其模式为「 embedded 业主团队」，拿了精装包就有分项材料话语权；Al Marjan 为新兴超豪走廊，业主方还有后续地块 |
+| 5 | 渠道线索 | Unicon Holding（AMAALA Four Seasons Resort 承包商） | https://unicon-holding.com/ | 以 BIM 驱动交付 Amaala Four Seasons Resort（150+ keys + 私人别墅），Triple Bay 超豪度假村在建主力之一 | Tier 2：背调其在 RSG 体系内的分包结构与在手项目，评估作为 AMAALA 拼花供应通道 |
+| 6 | 渠道线索 | DSCC Saudi Arabia（FF&E 主包承包商） | https://dsccsaudia.com/projects | 以主 FF&E 承包商身份交付 turnkey 六大品类（室内外家具、装饰灯具等），沙特酒店供应链上游节点 | Tier 2-3：FF&E 渠道可搭售地面材料方案；背调其酒店客户名单后决定客开优先级 |
+| 7 | 项目管线 | Riyadh Sports Boulevard 管线：Al Ittihad 体育村 40% + Global Sports Tower $530M 决标在即 | https://www.linkedin.com/posts/project-tech-saudi-arabia_saudiarabia-riyadh-sportsinfrastructure-activity-7485635532216217601-yKlQ | Global Sports Tower（$530M）承包商已交最终商务标（7/22）；Parsons 任 Al Ittihad Sports Village PMC（体育村已 40% 完工）；体育大道基金会另设 SAR 3.5bn Urban Wadi 高层基金 | 体育场馆贵宾/俱乐部区持续成为拼花场景（与 Qiddiya 赛马场、网球中心同频）；Q4 2026 决标窗口，届时锁定中标 GC |
+
+### 📊 市场情报（趋势参考）
+- **区域**: 沙特 / UAE
+- **内容**:
+  - NEOM 减速坐实：2026 年 3 月一次性终止三份大合同共 $6.85bn，Trojena 大坝在 30% 完工时取消（vision2030.ai 专项分析）——与 9/6 报告「火力向 Diriyah/Qiddiya/RSG 三线集中」判断互证，NEOM 相关客开继续冻结
+  - Kingdom PPP Transformation Forum 9/7-9/9 在利雅得举行，New Murabba FIFA 2034 体育场等进入议程——主权项目融资模式转向 PPP，未来准入逻辑或从「业主授标」扩展到「SPV 采购」
+  - Eastern Province 复苏信号：Retal 在 Al Khobar 签 SAR 268M（$71.5M）住宅合同（8/17）——达曼走廊住宅 fit-out 需求开始抬头，可作利雅得/吉达之外的低竞争腹地
+
+### 🏆 竞品动态
+- **Foglie d'Oro**: 「Ventaglio」扇形拼花持续通过合作方做内容营销（Flooridea Autore 系列曝光「sculptural oak、fan-shaped composition」）——设计资产故事化打法不变，其「sculptural/雕塑感」话术正在占领高端认知
+- Kährs / Parador / Listone Giordano / Bauwerk / Berti：今日未发现新动态（以 9/5-9/7 报告为最新基准）
+
+### 💡 洞察/启发
+- **Hassan Allam 是「一鱼多吃」型入口**：一家承包商同时握有 Diriyah 两个标志性包件（SAMoCA 博物馆 + Waldorf Astoria 超级街区）——对单一采购部门做一次完整资质递交，等于同时进入博物馆与超豪酒店两条产品线，效率远高于逐个项目排队
+- **AMAALA 时间线上修，采购进入下半场**：一期开业 = 供给端开始兑现，剩余酒店包件正密集定标；9/5「窗口在 2026 而非 2027」的判断仍保守——窗口就是现在，本周完成 RSG 注册是唯一正确动作
+- **国际 GC 潮 = 准入标准潮**：Bouygues 进 Qiddiya、Webuild 在 Diriyah——法国/意大利总包把 European 采购标准（CE、FSC、VOC 报告）带进沙特分包链，NOAH 的认证文件包应一次性按欧标备齐
+- **体育场馆贵宾区正在成为拼花的第四场景**（酒店/宫殿/零售之后）：赛马场 → 网球中心 → Global Sports Tower，Q4 决标密集；建议为「stadium hospitality interiors」建一页专项话术与案例包
