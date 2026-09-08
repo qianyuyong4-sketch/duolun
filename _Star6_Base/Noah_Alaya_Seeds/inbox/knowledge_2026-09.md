@@ -137,3 +137,38 @@
 - **AMAALA 时间线上修，采购进入下半场**：一期开业 = 供给端开始兑现，剩余酒店包件正密集定标；9/5「窗口在 2026 而非 2027」的判断仍保守——窗口就是现在，本周完成 RSG 注册是唯一正确动作
 - **国际 GC 潮 = 准入标准潮**：Bouygues 进 Qiddiya、Webuild 在 Diriyah——法国/意大利总包把 European 采购标准（CE、FSC、VOC 报告）带进沙特分包链，NOAH 的认证文件包应一次性按欧标备齐
 - **体育场馆贵宾区正在成为拼花的第四场景**（酒店/宫殿/零售之后）：赛马场 → 网球中心 → Global Sports Tower，Q4 决标密集；建议为「stadium hospitality interiors」建一页专项话术与案例包
+
+## [2026-09-09] 商业情报速报
+
+> 排除字典已加载（域名黑名单 asdevelop.org/com、公司名黑名单 FloorWorld/Wood Floors ME/Indus/Bostik/Gerflor/Vinifloor、行业排除标签 nonprofit/NGO 类），全部线索已过筛，无一命中。今日 web_extract 后端不可用，已按容错规则改用 web_search 摘要完成采集。
+
+### 🔥 高价值线索（可直接跟进）
+
+| # | 类别 | 公司/项目名 | 链接 | 关键信息 | 行动建议 |
+|---|------|-------------|------|----------|----------|
+| 1 | 展会-决策人聚集 | INDEX Saudi Arabia 2026（利雅得 Riyadh Front，9/15-17） | https://www.facebook.com/indexksa/posts/1097370586309025/ | 沙特室内设计与 fit-out 第一展 6 天后开幕（15-17 日 4PM-10PM），Design Middle East 任官方媒体伙伴；fit-out 总包、开发商、设计采购决策人密度本周最高 | 48 小时内完成观展注册（免费）或安排当地代表代收对接；备好英文拼花样册 + 认证文件包，目标锁定酒店/零售 fit-out 承包商采购窗口 |
+| 2 | 基建-精装授标 | Diriyah $400M（≈SAR 1.5bn）精装合同 | https://www.constructionweeksaudi.com/projects/diriyah-awards-400-million-fit-out-contract | Construction Week Saudi（6/29）：Diriyah Company 授出约 $400M 精装包推进建造进度，叠加 SAR 2.7bn Waldorf Astoria 主包——Diriyah 正由结构期转入精装放量期 | 面层选型权正随精装包下沉：锁定该精装中标方的分包/供应商名单，NOAH 样板资料递交优先级升至本周动作 |
+| 3 | 设计渠道名单 | AD100 2026 中东北非百大设计师名录 | https://www.admiddleeast.com/story/ad100-2026-the-best-designers-in-the-middle-east-and-north-africa | AD Middle East 年度权威名单：含「The Debuts」新锐单元（科威特 Studio Nama 等）与迪拜 Verhaal 等 100 家事务所/工作室——即开即用的区域 designer/specifier 目标池 | 一次性把名单转为客开名单库（按迪拜/利雅得/科威特分层），优先触达新锐工作室（对新型供应源开放度最高），批量背调后按 Tier 排期 |
+| 4 | 设计渠道 | Killa Design（迪拜，Top 50 Homes 年度精品建筑事务所） | https://www.facebook.com/prime.by.betterhomes/posts/563826333083275/ | Dubai's Top 50 Homes Gala（La Nina 场）评出 Boutique Architecture Firm of the Year；该榜单聚集迪拜超豪住宅设计生态（开发商 La Nina、材料供应一圈） | Tier 2：触达其 specification 团队，以「超豪别墅/品牌住宅定制拼花」案例包切入；同步从 Gala 名单反向挖超豪开发商资源 |
+| 5 | 项目管线 | Burj Binghatti Jacob & Co Residences（迪拜） | https://www.facebook.com/growiiezerealestatellc/videos/1662968398137195/ | 7 月施工更新：超豪内装进行中（明确提及 parquet flooring + high-end finishes），完工瞄向 2026 底/2027 初；Binghatti × Jacob & Co 品牌住宅 | Tier 2：背调其内装分项中标方与精装采购口，争取尾部楼层/样板层拼花供应窗口 |
+| 6 | 项目管线 | Residences Du Port（Autograph Collection，迪拜 Marina，Devmark） | https://luxurylocated.com/off-plan/the-devmark-group/residences-du-port-autograph-collectio | 首个 Marriott 系品牌住宅落位 Dubai Marina，产品定义层已明确写入 herringbone wood flooring + spa 风浴室——人字拼需求直接可见 | Tier 3：背调 Devmark 精装供应链，确认人字拼供应商是否已定标；未定标则递交 engineered herringbone 方案 |
+| 7 | 准入情报 | 沙特建材供应商 AVL 构建框架（Benna KSA 指南，6/5） | https://www.benna.com.sa/post/building-an-approved-vendor-list-for-construction-materials-in-saudi-arabia | 业主/总包按四维预审建材供应商：技术能力、SASO 认证、财务稳定性、业绩记录；与 9/5 报告 Diriyah SAMA 银行信用审查要求互补 | 把「SASO/SABER + 财务资信 + 技术资料 + 业绩案例」整理为 NOAH 标准 GCC 准入文件包，一次备齐、Diriyah/RSG/Qiddiya 多处复用 |
+| 8 | 行情情报 | GTAIC HS 441874 跨国进口报告（Top-15 进口国） | https://gtaic.ai/files/reports/top-15-importing-countries-europe-441874-6ccd1bc4-6260-41fa-81b2-dbcf6064d3e6.pdf | 报告覆盖 HS 441874（拼花）进口渠道与 Listone Giordano、Foglie d'Oro 等竞品「西欧+中东」双通道定位；今日抓取失败仅获摘要 | 归档 PDF 链接安排人工细读：重点提取中东进口路径、竞品份额与价格带数据，反推 NOAH 报关/定价策略 |
+
+### 📊 市场情报（趋势参考）
+- **区域**: 沙特 / UAE
+- **内容**:
+  - 主权项目再校准持续验证：NEOM 与 Red Sea 旅游项目「Major Reset」转入分期滚动 + 投资管控（6/15），vision2030.ai 测算 2030 年前实际交付率仅 60-75%——与 9/6-9/8 判断一致，客开火力继续锁定 Diriyah/Qiddiya/RSG 三线
+  - 利雅得设计/零售落地潮：Kartell 确认今秋开出利雅得旗舰店（WWD，~9/4），Downtown Design Riyadh 落 JAX 区，INDEX Saudi 6 天后开幕——国际奢牌与设计展会同步进利雅得，9 月为 fit-out 需求与决策人流动的集中释放期
+  - IndexBox 2026：中东 parquet 市场结构分化，高端 engineered/定制设计渠道已成熟独立成长；parquet 大盘 CAGR 约 6.0%（ResearchAndMarkets）——「标品滞涨、定制走强」的 premium 迁移判断再获佐证
+
+### 🏆 竞品动态
+- **Listone Giordano / Foglie d'Oro**: 被纳入 HS 441874 跨国报告头部竞品池，明确「西欧+中东」双通道扩张定位——中东遭遇战确定性升级，其设计资产与渠道投入（9/5-9/8 报告）将持续传导至 GCC 投标现场
+- **Välinge**: 确认参展 Domotex 2026 + TISE 2026 推广 Woodura 技术（Floor Covering Weekly）——技术授权型玩家（Bjelin 同门）持续造势，酒店投标中的耐磨/防水技术话术对抗将加剧
+- Parador / Kährs / Bauwerk / Berti：今日未发现新动态（以 9/5-9/8 报告为最新基准）
+
+### 💡 洞察/启发
+- **INDEX Saudi（9/15-17）是本月唯一的决策人高密度窗口**：与其逐家上门，不如集中收割一场展会的 fit-out 总包 + 开发商采购人脉；观展/委托代收的决定请在 48 小时内做出
+- **精装放量 = 面层选型权下沉**：Diriyah $400M 精装包、Avenues Khobar 精装（Havelock One，6/17）接连落地——客开权重应进一步从主包转向 fit-out 承包商与 FF&E 主包，延续 9/7-9/8 的 Havelock One/Unicon/DSCC 路线
+- **榜单即名单库**：AD100 2026 + Dubai Top 50 Homes 提供了现成的 GCC 设计决策人名录——「榜单转名单库」一次动作即可覆盖数月客开弹药，优先级高于每日零散搜索
+- **竞品双通道坐实**：Listone Giordano/Foglie d'Oro 的中东扩张已被海关口径报告验证——正面战场底牌仍是「定制能力 + 认证文件 + 交期」三件套，样板资料本周经精装通道递交 Diriyah
