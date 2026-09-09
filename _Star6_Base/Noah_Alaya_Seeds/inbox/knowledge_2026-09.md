@@ -180,3 +180,36 @@
 - **Listone Giordano**: A@W Rotterdam 今日（9/9）如期开展（Ahoy Hall 1 Booth 79）；GLUE Amsterdam 9/17-19 @ Keizersgracht 447A 获官方帖证实；欧洲巡展高频输出持续，GCC 无新信号
 - **Junckers**: FIBA 女篮世界杯（柏林，9/4 起）场地采用其硬木运动地板（FIBA 官方通稿）——全球曝光活跃，GCC 无专属新信号
 - Kährs / HARO(Mutares) / Boen / Bauwerk：今日未发现新动态（以 9/5-9/8 报告为最新基准；检索中 Kährs 美国 CCO 任命经核验为 2023-12 旧闻，已拦截）
+
+## [2026-09-10] 商业情报速报
+
+> 排除字典已加载（域名黑名单 asdevelop.org/com、公司名黑名单 FloorWorld/Wood Floors ME/Indus/Bostik/Gerflor/Vinifloor、行业排除标签 nonprofit/NGO 类）。floorworlddubai.ae 命中 FloorWorld 排除词已丢弃；saudipress「Six Flags $1bn 授标」经交叉验证为 2021-12 旧闻（saudipress 时间戳误导），已拦截。今日 web_extract 后端不可用（仅 search 摘要），web_search 后端间歇性拒绝连接，渠道类信源覆盖不足，明日补采。
+
+### 🔥 高价值线索（可直接跟进）
+
+| # | 类别 | 公司/项目名 | 链接 | 关键信息 | 行动建议 |
+|---|------|-------------|------|----------|----------|
+| 1 | 基建-总包中标 | SEVEN Al Khobar Entertainment Complex（Kortech = Hassan Allam 子公司，MEP） | https://www.mepmiddleeast.com/news/contract-mep-works-saudi-khobar-complex | 9/2-3 确认：Hassan Allam 子公司 Kortech 中标 SEVEN（沙特娱乐风险投资公司）Al Khobar 娱乐综合体 MEP 执行/调试合同；东部省大型 leisure 综合体首笔落地动作 | Hassan Allam 体系三线开花（Diriyah SAMoCA+Waldorf Astoria+Al Khobar MEP）：本周完成对其集团采购部的一次性完整资质递交；同时背调 SEVEN 该项目主包/精装分包格局 |
+| 2 | 基建-项目管线 | Diriyah Two · One Hotel（BEC Arabia × Ashoka Buildcon JV） | https://www.meed.com/diriyah-awards-191m-hotel-construction-contract | MEED：$192M（SAR 717M）主建合同授予 BEC Arabia × Ashoka Buildcon 联合体，位于 Diriyah Two 区域（2/11 授标）；品牌归属疑为 One&Only 系（待核验） | 主包已定 → 精装/FF&E 分包窗口在 2026H2 前后开启；把 BEC Arabia、Ashoka Buildcon 采购口加入 Diriyah 名单库，先于精装授标公告 1 个季度递交拼花样板 |
+| 3 | 项目管线 | Dar Global 超豪 Diriyah 项目（Compass × Bin Omairah，基础设施包） | https://tradearabia.com/News/463856/Dar-Global-awards-design-and-build-contract-for-premium-Diriyah-project | 伦敦上市的豪华开发商 Dar Global 为其 Diriyah 超豪项目授出 SAR 338M（$90M）基础设施 design-and-build 合同（6/18）——商业系开发商在主权区旁自建盘推进 | Tier 2：背调 Dar Global 该项目品牌定位与精装供应链；商业系豪华开发商的 villa/品牌住宅产品线是定制拼花新战场（呼应今日洞察「业主面扩张」） |
+| 4 | 招标窗口 | NEOM Sindalah 岛屿度假村南部 resort 资产（cluster five） | https://constructionreviewonline.com/neoms-sindalah-the-gateway-to-the-red-sea/ | CR Online（3/17 报道，细节待复核）：Sindalah 南部 resort 资产包 7 月重新发标、9 月截标——NEOM 冻结背景下少数活跃招标面 | 风险优先型：产能有余则递交意向；产能不足则仅记录，用决标结果验证 NEOM 恢复信号后再评估该线重启 |
+| 5 | 竞品-待核 | Foglie d'Oro 官网 news 页有 2026 更新（时间戳 6/5） | https://fogliedoroparquet.com/en/news-en/ | 官方新闻页列出新系列/展会/exclusive happenings 条目；今日 web_extract 不可用，未能获取具体内容 | 列入下次采集必抓项：人工或下轮运行打开该页细读，重点监测 GCC 渠道伙伴与新品发布节奏 |
+
+### 📊 市场情报（趋势参考）
+- **区域**: 沙特全境
+- **内容**:
+  - Scavo 数据（AGBI/MEP Middle East，9/3）：2026 上半年沙特承包商授标数量同比 **+82%**，即便经历伊朗战事与 PIF 缩量
+  - KAMCO 数据（CW Saudi，7/9）：Q2 2026 单季授标额近三倍跳升至 **$140 亿**，沙特领跑海湾区域
+  - 结构性转折：PIF 按授标额已降至 H1 业主榜**第五位**——非主权业主（私营开发商、PPP、上市开发商）开始补量，与 9/6-9/9「火力向 Diriyah/Qiddiya/RSG 集中」判断互补：客开目标面需从主权业主扩展至商业系业主
+  - MEED 本周（9/2-3）：RCRC 授出利雅得世博地铁站合同、ZATCA 住宅 PPP 首选投标人产生、NWC $347M 污水厂落定——PPP/基础设施线持续放量（地面材料相关性低，仅作大盘温度计）
+
+### 🏆 竞品动态
+- **Foglie d'Oro**: 官网 news 页确认存在 2026 年更新（6/5 时间戳），内容待核；既有判断不变——SBID 11/6 颁奖 + Matita 系列的 GCC 声量路径持续
+- **UAE 零售侧生态观察**: parquet 搜索面被 parquetflooring.ae、flooringmaster.ae、parquetfloorings.ae 等本地 SEO 零售页淹没（floorworlddubai.ae 已按排除字典拦截）——零售拼花需求活跃但渠道高度碎片化，价格带集中中低端，与「标品滞涨、定制走强」判断互证
+- Kährs / Parador / Listone Giordano / Bauwerk / Berti：今日未发现新动态（以 9/5-9/9 报告为最新基准）
+
+### 💡 洞察/启发
+- **业主面「主权 → 商业」切换是本月最重要的结构信号**：PIF 降至第五大业主 + H1 授标 +82% = 出钱方从主权基金转向私营/上市开发商与 PPP SPV。Dar Global 型商业系豪华开发商将承接部分主权项目预算——客开名单库应新增「商业系开发商」分类（Dar Global 为首例）
+- **Hassan Allam 确认为「一鱼三吃」级入口**：SAMoCA 博物馆 + Waldorf Astoria 超级街区（Diriyah）+ Al Khobar 娱乐综合体 MEP（Kortech），东西两点一线。对单一集团采购部做一次完整资质递交 = 同时覆盖文化场馆/超豪酒店/娱乐综合体三条产品线，本周执行
+- **娱乐综合体是拼花第五场景**（酒店/宫殿/零售/体育场馆之后）：SEVEN 全国 21+ 娱乐综合体管线 + Qiddiya Six Flags 在建，入口/零售/餐饮区地面高人流重磨损——建议建立「high-traffic entertainment interiors」专项话术包，与酒店话术区分
+- **旧闻识别必须成为采集纪律**：今日 saudipress「Six Flags $1bn 授标」实为 2021 年旧闻（新闻聚合页时间戳误导）。凡引用「授标/签约」类快讯，必须交叉验证日期，防止 cron 报告被旧闻污染
