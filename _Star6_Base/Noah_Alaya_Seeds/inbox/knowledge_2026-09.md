@@ -172,3 +172,11 @@
 - **精装放量 = 面层选型权下沉**：Diriyah $400M 精装包、Avenues Khobar 精装（Havelock One，6/17）接连落地——客开权重应进一步从主包转向 fit-out 承包商与 FF&E 主包，延续 9/7-9/8 的 Havelock One/Unicon/DSCC 路线
 - **榜单即名单库**：AD100 2026 + Dubai Top 50 Homes 提供了现成的 GCC 设计决策人名录——「榜单转名单库」一次动作即可覆盖数月客开弹药，优先级高于每日零散搜索
 - **竞品双通道坐实**：Listone Giordano/Foglie d'Oro 的中东扩张已被海关口径报告验证——正面战场底牌仍是「定制能力 + 认证文件 + 交期」三件套，样板资料本周经精装通道递交 Diriyah
+
+### 🏆 竞品动态（竞品简报 Top30 · 2026-09-09 补充）
+- **Parador**: Taterra 获德国可持续发展奖 2027 Product 类提名（9/7 报道）——叠加 2026 年度获奖，形成「连续双证」可持续叙事资产，在 GCC 投标 IAQ/VOC 监管收紧窗口具备直接抢分能力；需监测 Taterra 是否经 Goettling（零售）/Metre Squared（承包）双轨进入 GCC 展示位
+- **Foglie d'Oro**: SBID 2026 全球获奖者揭晓日确认为 **11/6 典礼**（sbidawards.com 官方）——与 Downtown Design Dubai（11/4-8）形成「颁奖+设计展」双节点共振，Matita 若获奖其 GCC 声量与渠道招揽话语权将同步抬升；NOAH 反叙事物料需 10 月中旬前备妥
+- **Bisazza**: 官网 news 页现载 Fornasetti 联名马赛克系列发布条目（时间戳待人工核验，存在旧闻可能）——超豪设计场域占位信号，本周巡检确认
+- **Listone Giordano**: A@W Rotterdam 今日（9/9）如期开展（Ahoy Hall 1 Booth 79）；GLUE Amsterdam 9/17-19 @ Keizersgracht 447A 获官方帖证实；欧洲巡展高频输出持续，GCC 无新信号
+- **Junckers**: FIBA 女篮世界杯（柏林，9/4 起）场地采用其硬木运动地板（FIBA 官方通稿）——全球曝光活跃，GCC 无专属新信号
+- Kährs / HARO(Mutares) / Boen / Bauwerk：今日未发现新动态（以 9/5-9/8 报告为最新基准；检索中 Kährs 美国 CCO 任命经核验为 2023-12 旧闻，已拦截）
