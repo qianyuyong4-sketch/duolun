@@ -1,31 +1,33 @@
 # Noah 知识库 · 2026-09
 
-## [2026-09-11] 商业情报速报
+## [2026-09-12] 商业情报速报
 
 ### 🔥 高价值线索（可直接跟进）
 | # | 类别 | 公司/项目名 | 链接 | 关键信息 | 行动建议 |
 |---|------|-------------|------|----------|----------|
-| 1 | 基建招标 | Diriyah Gate（Diriyah Company） | https://kanzotech.com/blog/diriyah-gate-whats-built-whats-coming-and-what-it-means-for-suppliers | 累计授标超 SAR 1200亿；多个社区10月起进入最终精装(fit-out)与调试阶段；总承包含 El-Seif、中建、Shapoorji Pallonji、Albawani 等；完工期推迟至2030，采购管线仍有多年跑道 | 精装窗口期正打开：定向联系上述总包的 fit-out 分包与 FF&E 采购团队，主推多层实木拼花+人字拼 |
-| 2 | 基建/准入 | Red Sea Global / AMAALA 供应商体系 | https://investriyadh.ai/guides/giga-project-supplier-guide/ | RSG 按品类设采购团队，强可持续发展导向（净正生态承诺直接影响材料规格）；NEOM 采购为集中式品类管理 | 完成 RSG/NEOM 供应商预注册（prequalification），准备 FSC/低VOC 认证材料包 |
-| 3 | 渠道线索 | Conmarble（利雅得） | https://gc-worldwide.com/Article/464259/How_Conmarble_is_instilling_wellbeing_into_interiors | 新开 230㎡ Al Olaya 展厅，主打健康建筑/天然材质理念，正扩张沙特高定材料版图 | 非地板商但属天然饰面材料渠道商——接触探讨拼花地板进其利雅得展厅的组合陈列 |
-| 4 | 渠道线索 | Nabina Holding（多哈）× Porcelanosa 新展厅 | https://interiorsfromspain.com/en/news-and-trends/2026/07/porcelanosa-in-doha | 2026-05-19 卡塔尔 Nabina 展厅开设 Porcelanosa 专区，面向建筑师/设计师/开发商，家族企业三代经营、长期主义 | 卡塔尔唯一活跃建材展厅扩张案例：接洽 Nabina 采购，提供意大利系拼花补充其产品线 |
-| 5 | 渠道动向 | KAFD（利雅得）意式设计品牌集群 | https://wwd.com/home-design/interior-design/middle-east-conflict-home-design-impact-1239097493 | Minotti 已开业、Molteni&C 年内开店、Kartell 秋季开业，全部落位 KAFD——利雅得高端设计零售重心成形 | 监控 KAFD 商铺组合，锁定代理高端欧洲建材/地板的入驻经销商做客开 |
+| 1 | 基建招标 | Diriyah Gate（沙特·利雅得） | gulfconstructiononline.com / investriyadh.ai | 2026年最活跃giga项目：累计授标$63B中$50B+已落地，2024以来授标$27B，2万工人日施工；Grand Avenue规划85,000㎡零售+2,400套奢华住宅+6家酒店，2026年首批酒店开业；主要总包含 El-Seif、中建、Shapoorji Pallonji、Albawani | 主攻总包/精装分包：El-Seif Engineering、Shapoorji Pallonji 的 FF&E 采购口；酒店开业潮=拼花地板进场窗口期 |
+| 2 | 基建招标 | New Murabba / NMDC 四角塔 RFI | gulfconstructiononline.com | Mukaab本体停工，但NMDC发布四角塔（~375m、80+层）模块化与预制化 fit-out RFI，项目未死 | 跟踪 RFI 回应窗口；模块化精装方案商需地板材料供应源 |
+| 3 | 精装合同 | The Luxe Developers × Interiors International（阿联酋 RAK） | uaenews247.com | AED 1.5亿室内精装合同签署，Oceano 超豪海滨盘（Al Marjan岛）结构封顶推进中 | Interiors International 为现役精装方→潜客；同步盯 The Luxe 后续项目 |
+| 4 | 精装项目 | Dar Global × FENDI Casa「Azure」海景庄园（阿曼 AIDA, Muscat） | uaenews247.com | 超豪华别墅群+意大利品牌室内，2026-06发布 | AIDA 是巨型综合开发→装修供应链缺口大；FENDI Casa级别=高定拼花适配 |
+| 5 | 竞标名单 | CID Fit-Out Firm Power List 2026（中东） | commercialinteriordesign.com | 榜单含 Red Sea EDITION (Shura Island) 承建方、Al Shirawi Interiors、Depa Group、Summertown 等 | 整榜即 Tier1/Tier2 潜客清单，逐一入客户池打标 |
+| 6 | 经销商 | Floor Land LLC（迪拜 Al Quoz） | ebarza.com | 人字拼/鱼骨拼专长、评分4.9、Jebel Ali+Al Quoz双展厅、快速交付型批发商 | 候补 Tier2 经销商；注意其兼营 SPC/复合板，接触时强调工程木拼花差异化 |
+| 7 | 经销商 | Hillswood Designs（沙迦） | alumaimainteriors.com | 环保定位硬木地板商，UAE全境活跃，定制拼花机械能力 | 小而专→Tier3 培育，季度跟进 |
 
 ### 📊 市场情报（趋势参考）
-- **区域**: GCC / 沙特
+- **区域**: 沙特/海湾
 - **内容**:
-  - GCC 石材类超级工程采购已从现货模式转向多年期矿源锁定，高端材料交期由8-10周拉长至16-24周（2026-03起）——地板供应链可类比，交期保障本身成为卖点（stonetrades.com）
-  - 沙特采购口径：基建+超级工程年支出约 SAR 2000亿+；Q3 为补充预算期、Q4 为年底冲刺发标密集期（selltostate.com/Etimad 指南）→ 10-12月是投标窗口
-  - IKTVA 本地化加分机制：与沙特本地中小企业合作、本地备货、雇佣沙特员工可显著提高中标率；EPC 直投 NEOM 周期长达18个月，宜走分包层（kalksolutions.com）
+  1. Vision 2030 进入「分诊期」：NEOM Trojena大坝终止、Mukaab停摆、The Line缩至2.4km「MVP」；资金向 Diriyah、Qiddiya、Oxagon、Sindalah 集中——跟进策略应随资金流向迁移，Diriyah 权重上调。
+  2. 迪拜2026拼花价格基准：人字拼工程木 AED 110-160/㎡、鱼骨 AED 120-180/㎡、高级定制 AED 180-400/㎡——中东报价参考锚。
+  3. 趋势关键词：herringbone/chevron 需求旺盛、Versailles/篮编纹上升、engineered wood 因湿度稳定性成主流（橡木+胡桃色调两极流行）。
 
 ### 🏆 竞品动态
-- **Foglie d'Oro**: 2026 米兰 Salone 以「Shaped Over Time」概念与集团兄弟品牌 Arte Brotto 联合参展，推 Colorsense 色彩体系（9种新色调），强化地板+墙板+家具一体化叙事（fogliedoroparquet.com）
-- **Listone Giordano**: 米兰设计周发布 Supernova 新系列（与 Studio Oliosopatras 合作，Civita 色 Fontaine 线，凹凸模块拼装）；案例库新增 Tel Aviv Urban Luxury、迈阿密 San Lorenzo 游艇项目——正切入中东与游艇渠道（listonegiordano.com / ifdm.design）
-- **Kährs**: 「Oak Shoreline」新系列主打哑光面，贴合现代消费偏好（accio.com 引述）
-- 提示：Listone Giordano 的游艇+中东案例组合与本贵游艇特渠策略撞车，需加快 marine 渠道布局。
+- **Foglie d'Oro**: 米兰 Salone 2026 与 Arte Brotto 联合展台；推出 **Colorsense** 色彩体系（9种新色调，木饰面+地板+家具色彩连续性）——「全屋色彩一体化」叙事升级。
+- **Listone Giordano**: 米兰设计周发布 Natural Genius 四个新系列（Patrick Jouin「Trame」雕刻纹橡木、Studio Oliosopatras「Supernova」凹凸模块拼花等）；Arena 展馆 + Fuorisalone 双线营销。
+- **启示**: 意系标杆正在从「卖地板」转向「卖定制室内系统」（墙板+地板+家具一体化）——方所可借鉴「拼花+墙板」组合叙事。
 
 ### 💡 洞察/启发
-- **精装窗口期判断**：Diriyah Gate 多社区进入最终 fit-out 阶段，是「欧洲品牌代理+高端精装」模式最直接的落地场景——优先把 Diriyah 分包商名单纳入中东猎鹰下一轮挖掘关键词（"Diriyah" + fit-out / FF&E / finishing contractor）。
-- **Q4 发标冲刺**：沙特 Q4 发标量放大，9-10月是提交供应商预资质的最佳时点；NEOM/RSG 预注册+低VOC/FSC 文件包应在本月备齐。
-- **风险对冲**：中东冲突导致意大利木家具对中东出口 3 月骤降 48.8%，但 DiCE M 集团（Minotti/Molteni/Kartell）仍逆势开利雅得店——头部品牌视波动为短期噪音，长线布局不变；方所出海节奏可保持，不必因冲突信号收缩。
-- **市场分层**：GCC 拼花市场两极分化——欧洲高定线（我们的定位）与亚洲量贩线并行；LEED/Estidama/低VOC 认证成为高定线的差异化准入门槛。
+- Diriyah Gate 2026 酒店开业潮 = 未来6-12个月精装材料采购的最后窗口；建议下轮中东猎手以 Diriyah 总包（El-Seif / Shapoorji Pallonji / 中建）+ Power List fit-out 公司为第一波搜索身份词。
+- NEOM 叙事降温、Expo 2030 利雅得场地 Q3 2026 国馆动工——新增可跟场景词：「Expo 2030 pavilion fit-out」。
+- 迪拜价格透明化（多篇成本指南公开行情）意味着拼盘式低价竞争加剧；方所应锁定「定制图案+设计师渠道」避开 AED 80-160 价格带。
+
+*信源: web_search (2026-09-12)；已按排除字典过滤（Floorworld / Woodfloors ME 等渠道封闭对象未列入线索）*
