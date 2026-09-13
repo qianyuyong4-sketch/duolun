@@ -31,3 +31,33 @@
 - 迪拜价格透明化（多篇成本指南公开行情）意味着拼盘式低价竞争加剧；方所应锁定「定制图案+设计师渠道」避开 AED 80-160 价格带。
 
 *信源: web_search (2026-09-12)；已按排除字典过滤（Floorworld / Woodfloors ME 等渠道封闭对象未列入线索）*
+
+## [2026-09-14] 商业情报速报
+
+### 🔥 高价值线索（可直接跟进）
+| # | 类别 | 公司/项目名 | 链接 | 关键信息 | 行动建议 |
+|---|------|-------------|------|----------|----------|
+| 1 | 竞品渠道 | Kitchen Distributors「ORO」展厅（美国丹佛） | news.saintpaulchronicle.com | 2026-05开业，bulthaup旁的欧洲家居策展展厅，**已上架 Listone Giordano**；面向建筑师/设计师/私宅客户做 specification→procurement→install 一站式 | Listone Giordano 通过「多品类策展展厅」进入北美住宅渠道——模仿范本；可调研其代理结构，对标方所渠道模型 |
+| 2 | Fit-Out 潜客 | Alpago Design and Build（迪拜） | ckarchitecture.com | 超豪住宅 design-and-build 一体化，Palm Jumeirah 顶级别墅业绩，自持 joinery 工厂，合作品牌 Minotti/Poliform/Fendi Casa | Tier1 级超豪渠道，人字拼/鱼骨拼高定适配；官网找采购/设计总监邮箱 |
+| 3 | Fit-Out 潜客 | NU Projects（迪拜） | ckarchitecture.com | 英标 joinery 标准的超 prime 别墅翻新商，供应链管控严格 | Tier2；主打「欧洲进口工程拼花」匹配其英标定位 |
+| 4 | Fit-Out 潜客 | Havelock One Interiors（巴林/海湾） | ckarchitecture.com | 高端零售/酒店/企业 joinery 制造中心，交付量大 | 酒店精装批量拼花潜在采购方，LinkedIn 找 procurement 口 |
+| 5 | Fit-Out 潜客 | Rayfitout / Antonovich Group / ARKI Group（阿布扎比） | ckarchitecture.com | 阿布扎比豪华 villa design-build 三强：Rayfitout(自营工厂+土建)、Antonovich(超豪古典)、ARKI(自产 joinery+**flooring**) | ARKI 自营 flooring 业务→供应商缺口的概率高，优先接触 |
+| 6 | 基建招标 | Oxagon（NEOM 工业城） | uncargo.com | 2026年 NEOM 授标高度集中：Oxagon 累计授标 **$9.3B**，为 NEOM 最大资金去向 | NEOM 叙事降温但 Oxagon 在建中——搜「Oxagon fit-out contractor」身份词 |
+
+### 📊 市场情报（趋势参考）
+- **区域**: GCC / 全球
+- **内容**:
+  1. GCC 地板市场规模 2026 年 $6.8B → 2035 年 $11.88B（CAGR 6.4%）；迪拜/利雅得酒店建设推动 engineered 表面采购放量，SASO 防火新规正在淘汰低质进口（认证=准入门槛，也是我方优势）。
+  2. Qiddiya 核心设施 2026-2027 开业窗口确认（Six Flags 垂直施工中、F1 电路已办赛），绑 FIFA 2034/Expo 2030 用例，资金未削减。
+  3. 海湾「安静奢华」风潮：Riyadh/Jeddah/Doha 客户转向少而精的材料叙事（单块 best-of-quarry 石材、手织织物）——「每平米单价更高、总量更少」，正契合高定拼花定位。
+
+### 🏆 竞品动态
+- **Listone Giordano**: 通过美国丹佛 ORO 展厅（Kitchen Distributors 旗下）进入北美高端住宅渠道，与 Porro、Living Divani 等家具品牌同场——「地板进家具策展展厅」新渠道打法。
+- **Kährs/Floorworld 渠道**（排除对象，仅作情报）: 2026 迪拜多篇采购指南仍将其列为必询供应商，说明封闭渠道的市占心智仍在。
+
+### 💡 洞察/启发
+- 超豪 villa design-build 商（Alpago/NU/Rayfitout/Antonovich）是「Lux & Beyond 模型」的中东对应物：他们自带 HNW 客户+自持 joinery 工厂，最缺的是欧洲进口定制拼花供应源——建议下轮猎手用「ultra-luxury villa fit-out Dubai」身份词深挖 20-30 家同类。
+- Listone 的 ORO 模式提示：方所出海渠道不必是纯地板经销商，「家具/厨房/照明策展展厅」里加一个拼花角可能破局。
+- SASO/绿色建筑认证收紧 → 准备好 E1/FSC/防火测试文件包，作为 GCC 客开的标准附件。
+
+*信源: web_search (2026-09-14)；已按排除字典过滤（Floorworld LLC / Woodfloors ME 未列入线索，仅作竞品情报）*
