@@ -1,29 +1,30 @@
-# Noah 知识库 · 2026年09月
+# Noah 知识采集 · 2026-09
 
-## [2026-09-15] 商业情报速报
+## [2026-09-16] 商业情报速报
 
 ### 🔥 高价值线索（可直接跟进）
 | # | 类别 | 公司/项目名 | 链接 | 关键信息 | 行动建议 |
 |---|------|-------------|------|----------|----------|
-| 1 | 基建招标 | Diriyah Gate / Wadi Safar 豪华别墅区 | kanzotech.com/blogc/diriyah-gate-whats-built-whats-coming | 已授标超 SAR 1200亿（~$320亿）；Wadi Safar 定位顶级封闭豪宅社区（高尔夫+马术），别墅/庄园标段在建；总包含 El-Seif、中国建筑、Shapoorji Pallonji、Albawani 等 | 锁定 Wadi Safar 别墅包的总包与 FF&E/精装分包，推送多层实木/拼花样品；跟进 Diriyah Square 与皇家歌剧院内装 |
-| 2 | 基建招标 | NEOM Sindalah 岛 | riyadh2030.ai/faq/giga-projects-faq | 结构完工，内装 fit-out 进行中，目标 2026 底软开业；含游艇码头、奢华酒店、零售 | Sindalah 是 NEOM 最接近交付的奢华资产——酒店/码头商业内装包正处于材料采购窗口，立即联系 NEOM 内装采购线 |
-| 3 | 设计渠道 | CK Architecture (Dubai) | ckarchitecture.com | Cem Kapancioglu 创立，设计+施工一体（G+ 无限层牌照），服务亿万豪宅（Palm Jumeirah Billionaires' Row、SAOTA 合作项目），供应商网络含 Minotti/Poliform/Fendi Casa 等欧系品牌 | Tier 1 线索：设计+采购决策一体，欧系材料采购习惯与方所定位高度契合，邮件+LinkedIn 触达 |
-| 4 | 设计渠道 | Kat Black Design Studio (Dubai) | katblackuae.com | 超豪别墅（Emirates Hills/Palm Jumeirah）turnkey 模式，欧洲材料采购网络，Emaar 交楼 fit-out 量大 | Tier 2：以欧洲供应链卖点切入，提供 OEM 拼花定制支持 |
+| 1 | 竞品渠道 | Foglie d'Oro | fogliedoroparquet.com/en/news-en | 2026 Salone del Mobile.Milano 发布 "SHAPED over TIME" 新系列；曾参展 Downtown Design Dubai（2025-10） | 研究迪拜 Downtown Design 展会渠道，评估方所参展/借展可能性 |
+| 2 | 设计端 | A&T Group Interiors（迪拜+利雅得） | atginteriors.com | GCC 头部 fit-out，客户含 Emaar/Jumeirah/Four Seasons/Fairmont，自有 joinery 工厂，正扩张沙特 | 通过网站联系表单+LinkedIn 定位采购/材料负责人，寄拼花样品册 |
+| 3 | 设计端 | Alpago Design and Build（迪拜） | alpago（见 ckarchitecture 榜单） | 超豪华住宅定制制造，服务 HNW 客户、私人别墅/游艇展厅，合作品牌 Minotti/Fendi Casa 级 | 高契合（别墅+游艇场景）；先官网/LinkedIn 找 materials specifier |
+| 4 | 设计端 | Al Tayer Stocks Interiors | altayerstocks.com | 皇家级住宅项目，heritage joinery 工艺+装饰面处理，迪拜老牌 | 适合橡木人字拼/鱼骨拼定制产品线切入 |
+| 5 | 设计端 | Havelock One Interiors（巴林/沙特） | havelockone.com | 高端零售/酒店/企业 joinery，自有制造基地，覆盖 GCC | Tier 2：邮件+电话双通道，强调工程量供货能力 |
+| 6 | 设计端 | TopRock Interiors（UAE/Qatar/KSA） | toprockinteriors.com | 2026 上半年交付 19 个 GCC 项目（Dubai Mall→Riyadh），600+ 员工 | Tier 2 跟进；其 F&B/零售项目用 timber panelling 多 |
+| 7 | 设计端 | Kitchen Distributors / ORO（美国丹佛） | news.saintpaulchronicle.com/story/778699 | 2026-05 开幕高端展厅，经营 Listone Giordano 等欧洲品牌，服务建筑师/设计师/建造商 | 对标 Lux & Beyond 模型：可作北美高端渠道候选（欧美猎手转办） |
 
 ### 📊 市场情报（趋势参考）
-- **区域**: 沙特 GCC
+- **区域**: 沙特 Giga-Projects
 - **内容**:
-  - Vision 2030 项目盘面分化：The Line 大幅收缩、Mukaab 暂停至 2040、Trojena 水坝合同终止；但 Diriyah Gate 延期至 2030 同时仍在密集授标（2024 后已授 $270亿+）——资源正从"明星工程"转向"可交付资产"。
-  - Giga-project 材料采购全面转向多年期 quarry/工厂直采承诺 + 第三方 QC（±0.5mm 厚度公差、批批检验）模式，供应商须具备批次追溯与检测报告能力。
-  - 迪拜室内设计市场 2026 估值 $19.4亿（Mordor），超豪别墅 fit-out 单价 AED 700+/sqft，turnkey 单合同模式成为主流——对"能做 OEM 定制+稳定交付"的工厂方有利。
+  1. Red Sea Global 2026 初已授出 USD 3.9B 用于 16 座海岛度假村，采用模块化酒店客房（modular hotel blocks）——模块化预制对地板的规格化、批量化供货是利好。
+  2. NEOM 合同支出高度集中于 Oxagon（已授 USD 9.3B 建设合同）；Qiddiya 六旗/水上乐园已开业，演艺中心与住宅区仍在建。
+  3. Saudi 建材供应商准入趋向严苛：SABER 认证、第三方检测报告（SGS）、原产地标注、QR 码数字材料护照（Digital Material Passport）成为标配——方所出口资料包应提前备齐。
 
 ### 🏆 竞品动态
-- **Parador**: 2026 目录 104 SKU/9 系列，新推可持续旗舰系列 **Harmonia** 与 **Maradune (SurfaceONE)**；Trendtime 3 鱼骨拼独有"工程木+vinyl+laminate 三材质同花色"打法（vinyl 部分与我方互斥，仅作情报）。
-- **Kahrs**: 217 SKU/36 系列以深度取胜；Da Capo 做旧橡木主打翻新/period property 细分；Life Authentic Herringbone 下探入门价。
-- **V4 (UK)**: 英国本土制造 + 35 年质保 + Tundra Chevron 旗舰，直营配送，鱼骨/人字同价策略。
-- **行业面**: 拼花市场 2026 稳定增长，多层工程系统占超宽板 38% 份额；FSC 认证与地暖兼容（≤27°C）成高端标配门槛。
+- **Foglie d'Oro**: 2026 米兰家具展发布 SHAPED over TIME；持续布局迪拜 Downtown Design 展与巴黎/阿姆斯特丹 Architect@Work，走设计端展陈路线。
+- **Listone Giordano**: 通过美国丹佛 ORO 展厅（bulthaup 系）扩张北美高端零售渠道。
 
 ### 💡 洞察/启发
-- **战略机会 1**: Saudi 项目收缩潮=淘汰赛。NEOM/Diriyah 采购方现在最怕"供应商跑路"，方所以"可交付记录+批次质检文件包"作为敲门砖，比单纯低价更有杀伤力。
-- **战略机会 2**: 迪拜 turnkey 设计工作室（CK Architecture 模式）即"As Design Deco 范本"的放大版——他们要的是一家能 OEM 定制、小批量快反、有欧系审美的工厂。建议本季度主攻 Dubai+Abu Dhabi 的设计-施工一体型工作室，批量建档打分。
-- **战略机会 3**: 竞品在 herringbone/chevron 上卷"同花色多材质"，方所可反向打"纯实木叙事+手工拼花艺术性"差异化，避开与 vinyl/laminate 同台比价。
+- **Giga 项目"精度军备"**：±0.5mm 校准厚度、CNC 切割、逐批第三方检验已成 NEOM 级项目门槛——向 GCC 推拼花时应把工厂 QC 能力写进第一封开发信。
+- **模块化酒店风潮**：Red Sea 16 度假村用模块化客房，意味着地板需按模块规格预裁+扁平包装，这是差异化卖点而非障碍。
+- **迪拜 fit-out 头部集中**：A&T / Alpago / Al Tayer Stocks / Havelock One 榜单化明显，逐家建卡打分即可低成本覆盖 GCC 设计端主通道。
