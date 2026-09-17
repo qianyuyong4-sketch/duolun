@@ -1,33 +1,32 @@
-# Noah 知识库 · 2026-09
+# Noah Alaya Seeds · 知识库 2026-09
 
-## [2026-09-17] 商业情报速报
+## [2026-09-18] 商业情报速报
+
+> 采集来源：web_search × 4 路（GCC 基建 / 竞品 / 中东 fit-out 经销商 / 行业趋势）。已通过排除字典过滤（无命中）。
 
 ### 🔥 高价值线索（可直接跟进）
 | # | 类别 | 公司/项目名 | 链接 | 关键信息 | 行动建议 |
 |---|------|-------------|------|----------|----------|
-| 1 | 基建招标 | Shura Island 后续 8 家度假村（Faena/Fairmont/Grand Hyatt/Jumeirah/Raffles/Rosewood） | watchespedia.com / afar.com | 2026 年底前开业；同时交付 305 套 Red Sea Residences 超奢私宅（Four Seasons/SLS/Shura Marina）→ 精装地板需求集中爆发窗口 | 立即锁定各家总包/FF&E 采购方，重点攻私宅 residences 精装（拼花契合度最高），走 RSG 供应商准入 |
-| 2 | 基建招标 | AMAALA（Triple Bay 群，Nammos/Equinox/Four Seasons/Six Senses/Rosewood） | recorder.ca | 2026 夏首批开业，共 1,600+ 间客房 + 20 套 Nammos Residences 私宅 | Nammos Residences 为 Mykonian 风奢装，人字拼/鱼骨拼契合；联系 RSG 采购与各家酒店集团 FF&E |
-| 3 | 基建招标 | Diriyah Gate（Riyadh） | arabianwallstreet.com | 2024 已授标 $5.9B、2025 前 8 个月再授 $3.7B，累计 $14.5B、待建 $45.6B；Four Seasons Diriyah 75 单元 2027 交付；Metro Line 7 在建 | 主动接触 Diriyah Gate 采购/AVL 体系；heritage 定位→高端拼花有叙事空间 |
-| 4 | 基建招标 | Qiddiya City | bayut.sa | Six Flags 已开业、Aquarabia 近完工、F1 赛道 2027；进入运营扩张期 | 酒店与娱乐配套精装需求上升，Tier 2 跟进 |
-| 5 | 展会/渠道 | ARTDOM RIYADH 2026（10月20-21日） | artdom-expo.com | 沙特高端室内设计/建材展会，Cappellini/Rossana Orlandi 等出席；VADA Design、Art de Vivre、Armada Holding 等 A/A+ 客群渠道商参展 | ⭐ 战略级：若能参展或以观展名义做 BD，可一次性触达沙特顶奢别墅/宫殿渠道商 |
-| 6 | 渠道线索 | Luxury Antonovich Design（Dubai） | antonovich-design.ae | 迪拜高端设计+施工公司，明确向"世界顶级拼花工厂"定制艺术拼花，覆盖私宅与公共空间 | 直接建联其采购/材料部门，提供定制拼花样品册 |
-| 7 | 渠道线索 | Floor Land LLC（Dubai, Al Quoz 4） | ebarza.com | 专营 herringbone/chevron 拼花安装的迪拜地板商（含工程木地板；兼营 SPC/vinyl，需按互斥规则降级处理） | 仅以其工程木拼花安装业务为切入点，定位分包/供货角色；契合度评分前先做背调 |
-| 8 | 渠道线索 | Al Zan Building Materials / Superior Timber / Baillie Lumber（Saudi Wood Expo 参展商） | qatareconomictimes.com | 沙特木材/建材供应链活跃玩家，参加 2026 年 9 月第 3 届 Saudi Wood Show | 逐家背调，确认是否涉及 HS 4418 系列进口，Tier 3 入池孵化 |
+| 1 | 基建招标 | Diriyah Gate（DGDA） | riyadh2030.ai/dashboards/giga-project-scorecard | 唯一"绿区"超级工程：Phase 1 于 Q4 2026 完工；800 把酒店钥匙已交付、400 把在 fit-out 中；32,000㎡ 零售已开业、13,000㎡ 在 fit-out；Bab Samhan 区正在内装阶段 | 立即锁定 Diriyah fit-out 承包商与 FF&E 供应商名单，拼花地板切入点=酒店客房+零售精品区，时间窗就在未来 6 个月 |
+| 2 | 基建招标 | AMAALA + Red Sea Global | 同上 scorecard | RSG 192 标段 Phase 1 已运营（绿）；AMAALA 56 标段在建（绿），豪华度假定位 | AMAALA 奢华酒店群是高端拼花规格场景，RSG 供应商体系相对开放，可走 AVL 申请 |
+| 3 | 高端 fit-out | TopRock Interiors Group | linkedin.com/company/toprockinteriorsgroup | 2004 年成立，600+ 员工，迪拜/阿布扎比/多哈/沙特/英国/印度 7 地布局，自有 joinery 工厂；2026 上半年交付 19 个 GCC 项目（含迪拜mall→利雅得），活跃使用温润木饰面 | Tier 2 候选：多国布局=多市场单点突破杠杆，可邮件+LinkedIn 触达其采购/材料负责人 |
+| 4 | 高端 fit-out | Alpago Design and Build | ckarchitecture.com | 迪拜超奢住宅设计施工一体化，G+ 无限层资质，服务私宅/顶层/游艇展厅，合作品牌 Minotti/Fendi Casa 等，偏好定制高端材料 | Tier 1 候选：超奢私宅正是拼花+人字拼核心场景；建议背调后 WhatsApp/邮件触达 |
+| 5 | 高端 fit-out | Al Tayer Stocks Interiors | ckarchitecture.com | 宫殿级/王室级住宅项目，heritage 级 joinery 工艺+特殊饰面 | Tier 2：王室/宫殿项目单价高但周期长，纳入季度跟进 |
+| 6 | 经销商 | SANIPEX GROUP | linkedin.com/company/sanipexgroup | 迪拜 1995 年成立，501-1000 人，一站式建材（洁具/瓷砖/板材/照明），刚在多哈 Salwa Road 开 BYSTRO 旗舰展厅，明显在做品类扩张 | Tier 1 候选：其"surfaces"品类与拼花地板天然互补，且正处扩张期（多哈新店）；建议背调+联系其 surfaces 采购线 |
+| 7 | 高端 fit-out | Abra Fitout / A&T Group Interiors | commercialinteriordesign.com Fit-Out Power List 2026 | Abra：200,000㎡ 自有工厂、450+ 人、迪拜+沙特双基地做奢品零售；A&T：迪拜总部+利雅得扩张 | Power List 2026 全榜可整体作为 GCC fit-out 客开名录源，建议导出全榜进客户池 |
 
 ### 📊 市场情报（趋势参考）
-- **区域**: 沙特/红海
+- **区域**: GCC/沙特
 - **内容**:
-  - Red Sea Global 被 PIF 2026 组合调整削减资金，**Phase Two（约 30 家酒店）暂停**——红海开拓策略应从"广撒网"转向 Phase One 已开业 27 家酒店的运营期翻新/扩建与私宅精装。
-  - 沙特室内 fit-out 市场 2024 年 $3.13B → 2030 年 $5.14B（CAGR 8.44%），NEOM/Qiddiya/RSG 为核心驱动。
-  - MENA 实木地板需求集中于 UAE/沙特/卡塔尔；GCC 偏好宽板、橡木/胡桃木、高光面——与我方橡木浅-中暖色定位部分错位，需强化设计叙事弥补。
+  1. Vision 2030 组合剧烈分化：NEOM 大面积暂停（The Line 缩至 Phase 0.5、 workforce 从 6.5 万降至 4.2 万）、New Murabba 暂停至 2040；但 **Diriyah（$270亿+ 合同）、ROSHN、King Salman Park、AMAALA、Red Sea Phase 1 均健康推进** — 客开资源应从 NEOM 转向 Diriyah/RSG/ROSHN 系。
+  2. IndexBox 2026 报告：GCC 拼花市场**多层工程拼花（engineered）已成主导品类**（气候稳定性），需求集中在沙特+UAE，酒店/别墅端偏好宽板橡木与定制化 — 与方所产品档案完全对齐。
+  3. 采购模式变化：超级工程已从现货采购转向**多年期 quarry/工厂直供承诺+第三方 QC 协议**（批次厚度公差 ±0.5mm、CNC 红外切割成硬性门槛）— 供应商资质文件需按此标准升级。
 
 ### 🏆 竞品动态
-- **Kährs**：Domotex 2026 推出 Kährs Infinity 高人流商用系列（14 色，医院/学校/公共建筑向），继续向 contract 渠道下沉。
-- **Foglie d'Oro**：主推 Relevo 3D 模块化胡桃/橡木墙板 + Jumbo Floor（450cm 长板）+ Maxi Chevron 45° 鱼骨，深化"地板+墙板整体木作"叙事（借力 Arte Brotto 家具协同）——对我方产品线扩展的直接对标样本。
+- **Foglie d'Oro**：米兰展 2026 与母公司 Arte Brotto 联合出展，发布 **Colorsense 色彩系统**（9 种新色调，地板+墙板+家具一体化配色）— "整屋木作色彩一体化"正在成为高端拼花品牌的新卖点，值得方所借鉴。
+- **Listone Giordano**：米兰设计周 2026（4/21-26）参展，Natural Genius 系列继续由 Marc Sadler / Piero Lissoni 大师背书；项目案例含开罗 Khufu's Restaurant、Tel Aviv Urban Luxury、Miami San Lorenzo 游艇 — 注意其已打入**埃及开罗**与游艇渠道。
 
 ### 💡 洞察/启发
-- **兄弟代理补充（cron:682cbda1900f）**：本日另有并行情报写入同一文件；如发现条目缺失请以双方版本合并为准，本节为占位说明。
-- **窗口期**：Shura Island 8 家酒店年底集中开业 + 305 套私宅交付，是 2026 Q4 前 GCC 拼花采购密度最高的时点；建议本月内完成 RSG 供应商准入路径调研。
-- **展会杠杆**：ARTDOM Riyadh（10月）+ Saudi Wood Show（9月）双展联动，是低成本触达沙特顶奢渠道的黄金两周，可考虑借展/联展而非自建展位。
-- **模式启示**：Foglie d'Oro 的"地板+墙板+家具"整体木作方案提升了客单价与粘性——方所可考虑以拼花地板为核心延伸 3D 墙板概念进入 Saudi villa 渠道。
-- **风险提示**：RSG Phase Two 暂停印证 PIF 资金纪律收紧，GCC 线索分级应优先"已授标、在建、即将开业"项目，弱化"规划中"叙事。
+- **NEOM 陷阱确认**：两份独立 scorecard 均显示 NEOM 进入战略收缩，本贵若此前在 NEOM 线索上投入，应整体迁移至 **Diriyah Gate（最接近交付、fit-out 窗口正在打开）**。
+- **fit-out 公司 = 被低估的杠杆客户**：GCC 头部 fit-out 集团（TopRock/Alpago/Abra）自有 joinery 工厂，材料采购决策权集中在集团层面，一个供应商协议可覆盖多国项目 — 优先级应高于单项目开发商。
+- 竞品 "Colorsense/整木定制色彩系统" 启示：方所可打包「地板+墙板同色系方案」进入设计师渠道提案，提高客单与粘性。
