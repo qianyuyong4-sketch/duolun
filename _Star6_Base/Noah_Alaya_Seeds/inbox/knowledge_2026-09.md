@@ -1,30 +1,32 @@
-# Noah Alaya Seeds · 知识入库 2026-09
+# Noah 知识库 · 2026-09
 
-## [2026-09-20] 商业情报速报
+## [2026-09-23] 商业情报速报
 
 ### 🔥 高价值线索（可直接跟进）
 | # | 类别 | 公司/项目名 | 链接 | 关键信息 | 行动建议 |
 |---|------|-------------|------|----------|----------|
-| 1 | 基建/fit-out | CK Architecture (Dubai) | ckarchitecture.com | 超豪华住宅 joinery+fit-out 一体化，Palm Jumeirah Billionaires' Row 别墅项目，合作品牌 Minotti/Poliform/Fendi Casa，创始人 Cem Kapancioglu | Tier 1：邮件+LinkedIn 直联创始人，推橡木人字拼/鱼骨拼定制方案 |
-| 2 | 经销商扩店 | SANIPEX GROUP (Dubai) | linkedin.com/company/sanipexgroup | 迪拜建材批发巨头（501-1000人），2026 年在多哈 Salwa Road 新开 BYSTRO 旗舰展厅，含 surfaces 品类；新签 Tom Dixon 合作 | Tier 2： surfaces 采购线接触，多哈新展厅或需地板品类补充 |
-| 3 | 经销商/展厅 | Conmarble (Riyadh) | gulfconstructiononline.com | 新开利雅得展厅，主打天然材料+健康空间理念，与方所「天然木质+设计师渠道」高度契合 | Tier 2：洽谈展厅寄样，天然工程拼花是其品类缺口 |
-| 4 | 行业展会 | ARTDOM RIYADH 2026 (10月) | artdom-expo.com | 沙特最高端家具/内饰/艺术博览会，汇聚 VADA Design、Art de Vivre 等豪宅供应链；October 2026 召开在即 | Tier 1：立即评估参展/观展，收集 A/A+ 客户名单 |
-| 5 | 基建采购 | Diriyah Gate 供应商窗口 | investriyadh.ai | Bab Samhan 区进入内装 fit-out 阶段；承包商含 El-Seif、中建、Shapoorji Pallonji 等；Najdi 传统风格+奢牌酒店 | Tier 1：向 El-Seif / 中建 fit-out 采购部门投递资质包 |
+| 1 | 基建招标 | Diriyah Gate (Diriyah Company) | kanzotech.com/blog/diriyah-gate-whats-built-whats-coming-and-what-it-means-for-suppliers | 已授标超 SAR 1200亿（$32B）；主要承包商：El-Seif、中建、Shapoorji Pallonji、Albawani 等；Wadi Safar 超豪华封闭社区（高尔夫+马术）推进中 | 锁定 El-Seif / Shapoorji Pallonji 的 FF&E 与精装材料采购口，推高端拼花方案 |
+| 2 | 基建招标 | AMAALA (Red Sea Global) | vision2030.ai/analysis/kill-list | AMAALA 2026 年迎首批客人，1267 间客房/9 度假村；Red Sea 酒店组合 2026 年翻倍至 16 家（Four Seasons、Ritz-Carlton、Rosewood、Six Senses） | Phase 1 运营中=精装/翻新与配套采购窗口；避开 Phase 2 冻结风险 |
+| 3 | 超豪华承包商 | Crown Bespoke International (+Hamzari Group UAE) | crown-building.com | 迪拜/阿布扎比/利雅得超豪华私宅与王室客户定制建造，直接从意大利/法国/葡萄牙采购实木细木作 | Tier 1 直接触达：官网明示欢迎 KSA/卡塔尔客户引荐，正好切拼花供应位 |
+| 4 | 精装承包商 | Ray Fit-Out & Interiors (Dubai) | ckarchitecture.com | 家族企业 30+ 年，超豪华私人别墅/豪宅定制细木作，自有 15,000 sq ft 工厂 | Tier 2：别墅渠道，与 Lux & Beyond 模型同构，材质采购决策链短 |
+| 5 | 精装承包商 | Alpago Design and Build (Dubai) | ckarchitecture.com | 超豪华住宅设计+定制制造一体化，主打 premium materials | Tier 2：联系其材料采购/FF&E 团队 |
+| 6 | 精装承包商 | Al Tayer Stocks Interiors (Dubai) | commercialinteriordesign.com/power-lists/fit-out-firm-power-list-2026 | 几乎只做超高端住宅细分，供应链伙伴网络强 | Tier 2：超豪华住宅供应商准入机会 |
+| 7 | 精装承包商 | ALEC FITOUT (UAE/KSA) | commercialinteriordesign.com | 2026 营收预测 AED 11亿，酒店/博物馆/主题项目，覆盖 UAE+KSA | Tier 2：大体量 hospitality 拼花需求方 |
+| 8 | 精装承包商 | AMAQ Interiors (Riyadh) | commercialinteriordesign.com | 利雅得总部，营收同比 +207%，年交付 41 项目 85万+ sq ft，含 InterContinental Riyadh | Tier 2：沙特本地增长最快的 fit-out 之一，优先接触 |
 
 ### 📊 市场情报（趋势参考）
-- **区域**: GCC / 中东
+- **区域**: GCC（沙特+UAE 占最大份额）
 - **内容**:
-  - GCC 地板市场 2026 约 $6.8B，CAGR 6.4% 至 2035；hardwood 在豪宅与精品酒店段利润池最高（MarkWide Research）
-  - MENA 拼花市场从高端小众转向主流，供给高度依赖欧洲/东南亚进口，本地制造薄弱 → 直接进口空间大（IndexBox）
-  - Diriyah Gate 已授标超 SAR 1200亿（$32B），完工期延至 2030，采购管线仍有多年窗口；Bab Samhan 内装进行中
+  1. GCC 地板市场 2026 约 $5.8–6.8B，CAGR ~6.4% 至 2035；酒店建设（迪拜/利雅得）为主要驱动（markwideresearch.com / morganreedinsights.com）
+  2. MENA 拼花市场仍为净进口（欧、东南亚、中国供货）；厚耐磨层高端工程拼花溢价显著；沙特 ICV 本地化政策兴起（indexbox.io）
+  3. ROSHN 承诺 SAR 3500亿 混合社区（150万人），持续性精装需求；Dar Global 用奢侈品牌联名卖设计（SAR 8.8亿项目）（Mordor Intelligence）
 
 ### 🏆 竞品动态
-- **Listone Giordano**: 2026 Milan Design Week 参展（Rho Fiera H24 D37）+ LISTONE GIORDANO ARENA 4/20-26 活动； yacht 项目（San Lorenzo Yacht Miami）持续 — 游艇渠道被其占据
-- **Parador**: 2026 推新系列 Harmonia（Tactus/Favo/Sensus 等），英国市场 104 个工程木产品，宽板+个性橡木纹理取向
-- **Foglie d'Oro**: 主推 Relevo 3D 模块化木饰面板（Walnut/Oak），从地板延伸至墙板 — 品类扩张信号，方所可对标
-- **Kährs**: 无重大新品信号；其在沙特的代理 Wood Floors Middle East 已在排除清单（渠道封闭）
+- **Foglie d'Oro**: 米兰 Salone 2026 展位「SHAPED over TIME」，与 Arte Brotto 联合呈现（家具+墙板+地板一体化叙事），60 周年品牌动作
+- **Listone Giordano**: 新系列 Supernova（与 Studio Oliosopatras 合作，Fontaine 线 Civita 色，凹凸模块拼接）——模块化拼花设计语言值得对标
 
 ### 💡 洞察/启发
-- **玻璃与石材行业报告共同指向「Modernized Islamic Geometry + Natural Fluidity」美学** — 拼花定制可顺势推几何图案镶嵌款（用 Foglie d'Oro Diamante/Fenice 类比），瞄准沙特宫殿/豪宅
-- **SASO 标准+Estidama/Mostadam 绿建趋严**：低 VOC 认证将成为 GCC 地板准入门槛，方所出口样品包应提前附 FSC/低VOC 文件
-- **Diriyah Najdi 风格 + 数字材料护照（Digital Material Passport）趋势**：可追溯溯源 QR 成为 giga-project 采购新要求，建议提前准备原产地+检测报告包
+- **Red Sea Phase 2 冻结风险**：2026 年底 RSG 二期施工暂停（运营成本超收入），但 Phase 1 酒店组合翻倍 → 高端拼花切入应瞄准**已开业度假村的翻新/配套 FF&E**，而非新盘投标
+- **Diriyah 是最确定标的**：$63B 总盘子、2024 年以来已授 $27B+，且 Wadi Safar 超豪华住宅定位与本方所产品（人字拼/拼花/橡木）高度契合
+- **Listone 的模块化 Supernova** 启示：凹凸互锁拼花模块可作方所差异化产品提案，讲「Made for GCC villas」故事
+- 沙特 ICV（本地价值）政策将逐步要求进口商证明本地合作 → 提前考虑与沙特本地经销商/安装商绑定，构建准入筹码
