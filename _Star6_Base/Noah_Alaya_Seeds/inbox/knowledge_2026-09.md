@@ -1,32 +1,29 @@
-# Noah 知识库 · 2026-09
+# Noah 知识采集 · 2026-09
 
-## [2026-09-23] 商业情报速报
+## [2026-09-24] 商业情报速报
 
 ### 🔥 高价值线索（可直接跟进）
 | # | 类别 | 公司/项目名 | 链接 | 关键信息 | 行动建议 |
 |---|------|-------------|------|----------|----------|
-| 1 | 基建招标 | Diriyah Gate (Diriyah Company) | kanzotech.com/blog/diriyah-gate-whats-built-whats-coming-and-what-it-means-for-suppliers | 已授标超 SAR 1200亿（$32B）；主要承包商：El-Seif、中建、Shapoorji Pallonji、Albawani 等；Wadi Safar 超豪华封闭社区（高尔夫+马术）推进中 | 锁定 El-Seif / Shapoorji Pallonji 的 FF&E 与精装材料采购口，推高端拼花方案 |
-| 2 | 基建招标 | AMAALA (Red Sea Global) | vision2030.ai/analysis/kill-list | AMAALA 2026 年迎首批客人，1267 间客房/9 度假村；Red Sea 酒店组合 2026 年翻倍至 16 家（Four Seasons、Ritz-Carlton、Rosewood、Six Senses） | Phase 1 运营中=精装/翻新与配套采购窗口；避开 Phase 2 冻结风险 |
-| 3 | 超豪华承包商 | Crown Bespoke International (+Hamzari Group UAE) | crown-building.com | 迪拜/阿布扎比/利雅得超豪华私宅与王室客户定制建造，直接从意大利/法国/葡萄牙采购实木细木作 | Tier 1 直接触达：官网明示欢迎 KSA/卡塔尔客户引荐，正好切拼花供应位 |
-| 4 | 精装承包商 | Ray Fit-Out & Interiors (Dubai) | ckarchitecture.com | 家族企业 30+ 年，超豪华私人别墅/豪宅定制细木作，自有 15,000 sq ft 工厂 | Tier 2：别墅渠道，与 Lux & Beyond 模型同构，材质采购决策链短 |
-| 5 | 精装承包商 | Alpago Design and Build (Dubai) | ckarchitecture.com | 超豪华住宅设计+定制制造一体化，主打 premium materials | Tier 2：联系其材料采购/FF&E 团队 |
-| 6 | 精装承包商 | Al Tayer Stocks Interiors (Dubai) | commercialinteriordesign.com/power-lists/fit-out-firm-power-list-2026 | 几乎只做超高端住宅细分，供应链伙伴网络强 | Tier 2：超豪华住宅供应商准入机会 |
-| 7 | 精装承包商 | ALEC FITOUT (UAE/KSA) | commercialinteriordesign.com | 2026 营收预测 AED 11亿，酒店/博物馆/主题项目，覆盖 UAE+KSA | Tier 2：大体量 hospitality 拼花需求方 |
-| 8 | 精装承包商 | AMAQ Interiors (Riyadh) | commercialinteriordesign.com | 利雅得总部，营收同比 +207%，年交付 41 项目 85万+ sq ft，含 InterContinental Riyadh | Tier 2：沙特本地增长最快的 fit-out 之一，优先接触 |
+| 1 | 经销商/设计渠道 | Crown Bespoke International (Dubai) | https://crown-building.com/crown-bespoke-international.html | 超豪华私宅 fit-out，直接从意/法/葡/西采购硬木 joinery；承接 Palm Jumeirah / Emirates Hills / Saadiyat 项目，并主动寻求 KSA、卡塔尔客户 | Tier1：邮件+LinkedIn 联系，提供橡木拼花样品包，强调意大利/欧洲高端定位 |
+| 2 | 经销商/设计渠道 | Ray Fit-Out & Interiors (Dubai) | https://ckarchitecture.com/journals/joinery-fit-out-companies-in-dubai | 家族经营超豪华私宅别墅 joinery，Al Qusais 自有 15,000 sqft 工厂，含私人飞机内饰业务 | Tier1：直接供应商开发邮件，主打鱼骨/人字拼定制 |
+| 3 | Fit-out 大单 | Bond Interiors (Dubai) | https://commercialinteriordesign.com/power-lists/fit-out-firm-power-list-2026-showcasing-creativity-craftsmanship-innovation | 承接 AED 1.6 亿 Burj Al Bahar–Tawazun HQ 翻新（14,500㎡，LEED Gold），550,000 sqft 迪拜工业城自有工厂 | Tier2：以 LEED/FSC 认证切入其采购部门 |
+| 4 | Fit-out 大单 | AMAQ Interiors (Riyadh) | 同上 | 利雅得设计-施工一体化，年营收增速 207%，过去一年交付 41 项目/85 万 sqft，含 InterContinental Riyadh | Tier1：沙特本地扩张期，急需欧洲高端材料供应商背书 |
+| 5 | 工程渠道 | Diriyah Gate / Wadi Safar 超级工程 | https://kanzotech.com/blog/diriyah-gate-whats-built-whats-coming-and-what-it-means-for-suppliers | 合同已超 SAR 1,200 亿（$32B），主承包商含 El-Seif、中国建筑、Shapoorji Pallonji、Albawani；Wadi Safar=超大豪华封闭社区（高尔夫/马术） | Tier2：锁定上述总包的装修分包/材料采购口 |
+| 6 | 经销商 | Hillswood Designs (Dubai/Abu Dhabi) | https://ebarza.com/blogs/news/where-to-buy-parquet-flooring-in-dubai-and-abu-dhabi-in-2026 | 定位「环保+定制拼花」，与 Floorworld/Nordic Homeworx 渠道封闭商不同，属可客开对象 | Tier2：背调+联系，提供 custom parquet 差异化方案 |
 
 ### 📊 市场情报（趋势参考）
-- **区域**: GCC（沙特+UAE 占最大份额）
+- **区域**: GCC / MENA
 - **内容**:
-  1. GCC 地板市场 2026 约 $5.8–6.8B，CAGR ~6.4% 至 2035；酒店建设（迪拜/利雅得）为主要驱动（markwideresearch.com / morganreedinsights.com）
-  2. MENA 拼花市场仍为净进口（欧、东南亚、中国供货）；厚耐磨层高端工程拼花溢价显著；沙特 ICV 本地化政策兴起（indexbox.io）
-  3. ROSHN 承诺 SAR 3500亿 混合社区（150万人），持续性精装需求；Dar Global 用奢侈品牌联名卖设计（SAR 8.8亿项目）（Mordor Intelligence）
+  1. 迪拜木地板 2026 趋势：大规格人字拼（90×600mm+）与 Chevron 替代微拼块；灰洗色退潮，暖调法橡/蜂蜜色兴起；工程木全面压倒实木（空调湿度差）——与方所「橡木浅-中暖色+人字/鱼骨」产品档案高度契合。
+  2. MENA 拼花市场为净进口市场，主要货源为欧洲（德/瑞典/波兰）、东南亚与中国；GCC 高价值规格驱动型市场与北非/黎凡特价格敏感市场分化加剧。
+  3. GCC 洲内约 60 万间酒店客房在建，对应 $1,100 亿 fit-out 积压；UAE 室内设计市场 2026 达 $19.4 亿、CAGR ~10%。
 
 ### 🏆 竞品动态
-- **Foglie d'Oro**: 米兰 Salone 2026 展位「SHAPED over TIME」，与 Arte Brotto 联合呈现（家具+墙板+地板一体化叙事），60 周年品牌动作
-- **Listone Giordano**: 新系列 Supernova（与 Studio Oliosopatras 合作，Fontaine 线 Civita 色，凹凸模块拼接）——模块化拼花设计语言值得对标
+- **Listone Giordano**: 2026 年 4 月与 Studio Oliosopatras 推出 Supernova 新系列——单一模块凹凸拼接橡木拼花（Civita 色，Fontaine 线），米兰 S.Project 展出；另进入美国丹佛新开多品牌展厅 ORO（Kitchen Distributors，2026-05 开业），显示其北美高端多品牌展厅渠道扩张。
+- **竞品渠道壁垒**: Nordic Homeworx（Kahrs 中东授权，Sidra Tower 19,000 sqft 展厅）、Floorworld（16 店）继续垄断中端零售；但超豪华私宅段（Crown Bespoke、Ray、Alpago）尚无强势欧洲拼花地板独占品牌。
 
 ### 💡 洞察/启发
-- **Red Sea Phase 2 冻结风险**：2026 年底 RSG 二期施工暂停（运营成本超收入），但 Phase 1 酒店组合翻倍 → 高端拼花切入应瞄准**已开业度假村的翻新/配套 FF&E**，而非新盘投标
-- **Diriyah 是最确定标的**：$63B 总盘子、2024 年以来已授 $27B+，且 Wadi Safar 超豪华住宅定位与本方所产品（人字拼/拼花/橡木）高度契合
-- **Listone 的模块化 Supernova** 启示：凹凸互锁拼花模块可作方所差异化产品提案，讲「Made for GCC villas」故事
-- 沙特 ICV（本地价值）政策将逐步要求进口商证明本地合作 → 提前考虑与沙特本地经销商/安装商绑定，构建准入筹码
+- **避实击虚机会**: 中东拼花零售被 Kahrs/Floorworld 封锁，但「超豪华私宅定制 fit-out」段（Crown Bespoke / Ray / Alpago / Al Tayer Stocks）靠进口意/欧材料，无拼花地板专属供应关系——正是 Foglie d'Oro 意大利品牌代理模型（Lux & Beyond 范本）的空档。
+- **风险预警**: Red Sea Global Phase 2 传 2026 底停建（官方否认），AMAALA 2026 年首批 1,267 间客房开业是确定性节点；对红海系项目线索应优先押 AMAALA/Phase 1 运营酒店翻新，谨慎投入 Phase 2。
+- **暖色调时机**: 迪拜 2026 暖橡/蜂蜜色趋势与方所档案完全一致，样品包应剔除灰洗色 SKU，主推浅-中暖法橡人字/鱼骨大规格。
