@@ -1,30 +1,31 @@
-# Noah Alaya Seeds · 知识采集 (2026-09)
+# Noah 知识库 · 2026-09
 
-## [2026-09-25] 商业情报速报
+## [2026-09-26] 商业情报速报
 
 ### 🔥 高价值线索（可直接跟进）
 | # | 类别 | 公司/项目名 | 链接 | 关键信息 | 行动建议 |
 |---|------|-------------|------|----------|----------|
-| 1 | 基建招标 | Waldorf Astoria Diriyah Super Block（Hassan Allam + UCC JV 总包） | https://constructionreviewonline.com/waldorf-astoria-diriyah-super-block-contract-awarded-to-hassan-allam-and-ucc-jv | SAR 27亿(~$7.2亿)，200房酒店+47品牌住宅，2026动工；PIF在Diriyah/Wadi Safar规划40个奢华酒店项目 | 联系JV采购部推介工程拼花/人字拼（HS 4418740090），Tier 1 |
-| 2 | 基建招标 | KAFD 最新酒店（SAUDICO + ALEC FITOUT 联合体） | https://ksatendersgate.com/kafd-awards-contract-for-latest-hospitality-project-to-saudico-alec-fitout | 16层210房、BUA 26,500m²，含全部装修与家具供应；ALEC刚完成Diriyah Gate游客中心 | ALEC FITOUT为GCC头部fit-out（2026营收预估AED 11亿），锁定其材料采购口，Tier 1 |
-| 3 | 设计渠道 | Capella Diriyah / Four Seasons Diriyah / Oberoi Wadi Safar / Orient Express Diriyah（Aedas设计） | https://e-architect.com/saudiarbia/diriyah-luxury-hotel-designs | 四大旗舰奢华酒店设计推进中，Najdi工艺叙事强调材质质感 | 面向Aedas及Diriyah Company材料规格师发送拼花案例册，Tier 2 |
-| 4 | Fit-out 渠道 | Finasi（阿联酋，意大利背景 fit-out + 自有64,000 sq ft工厂） | https://identity.ae/the-making-of-nammos-dubai | 刚交付Nammos Dubai高端餐饮项目（马赛克拼花级工艺），强项定制细木工 | 意大利血统+定制木工=高契合；邮件+WhatsApp联系BD合伙人Hisham Sultan，Tier 1 |
-| 5 | Fit-out 渠道 | Alpago Design and Build / Ray Fit-Out / Al Tayer Stocks（迪拜超豪别墅段） | https://ckarchitecture.com/journals/joinery-fit-out-companies-in-dubai | 2026迪拜joinery fit-out十强；Ray专做超豪私人别墅、Al Tayer做皇宫级住宅 | 按Tier 2分批触达，主打人字拼/鱼骨拼别墅方案 |
-| 6 | 设计渠道 | AMAQ Interiors（利雅得，2026 KSA年度fit-out大奖） | https://commercialinteriordesign.com/ksa/the-stories-behind-all-20-winners-at-cid-awards-2026-saudi | 营收同比+207%，Riyadh总部、LEED项目多，正区域扩张 | 沙特本地新兴买家，契合Vision 2030本地化采购；Tier 2 |
+| 1 | 基建招标 | Diriyah Gate — Grand Avenue 地块 | gulfconstructiononline.com/Article/461824/mega-projects-update | 累计授标 SAR120B；Grand Avenue 1.9km：85,000㎡零售+2,400奢华住宅+6家酒店；MIPIM 2026 公布规划。Najdi 传统风格+奢华酒店=拼花地板高契合场景 | 锁定 Grand Avenue 酒店/零售包 fit-out 总包与 FF&E 采购团队；可经 LinkedIn 找 Diriyah Company 采购负责人 |
+| 2 | 基建招标 | Red Sea Global / Amaala | riyadh2030.ai/dashboards/giga-project-scorecard | Phase 1 运营中（9家酒店营业），2026 年翻倍至16家（Four Seasons/Ritz-Carlton/Rosewood/Six Senses）；Amaala 超奢定位在建 | 针对 2026 年开业的酒店包，联系 RSG 分类采购团队（强调可持续认证=FSC 契合点） |
+| 3 | 设计渠道 | Al Tayer Stocks Interiors (Dubai) | commercialinteriordesign.com Fit-Out Power List 2026 | 皇家级住宅/宫殿级 fit-out，超奢住宅专属，供应链合作网络成熟 | Tier 2 客开：邮件+LinkedIn，主打皇家级别墅拼花方案 |
+| 4 | 设计渠道 | Bottega Living (Dubai/Italy) | 同上 | 意大利注册+迪拜运营，服务 Cartier/LV/Dior 等高端客户，48年定制木作经验 | 意大利血统+迪拜高端住宅渠道，与意系拼花天然契合，优先接触 |
+| 5 | 设计渠道 | AMAQ Interiors (Riyadh) | 同上 | Riyadh 总部，YoY 营收+207%，年交付41个项目，LEED 认证，区域扩张中 | 高增长期新供应商需求强，沙特本地渠道切入点 |
+| 6 | 设计渠道 | idworks (Riyadh HQ) | 同上 | 沙特总部+迪拜/约旦办公室；KAFD Savvy Games 总部、17,000㎡ KAFD HQ 项目 | 主打 KAFD/高端办公与酒店场景，Tier 2 跟进 |
+| 7 | 设计渠道 | Ray Fit-Out & Interiors (Dubai) | ckarchitecture.com/journals/joinery-fit-out-companies-in-dubai | 家族企业30年，超奢私人别墅/庄园定制细木作，自有工厂 | 别墅渠道模型（对标 Lux & Beyond），精准匹配人字拼/鱼骨拼别墅需求 |
 
 ### 📊 市场情报（趋势参考）
-- **区域**: GCC（沙特/阿联酋）
+- **区域**: 中东（GCC）
 - **内容**:
-  - NEOM 2026年3月起大额合同取消/缩减：Webuild $47亿Trojena大坝包终止、The Line缩至首期~2km，PIF建筑承诺从$710亿降至$300亿（-60%），资金转向FIFA 2034球场与Expo 2030。→ NEOM渠道风险上调，权重转向Diriyah/Wadi Safar/Qiddiya。
-  - GCC奢侈品家居市场：$48亿(2026)→$101.7亿(2035)，CAGR 8.7%；迪拜/利雅得酒店fit-out预算扩张，业主方正在把家具/材料采购从总包剥离、直连专业fit-out商（去中介化）。
-  - 迪拜2025前三季交付1,794栋私人别墅，高端装修预算上探至€2,794/m²——别墅段拼花需求有硬数据支撑。
+  - NEOM 整体评级 D（部分停摆），Sindalah 岛移交 RSG 管理、最早2027开放；资源应避开 NEOM 包，转向 Diriyah（评级 A）与 RSG（B+）
+  - GCC 约 600,000 间酒店客房在建，对应 USD 110B fit-out 积压订单；ROSHN 承诺 SAR 350B 规划社区
+  - 沙特 Vision 2030 管道超 USD 850B，高端装饰材料高度依赖进口（本地厂商集中于低端瓷砖/石膏板）——拼花进口商窗口持续打开
 
 ### 🏆 竞品动态
-- **Listone Giordano**: 与Studio Oliosopatras推出Supernova新系列（Civita色橡木、凹凸模块拼装），走模块化设计拼花路线（IFDM 2026-04）。
-- **Foglie d'Oro**: 参展 Salone del Mobile 2026，与Arte Brotto联合呈现「Shaped over Time」整体木作空间（地板+墙板+家具一体化叙事）。
-- **Kahrs**: 产品线继续压向2-layer设计款（Piazza/Large Herringbone，11mm+3.5mm耐磨层、仅胶粘铺装），配合Grosvenor等UK经销商教育市场——印证"设计款人字拼+胶粘工艺"是高端段主流卖点。
+- **Foglie d'Oro / Arte Brotto**: 米兰展 2026「SHAPED over TIME」——地板从2D延展至墙面，Total Match 地板+墙板一体化叙事；经典款 Diamante Chic（65+手工元素）与 Ventaglio 零售空间款持续输出
+- **Listone Giordano**: 与 Studio Piet Boon 联名 OPERA APERTA 模块化拼花系统（文艺复兴灵感，单基材多拼法）；另有 Supernova 橡木拼花（Studio Oliosopatras）；将参展 EquipHotel 2026（11月2-5日巴黎）
+- **市场格局**: 全球拼花市场 2026 约 USD 62.7B → 2033 USD 96.8B（CAGR 6.4%），主力玩家 Tarkett/Kahrs/Listone Giordano/Berti 等
 
 ### 💡 洞察/启发
-- **NEOM退潮，Diriyah涨潮**：NEOM合同大砍60%，但Diriyah同期连发40个奢华酒店标——猎鹰搜索关键词权重应从NEOM/Red Sea向Diriyah/Wadi Safar/Qiddiya倾斜。
-- **去中介化红利**：GCC业主方绕开总包直采专业fit-out，意味着Noah应直接攻fit-out公司材料采购口（ALEC、Finasi、AMAQ类），而非只盯开发商。
-- **竞品叙事借鉴**：Foglie d'Oro/LG都在做"整体木作空间"叙事——方所展厅图与营销物料可对齐这一策略（地板+墙板+家具一体化呈现）。
+- **战略机会**: 竞品集体走向「地板+墙板一体化（Total Match）」叙事——方所可借力同款话术进入 GCC 高奢酒店与别墅渠道，与 FF&E 包绑定报价
+- **渠道选择**: NEOM 风险已确认，客开资源应集中在 Diriyah Gate Grand Avenue 与 RSG 2026 新开酒店的 fit-out/FF&E 承包商（A&T Group、Havelock One、idworks 等已入围名单为切入跳板）
+- **展会雷达**: EquipHotel 2026（11月，巴黎）是 Listone Giordano 出没的酒店渠道展会，可作为中东酒店 fit-out 客户线下触点参考
