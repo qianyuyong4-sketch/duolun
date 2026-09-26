@@ -1,31 +1,34 @@
-# Noah 知识库 · 2026-09
+# Noah 知识采集 2026-09
 
-## [2026-09-26] 商业情报速报
+## [2026-09-27] 商业情报速报
 
 ### 🔥 高价值线索（可直接跟进）
 | # | 类别 | 公司/项目名 | 链接 | 关键信息 | 行动建议 |
 |---|------|-------------|------|----------|----------|
-| 1 | 基建招标 | Diriyah Gate — Grand Avenue 地块 | gulfconstructiononline.com/Article/461824/mega-projects-update | 累计授标 SAR120B；Grand Avenue 1.9km：85,000㎡零售+2,400奢华住宅+6家酒店；MIPIM 2026 公布规划。Najdi 传统风格+奢华酒店=拼花地板高契合场景 | 锁定 Grand Avenue 酒店/零售包 fit-out 总包与 FF&E 采购团队；可经 LinkedIn 找 Diriyah Company 采购负责人 |
-| 2 | 基建招标 | Red Sea Global / Amaala | riyadh2030.ai/dashboards/giga-project-scorecard | Phase 1 运营中（9家酒店营业），2026 年翻倍至16家（Four Seasons/Ritz-Carlton/Rosewood/Six Senses）；Amaala 超奢定位在建 | 针对 2026 年开业的酒店包，联系 RSG 分类采购团队（强调可持续认证=FSC 契合点） |
-| 3 | 设计渠道 | Al Tayer Stocks Interiors (Dubai) | commercialinteriordesign.com Fit-Out Power List 2026 | 皇家级住宅/宫殿级 fit-out，超奢住宅专属，供应链合作网络成熟 | Tier 2 客开：邮件+LinkedIn，主打皇家级别墅拼花方案 |
-| 4 | 设计渠道 | Bottega Living (Dubai/Italy) | 同上 | 意大利注册+迪拜运营，服务 Cartier/LV/Dior 等高端客户，48年定制木作经验 | 意大利血统+迪拜高端住宅渠道，与意系拼花天然契合，优先接触 |
-| 5 | 设计渠道 | AMAQ Interiors (Riyadh) | 同上 | Riyadh 总部，YoY 营收+207%，年交付41个项目，LEED 认证，区域扩张中 | 高增长期新供应商需求强，沙特本地渠道切入点 |
-| 6 | 设计渠道 | idworks (Riyadh HQ) | 同上 | 沙特总部+迪拜/约旦办公室；KAFD Savvy Games 总部、17,000㎡ KAFD HQ 项目 | 主打 KAFD/高端办公与酒店场景，Tier 2 跟进 |
-| 7 | 设计渠道 | Ray Fit-Out & Interiors (Dubai) | ckarchitecture.com/journals/joinery-fit-out-companies-in-dubai | 家族企业30年，超奢私人别墅/庄园定制细木作，自有工厂 | 别墅渠道模型（对标 Lux & Beyond），精准匹配人字拼/鱼骨拼别墅需求 |
+| 1 | 基建招标 | Diriyah Gate | vision2030.ai/analysis/kill-list | 总盘 $63.2B，2024 以来已授标 $27B+，2025 授予 $1.5B Arena Block 合同（含 3 栋混合用途办公楼）；完工期推至 2030 但在加速执行 | 盯 Arena Block 与后续heritage精装标段的木地板/拼花采购窗口，主动接触其 fit-out 分包商 |
+| 2 | 基建招标 | AMAALA（Red Sea Global） | vision2030.ai | 2026 年迎首批客人，1,267 间客房 / 9 家度假酒店；Red Sea 2026 年酒店组合翻倍至 16 家（Four Seasons、Ritz-Carlton、Rosewood、Six Senses） | 酒店 FF&E 采购高峰在即，锁定 hospitality fit-out 承包商清单（Tier 1 时机） |
+| 3 | 基建情报 | Red Sea Global Phase 2 | vision2030.ai | Phase 2 据报放缓（"no more construction approved"，2026 底停工传闻，RSG 官方否认）；Sindalah 移交 RSG，最早 2027 开放 | 风险信号：RSG Phase 2 相关投入降级，营销资源转向 AMAALA/Diriyah/Qiddiya |
+| 4 | 经销商/设计端 | Crown Bespoke International | crown-building.com | 迪拜+阿布扎比超豪私宅 fit-out（Palm Jumeirah、Emirates Hills、Saadiyat），从意法葡西直采材料，正拓展沙特与卡塔尔市场 | 高契合：进口高端建材渠道，KSA/Qatar 扩张期需要欧洲拼花供应，直接邮件+LinkedIn |
+| 5 | 经销商/设计端 | Ray Fit-Out & Interiors | ckarchitecture.com | 家族经营 30+ 年，迪拜 Al Qusais 自有 15,000 sqft 工厂，主营超豪私人别墅/豪宅翻新/私人飞机内饰 | 超豪别墅拼花需求方，Tier 2，可提供人字拼/鱼骨拼样品合作 |
+| 6 | 经销商/设计端 | NU Projects / Al Tayer Stocks Interiors | ckarchitecture.com | NU：英式标准超豪别墅翻新；Al Tayer Stocks：迪拜顶端 luxury fit-out，ultra-premium 住宅专属供应链网络 | 均为欧洲高端材料采购方画像（对标 Lux & Beyond 模型） |
+| 7 | 经销商/设计端 | Dar Global（ROSHN 生态） | giiresearch.com | SAR 880M（$234M）项目将高奢品牌+室内套餐绑定营销；ROSHN 承诺 SAR 350B 总盘、150 万居民 | 设计驱动营销趋势=拼花等身份感材料切入点；Dar Global 属上市 luxury developer，可技术合作 |
 
 ### 📊 市场情报（趋势参考）
-- **区域**: 中东（GCC）
+- **区域**: GCC / 沙特
 - **内容**:
-  - NEOM 整体评级 D（部分停摆），Sindalah 岛移交 RSG 管理、最早2027开放；资源应避开 NEOM 包，转向 Diriyah（评级 A）与 RSG（B+）
-  - GCC 约 600,000 间酒店客房在建，对应 USD 110B fit-out 积压订单；ROSHN 承诺 SAR 350B 规划社区
-  - 沙特 Vision 2030 管道超 USD 850B，高端装饰材料高度依赖进口（本地厂商集中于低端瓷砖/石膏板）——拼花进口商窗口持续打开
+  - GCC 室内设计市场：约 600,000 间酒店客房在建 = **$110B fit-out 积压**；Vision 2030 管线超 $850B，高端固定装置/饰面材料严重依赖进口（giiresearch.com）
+  - ROSHN Group SAR 350B 大盘持续释放 turnkey interior 需求（villa/apartment 精装）
+  - UAE 拼花市场：engineered oak 是别墅/公寓默认推荐（耐热循环），但大量供应商混卖 SPC/laminate——纯实木拼花供应商稀缺，是差异化窗口
 
 ### 🏆 竞品动态
-- **Foglie d'Oro / Arte Brotto**: 米兰展 2026「SHAPED over TIME」——地板从2D延展至墙面，Total Match 地板+墙板一体化叙事；经典款 Diamante Chic（65+手工元素）与 Ventaglio 零售空间款持续输出
-- **Listone Giordano**: 与 Studio Piet Boon 联名 OPERA APERTA 模块化拼花系统（文艺复兴灵感，单基材多拼法）；另有 Supernova 橡木拼花（Studio Oliosopatras）；将参展 EquipHotel 2026（11月2-5日巴黎）
-- **市场格局**: 全球拼花市场 2026 约 USD 62.7B → 2033 USD 96.8B（CAGR 6.4%），主力玩家 Tarkett/Kahrs/Listone Giordano/Berti 等
+- **Foglie d'Oro**: 2026-03-27 携 "SHAPED over TIME" 参展米兰 Salone del Mobile 2026；3-24 High Point MKT 春季展（对标其展会节奏：Salone + High Point 双线）
+- **Parador**: 2026 目录 104 个产品 / 9 大系列，新推 Harmonia 与 Maradune 可持续系列；英国由 Grosvenor Flooring 作 approved channel 渠道化扩张（区域授权经销商模式可借鉴）
+- **Kährs**: 217 产品/36 系列，仍是品类标杆；UAE 由 Nordic Homeworx 独家代理（19,000 sqft 展厅）
 
 ### 💡 洞察/启发
-- **战略机会**: 竞品集体走向「地板+墙板一体化（Total Match）」叙事——方所可借力同款话术进入 GCC 高奢酒店与别墅渠道，与 FF&E 包绑定报价
-- **渠道选择**: NEOM 风险已确认，客开资源应集中在 Diriyah Gate Grand Avenue 与 RSG 2026 新开酒店的 fit-out/FF&E 承包商（A&T Group、Havelock One、idworks 等已入围名单为切入跳板）
-- **展会雷达**: EquipHotel 2026（11月，巴黎）是 Listone Giordano 出没的酒店渠道展会，可作为中东酒店 fit-out 客户线下触点参考
+- **排除法利好**：迪拜拼花搜索前排供应商（Floorworld、Nordic Homeworx、Floor Land、ebarza、Risala）多为 SPC/laminate 混营或渠道封闭——方所若进中东，定位「纯欧洲实木拼花」可直接绕开该红海，对标 Crown Bespoke / Ray / NU 这类纯进口高端 fit-out 商
+- **资源再平衡**：RSG Phase 2 减速 + AMAALA 2026 开业 + Diriyah $27B 授标 = 沙特猎鹰应把 NEOM/RSG 权重下调，**Diriyah + ROSHN + Dar Global 权重上调**
+- **竞品渠道启示**：Parador 用「区域授权展厅」吃英国分散市场——方所的 Dubai/利雅得展厅型代理（Lux & Beyond 模型）仍是正确路径，优先接触正在 KSA/Qatar 扩张的 fit-out 集团（如 #4 Crown Bespoke）
+
+---
+*采集：Noah 每日编译 cron · 排除字典已加载（asdevelop / Floorworld / woodfloors.ae / SPC类 / NGO类 全部命中过滤）*
