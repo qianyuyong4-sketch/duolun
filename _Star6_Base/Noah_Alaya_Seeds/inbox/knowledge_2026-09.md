@@ -1,34 +1,35 @@
-# Noah 知识采集 2026-09
+# Noah 知识库 · 2026-09
 
-## [2026-09-27] 商业情报速报
+## [2026-09-28] 商业情报速报
+
+> 采集来源：web_search（信源 A基建/B竞品/C经销商/D趋势）。已按排除字典过滤（Floorworld、SPC/vinyl主导商、asdevelop 等命中即弃）。
 
 ### 🔥 高价值线索（可直接跟进）
+
 | # | 类别 | 公司/项目名 | 链接 | 关键信息 | 行动建议 |
 |---|------|-------------|------|----------|----------|
-| 1 | 基建招标 | Diriyah Gate | vision2030.ai/analysis/kill-list | 总盘 $63.2B，2024 以来已授标 $27B+，2025 授予 $1.5B Arena Block 合同（含 3 栋混合用途办公楼）；完工期推至 2030 但在加速执行 | 盯 Arena Block 与后续heritage精装标段的木地板/拼花采购窗口，主动接触其 fit-out 分包商 |
-| 2 | 基建招标 | AMAALA（Red Sea Global） | vision2030.ai | 2026 年迎首批客人，1,267 间客房 / 9 家度假酒店；Red Sea 2026 年酒店组合翻倍至 16 家（Four Seasons、Ritz-Carlton、Rosewood、Six Senses） | 酒店 FF&E 采购高峰在即，锁定 hospitality fit-out 承包商清单（Tier 1 时机） |
-| 3 | 基建情报 | Red Sea Global Phase 2 | vision2030.ai | Phase 2 据报放缓（"no more construction approved"，2026 底停工传闻，RSG 官方否认）；Sindalah 移交 RSG，最早 2027 开放 | 风险信号：RSG Phase 2 相关投入降级，营销资源转向 AMAALA/Diriyah/Qiddiya |
-| 4 | 经销商/设计端 | Crown Bespoke International | crown-building.com | 迪拜+阿布扎比超豪私宅 fit-out（Palm Jumeirah、Emirates Hills、Saadiyat），从意法葡西直采材料，正拓展沙特与卡塔尔市场 | 高契合：进口高端建材渠道，KSA/Qatar 扩张期需要欧洲拼花供应，直接邮件+LinkedIn |
-| 5 | 经销商/设计端 | Ray Fit-Out & Interiors | ckarchitecture.com | 家族经营 30+ 年，迪拜 Al Qusais 自有 15,000 sqft 工厂，主营超豪私人别墅/豪宅翻新/私人飞机内饰 | 超豪别墅拼花需求方，Tier 2，可提供人字拼/鱼骨拼样品合作 |
-| 6 | 经销商/设计端 | NU Projects / Al Tayer Stocks Interiors | ckarchitecture.com | NU：英式标准超豪别墅翻新；Al Tayer Stocks：迪拜顶端 luxury fit-out，ultra-premium 住宅专属供应链网络 | 均为欧洲高端材料采购方画像（对标 Lux & Beyond 模型） |
-| 7 | 经销商/设计端 | Dar Global（ROSHN 生态） | giiresearch.com | SAR 880M（$234M）项目将高奢品牌+室内套餐绑定营销；ROSHN 承诺 SAR 350B 总盘、150 万居民 | 设计驱动营销趋势=拼花等身份感材料切入点；Dar Global 属上市 luxury developer，可技术合作 |
+| 1 | 经销商/安装商 | Urban Flooring (Dubai) | https://urbanfloorings.com/parquet-flooring | 2013年成立，人字拼/鱼骨拼/编织拼 专精，实/multi-layer实木双线，10,000+项目，全UAE免费测量，+971 56 689 9831。有公开报价体系（工程人字拼 AED 110-160/㎡，定制实拼 AED 180-400/㎡） | 与方所多层实木拼花定位高度重合，**建议主动询价+寄样品**，切入其为"供+装一体商"的上游供应缺口 |
+| 2 | 经销商 | Hillswood Designs (Sharjah) | https://alumaimainteriors.com/top-parquet-flooring-suppliers-in-the-uae-2026-guide | 环保定位硬木地板商，主打定制拼花（custom parquetry），活跃于全UAE | 定制拼花=核心契合点；背调工商注册含实木地板经营范围后入池 |
+| 3 | 经销商 | Risala / parquetflooring.ae (Abu Dhabi) | https://ebarza.com/blogs/news/where-to-buy-parquet-flooring-in-dubai-and-abu-dhabi-in-2026 | 15年+ UAE 老牌，实/multi-layer木地板供应+安装，阿布扎比独立展厅，+971 50 678 7340 | 阿布扎比市场入口；注意其亦售SPC，沟通时强调工程实木拼花差异化 |
+| 4 | 基建配套 | AMAALA Triple Bay 后续室内配套窗口 | https://theluxedestination.com/news/rosewood-amaala-opens-triple-bay | 2026夏三家顶奢度假村开业（Rosewood/Equinox/Four Seasons/Six Senses），室内设计方：Tristan Auer、Rockwell Group、Foster+ Partners；AMAALA共1,600+间客房9家度假村陆续开业 | RSG系酒店开业潮→家具/FF&E与地面材料分包商进入维护更换采购期；锁定 AMAALA 认可供应商名单（AVL）申请路径 |
+| 5 | 展会 | Saudi Wood Expo 2026（与Big 5 Construct Saudi同馆） | https://saudiwoodexpo.com | 第3届，$4.1bln沙特木材市场，参展含地板/板材板块（Kastamonu、Salco、Tajco等），利雅得 | 免费获客场：目标观展商名单中筛选沙特木业进口商；建议本贵评估参展或观展 |
 
 ### 📊 市场情报（趋势参考）
-- **区域**: GCC / 沙特
-- **内容**:
-  - GCC 室内设计市场：约 600,000 间酒店客房在建 = **$110B fit-out 积压**；Vision 2030 管线超 $850B，高端固定装置/饰面材料严重依赖进口（giiresearch.com）
-  - ROSHN Group SAR 350B 大盘持续释放 turnkey interior 需求（villa/apartment 精装）
-  - UAE 拼花市场：engineered oak 是别墅/公寓默认推荐（耐热循环），但大量供应商混卖 SPC/laminate——纯实木拼花供应商稀缺，是差异化窗口
+
+- **区域：沙特** — Diriyah Gate 已授标超 $27B（2024年以来），完工期推至2030，heritage石材/木作需求持续；Red Sea Global Phase 2 传出 2026年底停建传闻（官方否认），**Phase 1 运营期翻新/维护采购是新入口**。
+- **区域：沙特** — 沙特地材供应商约96家（同比+6.5%），东部省27家/利雅得25家集中；高端翻新（利雅得/吉达别墅）从低端饰面升级为进口石材+工程实木，价格带上移。
+- **区域：UAE** — 2026 拼花采购指南显示渠道格局：Kahrs系（Nordic Homeworx，渠道封闭）、SPC量贩系（ebarza/Floor Land，排除）、独立拼花安装商（Urban Flooring、Hillswood）是尚存的开户缝隙。
 
 ### 🏆 竞品动态
-- **Foglie d'Oro**: 2026-03-27 携 "SHAPED over TIME" 参展米兰 Salone del Mobile 2026；3-24 High Point MKT 春季展（对标其展会节奏：Salone + High Point 双线）
-- **Parador**: 2026 目录 104 个产品 / 9 大系列，新推 Harmonia 与 Maradune 可持续系列；英国由 Grosvenor Flooring 作 approved channel 渠道化扩张（区域授权经销商模式可借鉴）
-- **Kährs**: 217 产品/36 系列，仍是品类标杆；UAE 由 Nordic Homeworx 独家代理（19,000 sqft 展厅）
+
+- **Listone Giordano** 进入美国高端 show-room 渠道：Denver「ORO」多品牌展厅（2026年5月开馆，与 bulthaup 同址）将其列为合作品牌——竞品正沿"欧洲整体生活馆"模式扩张，值得方所参考该渠道打法。
+- 未监测到 Foglie d'Oro / Parador / Kahrs 2026年9月新品或中东新签约公告（本轮信源覆盖内）。
 
 ### 💡 洞察/启发
-- **排除法利好**：迪拜拼花搜索前排供应商（Floorworld、Nordic Homeworx、Floor Land、ebarza、Risala）多为 SPC/laminate 混营或渠道封闭——方所若进中东，定位「纯欧洲实木拼花」可直接绕开该红海，对标 Crown Bespoke / Ray / NU 这类纯进口高端 fit-out 商
-- **资源再平衡**：RSG Phase 2 减速 + AMAALA 2026 开业 + Diriyah $27B 授标 = 沙特猎鹰应把 NEOM/RSG 权重下调，**Diriyah + ROSHN + Dar Global 权重上调**
-- **竞品渠道启示**：Parador 用「区域授权展厅」吃英国分散市场——方所的 Dubai/利雅得展厅型代理（Lux & Beyond 模型）仍是正确路径，优先接触正在 KSA/Qatar 扩张的 fit-out 集团（如 #4 Crown Bespoke）
+
+- **RSG项目生命周期红利**：Red Sea Phase 1 已开业的 8+ 家顶奢酒店（St. Regis、Six Senses、SLS 等）2026 年翻倍至16家——运营期翻新/局部改造采购比建设期投标门槛低得多，建议将"红海运营期酒店 FF&E 更新"列为新场景关键词。
+- **沙特展会被低估**：Saudi Wood Expo 与 Big 5 Construct 同馆，一次差旅可同时触达木材进口商+工程承包商，比单独投 AI 邮件命中率更高。
+- UAE 拼花安装商普遍缺上游稳定货源（依赖欧洲品牌授权），方所以工厂直供+定制拼花能力切入 Urban Flooring 类客户议价空间大。
 
 ---
-*采集：Noah 每日编译 cron · 排除字典已加载（asdevelop / Floorworld / woodfloors.ae / SPC类 / NGO类 全部命中过滤）*
+*采集执行：Noah 心体2560 · 过滤字典版本 2026-07-28*
