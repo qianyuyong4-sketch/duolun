@@ -1,6 +1,20 @@
 # Noah 知识库 · 2026-10
 
-## [2026-10-01] 商业情报速报
+## [2026-10-01] 竞品与渠道巡检（Noah Top30 增量）
+
+> 已按 exclude_list.md 过滤：Woodfloors Middle East (woodfloors.ae)、Floorworld LLC (floorworld.com) 命中黑名单已丢弃；Floor Land LLC 含 SPC/laminate 业务，按方所产品档案降级为互斥观察对象。
+
+### 🏆 竞品动态（新增）
+- **Foglie d'Oro**：Matita（Fabio Rotella 设计）入围 SBID International Design Awards 2026 地板类决赛（投票至 9/4）；另确认将参加 Architect@Work Paris 2026（10/21–22，La Villette Stand 155）——竞品在建筑师渠道持续高频曝光。
+- **Kährs**：新推 Sensation Collection（king-size plank / herringbone / chevron 三格式 × 5 色，super-matt 油面）——注意其"herringbone/chevron"命名已下探到 LVT 豪华片材，与我方实木赛道形成名称混淆风险。
+- **Nordic Homeworx**（Kährs 中东授权总代，迪拜 Sidra Tower 19,000 sqft 展厅）：ebarza 2026 迪拜买地板指南将其列为"欧认证橡木+奢墅首选"——Kährs 在 UAE 高端段声量仍在扩张（未入黑名单，建议评估是否按"渠道封闭"逻辑纳入）。
+- **市场行情基准（Dubai/Abu Dhabi 2026，Urban Flooring 公开报价）**：工程人字拼 AED 110–160/sqm、雪佛龙 120–180、纯实木/定制 180–400；拼花安装人工加价 AED 30–70/sqm。可作为中东报价对标锚点。
+
+### 💡 洞察
+- 迪拜 2026 内容营销端 herringbone/chevron 已成 SEO 主战场（ebarza/Urban/Risala 等密集发内容）——方所英文站应补 herringbone/chevron/Versailles 项目案例页抢占搜索位。
+- Kährs 用 LVT 冒名 herringbone/chevron：方所话术机会点="真实木拼花 vs 塑料仿拼花"的材质教育叙事。
+
+
 
 ### 🔥 高价值线索（可直接跟进）
 | # | 类别 | 公司/项目名 | 链接 | 关键信息 | 行动建议 |
