@@ -34,4 +34,36 @@
 4. 渠道模型启发：ORO/Listone Giordano 的「厨房/家具展厅捆绑地板」模式可反向用于方所——找 GCC 高端家具经销商做拼花地板品类补充（正是 OBEGI、Bowery 的画像）。
 
 ---
-*过滤字典已加载：asdevelop.* 域名、Appalachian/AS Develop/Bostik/Gerflor/Vinifloor/Indus/FloorWorld/Wood Floors ME 名单、nonprofit/NGO/charity/agricultural/humanitarian/religious 标签。本轮无命中（Lush Loom、Fixing Expert 因 SPC/LVT 主业按互斥规则记 ≤1 星，未列入线索表）。*
+
+## [2026-10-04] 商业情报速报
+
+### 🔥 高价值线索（可直接跟进）
+| # | 类别 | 公司/项目名 | 链接 | 关键信息 | 行动建议 |
+|---|------|-------------|------|----------|----------|
+| 1 | 高端fit-out/细木工 | DMDC Group (Dubai) | https://luxurylifestyleawards.com/experience/dmdc-group-aseel-villa-lla-award | 集成建筑+fit-out+制造+开发集团，获 2026 Luxury Lifestyle Awards 双奖（Aseel Villa, Arabian Ranches 顶豪别墅翻新）；自有 DMDC Woodworks 30,000 sqft 迪拜 Industrial City 细木工厂 + 设计事务所 + 地产开发组合 | Tier 1：自产细木工但地板大概率外采，主打「拼花地板配套其定制木作」话术，邮件触达其采购/设计负责人 |
+| 2 | 基建招标 | Diriyah Gate — Grand Avenue | https://gulfconstructiononline.com/Article/461824/mega-projects-update | 累计授标 SAR120B（$32B）；Grand Avenue 1.9km 混合主轴：85,000 sqm 零售 + 2,400 套顶豪住宅 + 6 家酒店（Langham/Chedi/Rosewood/Orient Express/Aman/Faena/Corinthia 等），MIPIM 2026 公布；另有 SAR18.75B 零售包含 400 间 Najdi 风格单元 | Tier 1：2026-2027 材料准入窗口，盯 Diriyah Company FF&E 与室内饰面采购包；Najdi 风格单元可推定制拼花方案 |
+| 3 | 酒店 FF&E | Depa Interiors / Havelock One / KA Contract | https://volant-fitout.com/blog/hotel-room-furniture-suppliers-saudi-arabia | 沙特酒店家具/FF&E 三强：Depa（Riyadh HQ，43 国交付、9 工厂）、Havelock One（巴林 520,000 sqft 工厂、Riyadh/Jeddah/Madinah/Red Sea 办事处）、KA Contract（Jazira 集团，Riyadh 双工厂）——均提供含地板/墙板的整包供应 | Tier 1-2：Havelock One 明确覆盖 Red Sea 项目区，优先触达；以「欧标多层实木拼花+项目定制」切入其 FF&E 包 |
+| 4 | 沙特设计奖渠道 | IDWORKS / INC KSA / Bluehaus | https://design-middleeast.com/winners-revealed-design-middle-east-awards-ksa-2026 | Design Middle East Awards KSA 2026：IDWORKS 获 NEOM TONOMUS HQ 室内 fit-out 年度项目+Fit-out Leader（Samer Abualia）；INC KSA 获 Fit-out Firm of the Year；Bluehaus 获室内设计年度 | Tier 2：三家均为 KSA 头部 fit-out/设计公司，有 Mega-project 履历，适合季度跟进 nurture |
+| 5 | 迪拜安装商 | Floor Concepts (Dubai) | https://floorconcepts.ae/parquet-flooring-dubai-complete-guide | 迪拜 engineered parquet 专业安装商，履历含 Atlantis The Royal + EROS Showrooms；明确外采 engineered 板材，主推 herringbone/chevron 胶粘安装 | Tier 2：直接报人字拼/鱼骨拼供应，强调大项目供货稳定性 |
+| 6 | 渠道观察 | Nordic Homeworx (Dubai, Sidra Tower 19,000 sqft) | https://ebarza.com/blogs/news/where-to-buy-parquet-flooring-in-dubai-and-abu-dhabi-in-2026 | Kahrs 阿联酋/中东授权经销商，纯高端欧标 oak 定位，服务别墅/设计师渠道 | 观察（非客开）：渠道封闭型对标；其展示位是中东高端拼花定价参照。注意 2026 迪拜拼花供给端已出现 SPC/LVT 混销（Floor Land、ebarza 等），纯实木拼花渠道仍稀缺 |
+
+### 📊 市场情报（趋势参考）
+- **区域**: 沙特 / GCC
+- **内容**:
+  1. **Red Sea Global Phase 2 风险确认升级**：PIF 据报重新评估整个 RSG，Phase 2 或 2026 底停工（Phase 1 定位"proof of concept"）；NEOM The Line 已停、承包商产能向 Expo 2030/Diriyah 转移 —— 资源应全力押 Diriyah+Qiddiya+运营期酒店。
+  2. 沙特地板市场 2026 报告确认：Diriyah SAR 18.75B 零售包（400 单元 Najdi 风格饰面）+ Riyadh/Jeddah 顶豪翻新潮（owner 从 builder-grade 升级到进口石材/engineered wood）是 engineered wood 需求主引擎。
+  3. GCC 顶豪 Majlis 生态数据（karamna.ae）：沙特顶豪别墅 fit-out 市场 $31.7B，GCC luxury residential interior $4.8B（沙特占 41%）；意大利 Modenese 在 Saudi 有 14 个 Al Malqa 区活跃订单（€8.4M）——意大利细木工仍主导顶豪，但其地板/饰面件可由中国拼花供应商补位。
+
+### 🏆 竞品动态
+- **Foglie d'Oro**: 2026.04 Salone del Mobile.Milano「SHAPED over TIME」60 周年展（与 Arte Brotto 联合，地板+家具+墙板一体化 Total Match 概念）；持续推 Blockchain 溯源技术；此前已参展 Downtown Design Dubai —— 中东渠道深耕意图明确。
+- **Listone Giordano**: 进入美国 Denver ORO 生活方式展厅（上轮已记录，本轮确认为多渠道复制的趋势）。
+- **Parador / Kahrs / Berto**: 本轮无新动态（Kahrs 经 Nordic Homeworx 渠道稳定运营）。
+
+### 💡 洞察/启发
+1. **资源重定向**：NEOM（D 级）+RSG Phase 2（停工风险）双降级，Diriyah Gate 是当前唯一 A 级稳态 mega-project 且正处 Grand Avenue 材料招标期——本周内应把 Diriyah FF&E 采购公告监控提到最高优先级。
+2. **一体化展示是竞品新武器**：Foglie d'Oro 的「地板+家具+墙板 Total Match」与 Listone Giordano 的「家具展厅捆绑地板」指向同一趋势：拼花地板不再是单品，而是室内方案的一环。方所对接 DMDC/Depa/Havelock 类整包商时应按「方案供应商」而非「板材商」报价。
+3. **FF&E 整包商是杠杆点**：Depa/Havelock One/KA Contract 一次中标即带动数百间客房的地面供应，比逐个别墅客开效率高一个量级；Havelock One 有巴林自产细木工+Red Sea 办事处，是最佳首个触达对象。
+4. 意大利对中东出口收缩叠加 Modenese 式顶豪订单仍在增长 → 沙特顶豪（Al Malqa 等别墅区）出现「意式设计+非意供应链」替代缺口，方所拼花可承接。
+
+---
+*过滤字典已加载：asdevelop.* 域名、Appalachian/AS Develop/Bostik/Gerflor/Vinifloor/Indus/FloorWorld/Wood Floors ME 名单、nonprofit/NGO/charity/agricultural/humanitarian/religious 标签。本轮 Floorworld 相关内容按黑名单剔除；Atlantis Contracting 因地板主业以 LVT/Gerflor 为主（互斥品类）未列线索表。*
