@@ -67,3 +67,39 @@
 
 ---
 *过滤字典已加载：asdevelop.* 域名、Appalachian/AS Develop/Bostik/Gerflor/Vinifloor/Indus/FloorWorld/Wood Floors ME 名单、nonprofit/NGO/charity/agricultural/humanitarian/religious 标签。本轮 Floorworld 相关内容按黑名单剔除；Atlantis Contracting 因地板主业以 LVT/Gerflor 为主（互斥品类）未列线索表。*
+
+---
+
+## [2026-10-05] 商业情报速报
+
+### 🔥 高价值线索（可直接跟进）
+| # | 类别 | 公司/项目名 | 链接 | 关键信息 | 行动建议 |
+|---|------|-------------|------|----------|----------|
+| 1 | 高端fit-out（利雅得） | AMAQ Interiors (Riyadh) | https://commercialinteriordesign.com/power-lists/fit-out-firm-power-list-2026-showcasing-creativity-craftsmanship-innovation | CID Fit-Out Power List 2026 榜单：26 年历史、207% YoY 营收增长，年交付 41 个项目/85万+ sqft，含 Intercontinental Hotel Riyadh、Wendy's/IKEA 等多元组合；利雅得总部、区域扩张中 | Tier 1：高速扩张期=供应链准入窗口，邮件触达采购负责人，主打酒店/商业多层实木拼花 |
+| 2 | 高端fit-out/细木工 | Abanos Interior Fit-Out & Joinery (UAE) | 同上 | 24,000 m² 细木工厂+1,100 工人，1000+ 项目；近期承接 Ceil Tower（The First Group）与 Golf Place Villas（Dewan 设计）定制细木工包 | Tier 1：顶豪别墅细木工配套场景，拼花地板可与门板/墙板方案打包报价 |
+| 3 | 奢侈零售fit-out | Abra Fitout (UAE/KSA) | 同上 | 200,000 sqft 工厂、450+ 员工，中东奢侈品零售定制 fit-out 专家，UAE+沙特双基地 | Tier 2：珠宝/旗舰零售店面地面需求（拼花+人字拼高端场景），季度跟进 |
+| 4 | 顶豪/王室级fit-out | Al Tayer Stocks Interiors (Dubai) | 同上 | 超顶豪住宅专精（palatial/royal-grade），heritage 级细木工与装饰饰面，成熟供应链伙伴网络 | Tier 2：王室级项目高门槛但溢价极高，以欧标定制拼花+稳定的意式品质话术切入 |
+| 5 | 超豪别墅fit-out | Ray Fit-Out & Interiors (Dubai) | https://ckarchitecture.com/journals/joinery-fit-out-companies-in-dubai | 1989 年家族企业，15,000 sqft Al Qusais 全自产基地（细木工/CNC/油漆/软装），专做超豪私人别墅+私人飞机内饰 | Tier 2：地板大概率外采，主打「自产木作+外采欧标拼花」的补位逻辑 |
+| 6 | 建材经销商 | Royal Grand Star General Trading LLC (UAE) | https://thermowood.ae/blog/wood-flooring-companies-in-dubai | Lunawood（芬兰）+Novawood（土耳其）UAE/GCC 独家分销商，specification-grade 木材定位，面向设计规格端 | Tier 2：木材规格端渠道现成，工程木拼花可作其品类延伸；适合谈区域分销/项目合作 |
+| 7 | 基建/酒店窗口 | Diriyah Gate — Aman Diriyah + Bab Samhan | https://investriyadh.ai/faq/giga-projects-status-faq/ | Aman Diriyah 预计 2026 末开业（Diriyah 首家酒店）；Bab Samhan 零售文化区正处室内 fit-out 阶段；项目总授标超 $27B（2024 以来） | Tier 1：开业冲刺期=紧急材料缺口窗口，盯 Aman/Bab Samhan 剩余 FF&E 与饰面包 |
+
+### 📊 市场情报（趋势参考）
+- **区域**: GCC / 中东
+- **内容**:
+  1. GCC 地板市场 2026 年 $5.8B → 2035 年 $10.14B（CAGR 6.4%）；Estidama/沙特绿色建筑认证强制低 VOC 趋势成采购硬门槛——方所若备好 FSC/低 VOC 证书可成为投标加分项。
+  2. GCC 实木地板市场几乎 100% 依赖进口（欧洲橡木为主源），UAE+沙特占区域消费绝对大头；工程木因气候稳定性明确优于实木独板，正持续挤占份额。
+  3. 中东拼花板（assembled parquet）市场：土耳其占区域消费 57%/产量 66%，GCC 需求全部靠进口且集中于奢华酒店/顶豪——Tier 化看，GCC 是高价值进口窗口而非产量竞争区。
+
+### 🏆 竞品动态
+- **Listone Giordano**: 2026 米兰设计周发布 Natural Genius 系列 4 款新品（Piet Boon/Patrick Jouin 等设计师联名），Arena 展厅+Salone 双场地展出 — 设计师联名+装置艺术是其持续的中东/全球叙事武器。
+- **Kährs**: 参展 TISE 2026（美国），发布 Kährs Life 系列再生橡木高效结构款，主打「real wood 平价化」——向下沉市场扩张信号，与方所中高端定位错位。
+- **Foglie d'Oro / Parador / Berto**: 本轮未检索到新动态。
+
+### 💡 洞察/启发
+1. **CID Power List 2026 = 现成客开清单**：本期榜单（AMAQ/Abanos/Abra/Al Tayer Stocks/Designsmith/Eire Gulf 等 10+ 家）本身就是 GCC fit-out 头部名单，建议整表导入客户池按 Tier 批量背调，比零散搜索效率高得多。
+2. **绿色认证是新门槛也是护城河**：Estidama/低 VOC 强制化趋势下，无认证的中国供应商将被逐步挤出 GCC 机构采购——方所提前备齐 FSC/CE/低 VOC 文件可在投标中形成对同类中国同行的差异化。
+3. **Aman Diriyah 2026 末开业倒计时**：安缦品牌对地面材料规格极高，其开业前的紧急补货窗口（2-3 个月内）适合以「意式品质+快交期」话术突击 Diriyah 供应链。
+4. 土耳其主导中东拼花产量但集中于中低端走量款，GCC 奢华段仍靠欧洲进口——「非土非欧（欧洲品质、土耳其价格）」的中国定位在 GCC 有清晰空档。
+
+---
+*过滤字典已加载（同 10-04 轮）。Floor Land/Lush Loom/ebarza 因 SPC/LVT/vinyl 主业（互斥品类）未列线索表；Havelock One/Burj Al Wasl/Floor Concepts/IDWORKS 已在 10-03/10-04 轮记录，本轮不重复。*
