@@ -1,34 +1,29 @@
-# Noah Alaya Seeds · 知识采集 Inbox（2026-10）
+# Noah 知识采集 · 2026-10
 
-## [2026-10-12] 商业情报速报
+## [2026-10-13] 商业情报速报
 
 ### 🔥 高价值线索（可直接跟进）
 | # | 类别 | 公司/项目名 | 链接 | 关键信息 | 行动建议 |
 |---|------|-------------|------|----------|----------|
-| 1 | 基建招标 | Interiors International Industries（迪拜） | https://zawya.com/en/press-release/companies-news/the-luxe-developers-awards-an-aed150mln-contract-as-interior-fit-out-progresses-at-oceano-jgvhb3jh | 获 The Luxe Developers Oceano（Al Marjan Island，AED 15 亿超豪华海景双塔）AED 1.5 亿室内精装合同，与中建 CSCEC 联合施工，项目已进入饰面阶段——正是地板/拼花采购窗口 | Tier 1：立即联系，主打多层实木拼花+人字拼，附方所案例册；对接其采购/材料负责人 |
-| 2 | 基建招标 | The Luxe Developers（UAE 豪宅开发商） | 同上 | Oceano 项目售罄超前，饰面/软装材料采购进行中；UAE 豪宅开发商典型 Lux & Beyond 对标模型 | Tier 1：以高端精装地板供应商身份切入其后续项目（RAK/迪拜管线） |
-| 3 | 基建招标 | Diriyah Gate（沙特） | https://kanzotech.com/blog/diriyah-gate-whats-built-whats-coming-and-what-it-means-for-suppliers/ | 累计授标超 SAR 1200 亿（$320 亿），Wadi Safar 超豪华封闭社区+高尔夫/马术规划；总包含 El-Seif、中建、Shapoorji Pallonji、Albawani 等 | Tier 1：锁定 Wadi Safar 豪宅包的精装分供商名单，联系 El-Seif / Shapoorji Pallonji 材料采购口 |
-| 4 | 基建招标 | CSCEC 中建（沙特片区） | https://meobserver.news/infrastructure/2026/10/02/cscec-deepens-saudi-position-as-vision-2030-moves-into-heavy-construction | Diriyah 北区 $20 亿+包 + SAR 51 亿皇家歌剧院联合体；同时参与 Qiddiya、NEOM | Tier 1：中建饰面材料集中采购渠道是单点突破机会（中文沟通无障碍） |
-| 5 | 经销/精装 | Ray Fit-Out & Interiors（迪拜 Al Qusais） | https://ckarchitecture.com/journals/joinery-fit-out-companies-in-dubai | 30 年家族企业，1.5 万 sqft 自有木工车间（CNC/激光），服务超豪私人别墅/庄园甚至私人飞机内饰——拼花地板天然客户 | Tier 2：邮件+WhatsApp 联系，推别墅定制拼花（鱼骨/人字/Versailles） |
-| 6 | 经销/精装 | Alpago Design and Build（迪拜） | 同上 | 超豪住宅定制制造+设计施工一体，主打 premium 材料 | Tier 2：设计师渠道切入，寄送拼花样板 |
-| 7 | 经销/精装 | Al Tayer Stocks Interiors（迪拜） | 同上 | 几乎只做 ultra-premium 住宅段，供应链合作网络成熟 | Tier 2：争取进入其供应商名录（AVL 逻辑） |
-| 8 | 经销/精装 | OBRAS International（UAE/GCC） | https://obrasintl.com/interior-design-solutions-architects-uae-gcc | GCC 幕墙专家转型单源内装材料供应商（Parklex Prodema 等），明确定位 Vision 2030 mega-project fit-out（NEOM/Red Sea/Diriyah/Mukaab） | Tier 2：其品类缺高端木地板，补位合作或成为其代理商进驻 NEOM 包 |
-| 9 | 竞品渠道 | Listone Giordano Natural Genius 2026 | https://archiproducts.com/en/newsletter/dossier/listone-giordano-wood-surfaces-for-interiors-natural-genius-2026-innovations_987810 | 2026 新品：Opera Aperta（Piet Boon）、Trame（Patrick Jouin）、Phibon、Supernova 四大设计师系列 | 监测其 GCC 展示/经销动向，学习"设计师联名"打法 |
+| 1 | 设计工作室 | Nikki Bisiker Design Studio (Dubai) | gaiarealty.ae | 完成 Tilal Al Ghaf「Elysian Mansion」豪宅设计，进入 fit-out 阶段；主打 layered timber surfaces / 有机质感饰面，全服务含 FF&E+Procurement。Majid Al Futtaim 开发 | 邮件+LinkedIn 联系，推送欧橡多层实木/人字拼样块；提 FF&E 木材方案 |
+| 2 | Fit-out 承包商 | Ray Fit-Out & Interiors (Dubai) | ckarchitecture.com | 家族经营 30 年，专注超豪私宅/庄园定制细木作，Al Qusais 自有工厂含 CNC；还做私人飞机内饰 | Tier 2 培育，季度跟进；奢宅拼花定制是其天然需求 |
+| 3 | Fit-out 承包商 | NU Projects / Alpago Design and Build (Dubai) | ckarchitecture.com | 超 prime 别墅改造+超豪住宅定制制造，供应链控制严格（英标细木作） | Tier 2；推送 bespoke 拼花 + Versailles 面板能力 |
+| 4 | 经销商/工作室 | Kat Black Design Studio (Dubai Hills) | katblackuae.com | 340+ 项目，luxury 层级 villa fit-out 单项目地板预算 7–13 万 AED（Mafi 级别进口工程硬木 200㎡） | 合作伙伴网络（Mafi/Poliform/Boffi）→ 争取进入其 premium supplier 名单 |
+| 5 | 经销商/承包商 | Floor Land (Al Quoz, Dubai) | ebarza.com | 人字拼/鱼骨拼安装起家的地板专业商，Al Quoz 展厅，扩展到全屋翻新 | 直接产品对口（herringbone/chevron），可谈工程木供应合作 |
+| 6 | Fit-out 承包商 | Mirabello Interiors (Doha) | mirabellointeriors.com | 卡塔尔最大休闲度假村 246 客房+84 私别墅全 fit-out；Dusit Doha 357 keys 全交钥匙，高规格 millwork | Tier 1 优先——卡塔尔奢酒度假村渠道，即时邮件联系 |
 
 ### 📊 市场情报（趋势参考）
-- **区域**: GCC / 中东
-- **内容**:
-  1. GCC 地板市场 2026 年 $68 亿 → 2035 年 $118.8 亿（CAGR 6.4%）；迪拜/利雅得酒店建设推动精装面层采购加速，需求锚定阿联酋大型项目管线（MarkWide Research）。
-  2. 中东拼花板（assembled parquet panels）：土耳其占区域产量 66%、消费 57%，是区域内供应主导者——GCC 端供应缺口存在于高定/设计驱动细分；需求由住宅+酒店业双轮拉动，Levant 重建是中长期机会（IndexBox）。
-  3. 科威特拼花市场 CAGR 预计 8.7% 跑赢区域均值；工程木（Engineered Parquet）占 53.3% 份额，橡木占树种 45.7%——与方所「橡木浅-中暖色多层实木」产品档案高度契合。
+- **沙特**: NEOM 部分标段降温收缩，采购重心转移至 Diriyah Gate 与 Qiddiya——两项目高端建材采购通道活跃（石材/木材/饰面）。利雅得 Grade-A 写字楼 90 万㎡ 在建、入住率 98%，2025–2027 交付窗口压缩。
+- **渠道规则**: 沙特 giga-project 供应商需在开发商自有预审系统注册（NEOM/RSG/Qiddiya/ROSHN/Diriyah 各自独立），大额支出经总包采购——双轨注册是准入前提。
+- **UAE**: 奢华酒店翻新+新开业潮持续；设计师渠道明确偏好工程木（多层结构耐 GCC 气候），herringbone/chevron 成奢宅标配语言。
 
 ### 🏆 竞品动态
-- **Listone Giordano**: Natural Genius 2026 新增四设计师系列（含磁吸免胶安装 Magnetico 系统），颜色趋势 Fumée Noir / Graphite / Ciment 等当代中性色。
-- **Foglie d'Oro**: 2026 推出 Aria 模块化几何拼花（Sante Giorgio Brotto 设计），软性曲线模块+大理石/贵材镶嵌选项——与方所拼花定位直接对标。
-- **行业**: 设计师联名+模块化/免胶安装是 2026 高端拼花两大叙事主线；染色/烟熏处理中性色调在抢占传统浅橡木注意力。
+- **Foglie d'Oro**: Architect@Work Paris（10/21–22, Stand 155）→ High Point Market 北美（10/17–21）→ Arkeda Naples（11/27–29）。力推 3D boiserie「Total Match」地板+墙板+家具一体化概念（与 Arte Brotto 联合，Salone 2026「Shaped Over Time」）。
+- **Listone Giordano**: 米兰设计周发布 Natural Genius 四款新品，联动 Piet Boon / Patrick Jouin 等国际设计师做装置展。
+- **战略含义**: 标杆竞品全部押注「地板→墙面→家具」3D 一体化 + 设计师联名，方所可在中东奢宅渠道讲「全景木作方案」故事。
 
 ### 💡 洞察/启发
-- **中建 CSCEC 是"中式供应链"捷径**：它在 Diriyah/Qiddiya/NEOM 同时持有超大包，其饰面材料集采对中国地板厂是最短路径（语言、账期、付款习惯友好）。建议本贵把中建海湾区域材料采购列为 Q4 客开第一优先级。
-- **Wadi Safar（Diriyah 旗下超豪社区）** = 沙特版"别墅经销商"场景的超级放大版，与范本 Lux & Beyond / As Design Deco 模型同构，值得专项挖掘其景观豪宅精装分供商。
-- **"设计师联名"是竞品叙事护城河**：Foglie d'Oro / Listone 都在用顶级设计师命名系列。方所可低成本复制——与中东本地设计师（迪拜设计季 D3 生态）做联名拼花款，切入本地设计圈话语体系。
-- **ASO/SASO 消防与认证收紧在过滤低端进口**：提前准备 EN/SASO 认证文件包，是挤掉土耳其低价供给的合规武器。
+- **NEOM 收缩 = 利雅得内城机会**：Diriyah Gate（heritage 高端）与 Qiddiya 是当前最活跃的采购窗口，heritage 项目偏好天然材质——拼花契合度高，建议将 11 月猎鹰关键词从 NEOM 权重转向 Diriyah/Qiddiya。
+- **Doha 奢酒度假村是低竞争蓝海**：Mirabello 一家承包 246 房+84 别墅量级，卡塔尔 fit-out 商比迪拜竞争密度低，值得单独建卡塔尔渠道清单。
+- **「Total Match」叙事可复用**：向中东 fit-out 商推介时，用「floor + wall boiserie + door 一体化定制」而非单卖地板，客单价与差异化同步提升。
+- **排除提示**: Floorworld（黑名单渠道封闭）与 Nordic Homeworx（Kahrs 独家）仅作市场情报，不入客开名单。
