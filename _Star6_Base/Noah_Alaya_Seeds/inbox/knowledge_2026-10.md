@@ -1,31 +1,28 @@
-# Noah Alaya Seeds · 知识采集库 2026-10
+# Noah Alaya Seeds · 知识库 2026-10（追加式）
 
-## [2026-10-20] 商业情报速报
+## [2026-10-21] 商业情报速报
 
 ### 🔥 高价值线索（可直接跟进）
 | # | 类别 | 公司/项目名 | 链接 | 关键信息 | 行动建议 |
 |---|------|-------------|------|----------|----------|
-| 1 | 基建/Fit-out | Depa Interius（迪拜上市内装集团） | gulfconstructiononline.com/ArticleTA/417832 | 新获 AED 9.5 亿订单：Red Sea Global 旗下 Desert Rock Hotel（50别墅+10客房）与 Amaala Yacht Club 精装；系 RSG 今年第7个授予 Depa 的酒店项目；CEO Haitham Tuqan | Tier 1。以工程木地板/拼花供应商身份联系其采购与 FF&E 部门，对标 Desert Rock/Amaala Yacht Club 地面材料包 |
-| 2 | 基建招标 | Red Sea Global · Amaala Triple Bay（Six Senses/ Rosewood / Ritz-Carlton / Jayasom） | sccsinternational.org、arabnews.com/node/2353036 | Amaala 多酒店并行：Ritz-Carlton 精装进行中、Rosewood Triple Bay 设计合同授予 SALCO、Rawabi Contracting 执行 44 栋品牌别墅；累计 RSG 已授约 USD 23.6bn | Tier 1。跟进 Rawabi Specialized Contracting（RSG 认证 PM 团队）与 SALCO 的地板材料 submittal 窗口 |
-| 3 | 基建招标 | NEOM 工人住宅包（中国建筑子公司，$746m） | abc-gcc.net/News/1/390533 | Vision 2030 四大工程 2028 年峰值用工 180 万，工人城配套建筑量大；NEOM 累计授标 USD 24bn | Tier 2。工人城非高端拼花场景，但可借其总包关系切 NEOM 高端酒店/ Sindalah 后续包 |
-| 4 | 渠道/经销商 | OBRAS International（迪拜/GCC 多品牌建材集成商） | obrasintl.com | 从通风幕墙扩展到内装材料单点供应：Parklex Prodema、Techlam、Decustik 等5品牌伙伴；明确服务酒店/豪华住宅/零售 specification 链 | Tier 1。模式与 Lux & Beyond 类似，缺少木地板品类——补位切入点，推方所多层实木/拼花 |
-| 5 | 渠道/经销商 | The Bowery Company（迪拜+利雅得，北欧设计分销商） | thebowerycompany.com | GCC 最大北欧设计策展分销商，承接全中东 turnkey 内装项目 | Tier 2。北欧美学与橡木浅色产品线高度契合，可谈 complementary 品类合作 |
-| 6 | 设计端 | BHLI（Beverly Hills Luxury Interiors，覆盖利雅得/吉达/多哈王室与高净值私宅） | beverlyhillsluxuryinteriors.com | 静奢风（quiet luxury）崛起：利雅得私宅大面洞石+极简；接受 KSA/Qatar 私人与酒店委托 | Tier 2。静奢=大面积素拼/大规格人字拼机会 |
+| 1 | 基建招标 | Diriyah Square · Urbacon Saudi（UCC Holding 子公司）Package 4 | https://diriyahcompany.sa/en/news/diriyah-company-announces-$727.9-million-construction-contracts-to-advance-hospitality-and-residential-development-in-flagship-diriyah-square | $374.8M 合同，3家酒店+1住宅，范围含 **fit-out 与精装**，约11万㎡建筑面积；该承包商另持有 $2.1B 酒店JV | Tier 1：作为 fit-out 材料供应商触达 Urbacon 采购部，推工程级多层实木拼花 |
+| 2 | 基建招标 | MAN Enterprise + Al Majal Al Arabi (MAG) JV | 同上 | $353.1M 合同，3酒店+2住宅（413间豪华客房+34品牌住宅），范围含内饰 fit-out | Tier 1：413间客房=批量客房木地板需求，邮件+LinkedIn 触达其采购/FF&E 负责人 |
+| 3 | 基建招标 | SAUDICO + ALEC FITOUT JV（KAFD 16层酒店） | https://arabnews.com/node/2460491/business-economy | KAFD 新16层酒店全 fit-out 合同；该 JV 刚完成 Diriyah Gate 游客中心；ALEC FITOUT MD Laurent Farge 为关键决策人 | Tier 1：ALEC FITOUT 是迪拜/利雅得双市场 fit-out 总包，酒店地板切入点强 |
+| 4 | 渠道线索 | Burj Al Wasl（迪拜） | https://burjalwasl.ae/hardwood-parquet-flooring-dubai | 提供 parquet/herringbone/chevron 安装，服务 Palm Jumeirah/Emirates Hills 等别墅区，含 FF&E 供应能力；自述多层实木为主推 | Tier 2：高端别墅经销商模型（类 Lux & Beyond），核实是否直接进口欧洲板材，可推方所 OEM/代理 |
+| 5 | 渠道线索 | Shoukat Interior（迪拜） | https://shoukatinterior.ae/flooring/parquet | 主推人字拼/鱼骨拼/Versailles 拼花，覆盖别墅+酒店+展厅，明确 "luxury parquet" 定位 | Tier 2：拼花产品词高度契合，核实经营木地板工商范围后入池 |
 
 ### 📊 市场情报（趋势参考）
-- **区域**: GCC
-  - GCC 地板市场 2026 年 $6.8bn → 2035 $11.88bn（CAGR 6.4%）；迪拜/利雅得酒店建设加速工程面层采购；薄型工程硬木（2-8mm 耐磨层）正在阿布扎比中层住宅吞噬 laminate 份额。
-  - 中东拼花面板（mosaic/assembled parquet）市场：土耳其占区域消费 57%/生产 66%，是绕不开的枢纽；高端段对价格不敏感，看重认证与防火等级。
-  - 迪拜 2026 木地板趋势：180-300mm 超宽板、大规格人字拼（90×600mm+）取代 micro-herringbone；暖调浅法橡/蜂蜜色灰蜡木上行，灰洗色退潮；工程木因空调湿度差成为别墅绝对主流。
-- **区域**: 沙特准入
-  - SASO 防火等级执法收紧正在过滤低质进口——认证准备（防火/EO/FSC）成为进入 KSA 高端项目的门票；Aramco 9COM/AVL 体系主要针对工业品，建筑业 AVL 由各总包/开发商自建。
+- **区域**: 沙特 GCC
+- **内容**:
+  - Diriyah 已授标超 SAR1200亿($32B)，2026上半年再签 SAR49亿，住宅交付自2026年10月启动 → 精装材料进入集中采购窗口
+  - NEOM 部分标段降温，资金与材料采购向 Diriyah/Qiddiya 转移（stonetrades 行业观察）→ 挖掘重心应从 NEOM 倾斜至 Diriyah Square 酒店包
+  - 沙特 ICV（本地化价值）政策倾向在利雅得/吉达设库存点的供应商 → 报价时可强调区域库存/交期方案
 
 ### 🏆 竞品动态
-- **Foglie d'Oro**: 米兰 Salone 2026 "SHAPED over TIME" 联合 Arte Brotto 展出（Hall 14 D47）；将参展 Arkeda 2026（那不勒斯）主打 3D 护墙板——木地板+boiserie 整体墙地一体化是新叙事。
-- **Listone Giordano**: 参与 ICE 意大利贸易署 Casa Decor 2026 "Spazio Italia" 项目，走国家背书的设计输出路线。
-- **Foglie d'Oro 北美**: 经 Artitalia Group（Brotto 集团美国官方伙伴）进入 High Point Market——竞品正用「家具集团搭桥」模式低成本进新市场。
+- **Foglie d'Oro**：Salone del Mobile 2026（4/21-26, Hall 14 D47）与集团兄弟品牌 Arte Brotto 联合发布 "Shaped over Time" 概念，推 Total Match 地板+家具+墙板一体化方案，以及 Relevo 3D 模块化墙饰、Aria 模块化拼花（可嵌大理石）；10/21-22 参展 Architect@Work Paris；北美经 Artitalia Group 进 High Point Market。
+- **启示**：标杆正在从"卖地板"转向"整体面材方案"（floor+wall+furniture），方所可借鉴 3D 墙板/模块拼花的展厅叙事。
 
 ### 💡 洞察/启发
-- **墙地一体化叙事**：Foglie d'Oro 把地板+3D boiserie 打包卖设计整体感——方所的拼花工艺天然适合复制此打法（拼花地板+木质护墙板组合报价），在 GCC 酒店大堂/别墅 majlis 场景差异化极强。
-- **RSG 供应商复购效应**：Depa 今年从 RSG 连拿 7 单，说明业主方倾向复用已验证内装商——进入一家 RSG 认可 fit-out 商的供应链=拿到整个 Red Sea/Amaala 管线的门票。
-- **静奢风=大规格拼花窗口**：利雅得/多哈高净值客群从浮夸转向极简素雅，正对大规格人字拼/素色橡木鱼骨拼——建议下一轮外呼话术主推「quiet luxury 材质语言」。
+- Diriyah Square 五家酒店 413 间客房 + 34 品牌住宅在 2026 Q4 集中进入 fit-out 阶段——这是本月最直接的工程地板切入点，建议优先背调 Urbacon Saudi、MAG/MAN JV、ALEC FITOUT 三家总包的采购链。
+- 迪拜别墅渠道（Burj Al Wasl、Shoukat Interior）与"意品牌代理"范本高度吻合，适合作为中东 Tier 2 经销商储备批量入池。
+- NEOM 降温信号：中东猎手关键词应把 NEOM 权重下调、Diriyah/Diriyah Square/Expo 2030 Riyadh 上调。
