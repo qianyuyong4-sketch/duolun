@@ -26,3 +26,31 @@
 - Diriyah Square 五家酒店 413 间客房 + 34 品牌住宅在 2026 Q4 集中进入 fit-out 阶段——这是本月最直接的工程地板切入点，建议优先背调 Urbacon Saudi、MAG/MAN JV、ALEC FITOUT 三家总包的采购链。
 - 迪拜别墅渠道（Burj Al Wasl、Shoukat Interior）与"意品牌代理"范本高度吻合，适合作为中东 Tier 2 经销商储备批量入池。
 - NEOM 降温信号：中东猎手关键词应把 NEOM 权重下调、Diriyah/Diriyah Square/Expo 2030 Riyadh 上调。
+
+## [2026-10-22] 商业情报速报
+
+### 🔥 高价值线索（可直接跟进）
+| # | 类别 | 公司/项目名 | 链接 | 关键信息 | 行动建议 |
+|---|------|-------------|------|----------|----------|
+| 1 | 基建动态 | Diriyah Gate · Grand Avenue（1.9km 生活娱乐 spine） | https://gulfconstructiononline.com/Article/487091/Capital%E2%80%99s-construction-boom-enters-delivery-and-discipline-phase | Diriyah 授标累计超 SAR1200亿($32B)，2026 上半年新签 SAR49亿；住宅交付自 2026 年 10 月启动 → 精装/地板包进入集中采购期 | Tier 1：追踪 Diriyah DevCo 采购公告，重点接触已中标总包的 fit-out 分包 |
+| 2 | 基建动态 | 利雅得地铁 Red Line 延伸段至 Diriyah Gate（Webuild+L&T+Nesma+Alstom 联合体，$27.5亿） | 同上 | 已开工，7.1km 隧道+5 座新站；联合体含中东本地承包商 Nesma → 其建筑子公司可能是精装材料入口 | Tier 2：Nesma & Partners 在 KAFD/机场均有包，可作材料 submittal 切入 |
+| 3 | 基建动态 | King Salman Automotive Cluster 基础设施（Emaar EC，SAR5.47亿 → Nesma and Partners，2026 授标） | https://sccsinternational.org/market-intelligence/projects-tenders | 新授标工业/配套项目，Nesma 承接；印证 Nesma 当前在手包密集 | Tier 2：同上，随 Nesma 采购链批量触达 |
+| 4 | 渠道线索 | Urban Flooring（迪拜） | https://urbanfloorings.com/parquet-flooring | 2013 年起 supply+fit 一体，主打人字拼/鱼骨拼/编织拼，覆盖迪拜+阿布扎比，明确推 engineered parquet（耐 UAE 湿度+地暖） | Tier 2：产品词高度契合，核实进口渠道与工商范围后入池 |
+| 5 | 渠道线索 | Parquet Floorings（parquetfloorings.ae，迪拜） | https://parquetfloorings.ae/engineered-parquet-flooring | 8 年经验、宣称 6000+ 工程拼花安装，主推 European Oak 人字拼/定制拼花，含 bespoke 定制线 | Tier 2：定制拼花能力=方所 OEM 潜在买家，需验证是否自有工厂（避免同类竞争） |
+
+### 📊 市场情报（趋势参考）
+- **区域**: 沙特 / UAE
+- **内容**:
+  - 利雅得整体进入「交付与纪律」阶段：Expo 2030 全面转基础设施施工、Qiddiya 第二大景点开业、住宅开始交付——地板/精装需求从图纸期转入采购执行期，触达时机最佳。
+  - GCC 巨型项目采购共性（多信源交叉）：正式 pre-qualification、SABER/ESMA 认证、本地化库存要求；PIF 项目材料 SKU 由总包/分包在 submittal 包中指定，而非中心采购 → 渠道打法应锁定分包与 specifier。
+  - UAE 工程拼花零售价参考：engineered herringbone AED110-160/㎡、chevron AED120-180/㎡、solid/custom AED180-400/㎡ → 报价锚点与利润空间评估可用。
+  -迪拜 2026 拼花经销版图（ebarza 盘点）含 Floor Land、Final Specs、Risala、Hillswood 等新名单源，可作后续经销商扫描 seed（注意 Floorworld/Nordic Homeworx=Kahrs 体系，按渠道封闭处理）。
+
+### 🏆 竞品动态
+- **Foglie d'Oro**：10/17-21 参展美国 High Point Market 2026（与 Arte Brotto 联合、Artitalia Group 承接北美渠道）；10/21-22 参展 Architect@Work Paris（推模块化地板+3D 立面墙板）；11/27-29 参展那不勒斯 Arkeda（3D boiserie）。
+- **启示**：标杆 2026 Q4 密集参展欧美设计端展会（家具展+建筑师展），而非建材展——渠道叙事是「设计师品牌」而非「供应商」。方所参展/媒体策略可参考。
+
+### 💡 洞察/启发
+- Diriyah 住宅 2026 年 10 月起交付 → 未来 6 个月是 Diriyah Square 酒店/住宅 fit-out 材料定标窗口，应立即背调昨日已列入的 Urbacon Saudi、MAG/MAN、ALEC FITOUT 三家总包并准备 submittal 级资料包（认证+工程案例+区域库存）。
+- Nesma & Partners 本月连获两个新包（地铁 JV + 汽车产业集群），处于扩张期，采购活跃度高，建议纳入本周背调队列。
+- UAE 定制拼花价格带（solid/custom 至 AED400/㎡ ≈ $109/㎡）验证了方所中高端定位在中东有充足溢价空间；\"bespoke + supply-and-install\" 是当地经销商标配卖点，谈判时可按此组织产品资料。
