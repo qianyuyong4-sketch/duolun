@@ -54,3 +54,31 @@
 - Diriyah 住宅 2026 年 10 月起交付 → 未来 6 个月是 Diriyah Square 酒店/住宅 fit-out 材料定标窗口，应立即背调昨日已列入的 Urbacon Saudi、MAG/MAN、ALEC FITOUT 三家总包并准备 submittal 级资料包（认证+工程案例+区域库存）。
 - Nesma & Partners 本月连获两个新包（地铁 JV + 汽车产业集群），处于扩张期，采购活跃度高，建议纳入本周背调队列。
 - UAE 定制拼花价格带（solid/custom 至 AED400/㎡ ≈ $109/㎡）验证了方所中高端定位在中东有充足溢价空间；\"bespoke + supply-and-install\" 是当地经销商标配卖点，谈判时可按此组织产品资料。
+
+## [2026-10-23] 商业情报速报
+
+### 🔥 高价值线索（可直接跟进）
+| # | 类别 | 公司/项目名 | 链接 | 关键信息 | 行动建议 |
+|---|------|-------------|------|----------|----------|
+| 1 | 基建招标 | Depa Interiors Group（Amaala Triple Bay 豪华精品酒店 fit-out） | https://gulfconstructiononline.com/ArticleTA/287877/depa-secures-saudi-luxury-hotel-fit-out-works-contract | 全球室内方案龙头 Depa 中标 Amaala Triple Bay 精品酒店 fit-out；集团 CEO Haitham Tuqan 强调沙特长期客户关系 | Tier 1：Depa 是红海系酒店 fit-out 总包，直接触达其采购/材料团队推工程级拼花；Amaala 为滨海奢华酒店，正对方所定位 |
+| 2 | 基建招标 | Havelock One（The Avenues Khobar 前场 fit-out 总包） | https://indexbox.io/blog/havelock-one-appointed-as-fit-out-contractor-for-the-avenues-khobar | 77万㎡ 综合体 + 200间客房酒店；承包范围明确含 **flooring/ceiling/wall finishes**；主包 Ahmadiah，PM=JLL | Tier 1：其巴林+沙特团队正采购多楼层地面材料，邮件触达推商业级工程拼花 |
+| 3 | 基建招标 | Diriyah Square 八资产建筑合同（MAN+MAG JV $1.324B / Urbacon Saudi $1.406B） | https://inxen.news/news/radar-6e4a325f-4416-49b5-86bd-1a279aaf0fcf | 5酒店+3住宅进入围护/fit-out/MEP 阶段（10/5 授标），确认已过结构期 → 材料定标即期 | Tier 1：与 10/21 线索交叉验证，立即启动两家 JV 采购链背调 + submittal 资料包 |
+| 4 | 渠道线索 | Luxury Antonovich Design（迪拜设计+施工一体） | https://antonovich-design.ae/wood-floors.html | 自营豪华木地板线：设计师草图→工厂定制艺术拼花→3D可视化→安装全链条，自称代理世界顶级拼花厂 | Tier 2：定制艺术拼花买方模型，核实其欧洲供应商名单后推方所 OEM/合作代理 |
+| 5 | 渠道线索 | OBRAS International（UAE/GCC 高端面材 single-source 供应商） | https://obrasintl.com/interior-design-solutions-architects-uae-gcc | 由幕墙特渠扩展至室内面材，绑定 Parklex Prodema/Techlam/Decustik 等五个制造商，服务酒店/商业/豪宅 | Tier 2：正在扩充材料组合的 GCC specifier 渠道，缺木地板品类=切入空位，主动推介补齐其产品线 |
+| 6 | 竞争情报 | DuraMagicFloor（中国工程板供应商，正在投标吉达四季酒店） | https://duramagicfloor.com/it/engineered-hardwood-for-commercial-spaces | 已交付迪拜 Address Boulevard 8,500㎡ / Opus Tower 12,500㎡ 等中东项目，现投标 Four Seasons Jeddah | Tier 3：同为亚洲供应链竞对，其公开报价带（$21-55/㎡ FOB）可作我方定价参照 |
+
+### 📊 市场情报（趋势参考）
+- **区域**: GCC
+- **内容**:
+  - GCC 拼花面板市场 2024 消费 26K吨/$76M，预计 2035 达 40K吨/$135M（CAGR +4.0%/+5.4%）；区域净进口 8.9K吨，沙特+UAE 为主要进口市场（IndexBox）。
+  - 科威特拼花市场增速预计 8.7% CAGR，跑赢全球 6.2%；Hassan Abul / Safat Home 为当地高端欧系品牌经销商 → 科威特可作下一波经销商扫描目标国。
+  - 工程拼花占 GCC 市场 53.3%、橡木占树种 45.7%；规格门槛共识：酒店工程 ≥3-4mm 耐磨层+多层芯+UV/硬蜡油 → 方所工程报价单应明示 wear layer 与商业案例以过 submittal。
+
+### 🏆 竞品动态
+- **Foglie d'Oro**：11/27-29 参展那不勒斯 Arkeda 2026（Hall 6, 607-608）推 3D boiserie；确认区块链溯源技术用于木地板唯一性认证。渠道叙事持续走「设计师品牌+可溯源工艺」。
+- **启示**：高端拼花的信任构建点正转向「可验证的独一性」（区块链溯源/注册设计），方所可在 submittal 资料包中强化工艺认证与定制唯一性故事。
+
+### 💡 洞察/启发
+- 本周最高优先级：Diriyah Square（MAN+MAG/Urbacon）、Depa（Amaala）、Havelock One（Khobar）三家 fit-out 总包已全部进入材料采购执行期，且合同范围明写 flooring——建议立即背调并准备含认证+案例+区域交期的 submittal 资料包，赶在 11 月定标前触达。
+- OBRAS International 的「single-source 面材平台缺木地板品类」是典型渠道空位信号：GCC 类似的 multi-brand specifier 平台值得系统性扫描，比单店经销商杠杆更高。
+- 科威特 8.7% CAGR + Hassan Abul/Safat Home 双经销商格局 → 建议下期猎手 cron 加入 Kuwait 关键词组验证。
