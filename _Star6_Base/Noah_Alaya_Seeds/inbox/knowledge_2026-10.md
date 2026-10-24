@@ -1,30 +1,32 @@
-# Noah 知识库 · 2026-10
+# Noah 知识库 · 2026-10（中东猎手每日编译）
 
-## [2026-10-24] 商业情报速报
+## [2026-10-25] 商业情报速报
+
+> 过滤：已按 exclude_list.md 执行（公司名/域名/行业标签三重检查，本期黑名单 0 命中；FloorWorld / Woodfloors ME / asdevelop / Bostik / Gerflor / SPC 类线索均已规避）
 
 ### 🔥 高价值线索（可直接跟进）
 | # | 类别 | 公司/项目名 | 链接 | 关键信息 | 行动建议 |
 |---|------|-------------|------|----------|----------|
-| 1 | 精装总包 | Interiors International Industries（迪拜） | zawya.com/en/press-release/companies-news/the-luxe-developers-awards-an-aed150mln-contract-as-interior-fit-out-progresses-at-oceano-330552 | 2026-06-30 获 The Luxe Developers AED1.5亿 Oceano（哈伊马角 Al Marjan 岛）超豪华海景双塔内装总包；20+年中东/欧非酒店住宅经验；正处 finishing 阶段 | 高匹配：超豪华住宅+酒店内装，木地板用量大。找 Group Director Jonathan Peters 及采购负责人，以 Oceano 后续及 RAK 新盘切入 |
-| 2 | 奢华精装 | Crown Bespoke International（迪拜，Hamzari Group 旗下） | crown-building.com/crown-bespoke-international | Palm Jumeirah/Emirates Hills/Saadiyat 超豪私宅+酒店精装；明确表态正在开拓 KSA 利雅得和卡塔尔多哈市场，欢迎 KSA 客户介绍 | 主推别墅/顶层户型拼花方案；恰好其正缺 KSA、卡塔尔的材料供应伙伴，切入窗口期好 |
-| 3 | 超豪 joinery | Ray Fit-Out & Interiors（迪拜 Al Qusais） | ckarchitecture.com/journals/joinery-fit-out-companies-in-dubai | 家族式超豪私宅定制厂，15,000 sq ft 自有车间（CNC/激光），承接豪宅、私人飞机内饰 | 私宅人字拼/鱼骨拼定制需求方，渠道层级简单，可直接谈项目供货 |
-| 4 | 王室级精装 | Al Tayer Stocks Interiors（迪拜） | ckarchitecture.com/journals/joinery-fit-out-companies-in-dubai | 专做 palatial/royal-grade 豪宅，高端供应链网络成熟 | 门槛高但单值大；先 LinkedIn 找 Procurement/Materials Manager 建立长期接触 |
-| 5 | 大项目渠道 | OBRAS International（UAE/GCC） | obrasintl.com/interior-design-solutions-architects-uae-gcc | 原幕墙 specialists，现扩至室内饰面单源供应，明确定位 NEOM/Red Sea/Diriyah/Mukaab 内装市场 | ⚠ 契合度注意：其合作品牌含 WOODN(WPC)，属互斥材质，最多 1 星，仅作情报渠道不作客开 |
-| 6 | 招标情报源 | SCCSI Projects & Tenders 数据库 | sccsinternational.org/market-intelligence/projects-tenders | 汇总 KSA 各 giga-project 标段状态：Red Sea/Amaala $23.6bn 在建、Nesma 获汽车集群 SAR5.47亿、ROSHN/Diriyah 持续发包 | 加入日常监控信源，每周提取新建/装修标段 |
+| 1 | 渠道/经销商 | Conmarble（利雅得） | gc-worldwide.com/Article/464259 | 高端饰面材料商，新开 230㎡ Al Olaya 体验展厅；与 ALUPCO 合作后投标规模扩大 10 倍；主打天然材质+健康建筑叙事 | 建议背调：有展厅=可直接拜访的真实渠道商，天然材质定位与方所设计师渠道契合，评估入 ZOE 池 |
+| 2 | 渠道/经销商 | OBEGI Home（迪拜→沙特） | anecdoted.com/story/obegi-home | Poliform/Lualdi/Flexform 多品牌高端展厅，未来 18 个月主攻沙特（利雅得 KAFD 展厅今夏起陆续开业） | 沙特扩张期=引进新品类窗口，可接触其采购/品牌拓展负责人推荐欧洲拼花线 |
+| 3 | 渠道/经销商 | Boffi DePadova × Atelio（迪拜） | alserkalavenue | Alserkal Avenue 快闪店已开，2026 永久旗舰将落地；意大利高端生活方式集团正式进 UAE | 列入意大利高端渠道监测名单，旗舰落地前是供应链引荐窗口 |
+| 4 | 基建招标 | Red Sea Global 16 岛度假村 | saudiconstructionconsulting.com | 2026 年初已授标 USD 3.9bn，模块化酒店结构；酒店内装材料仍有二三级采购窗口 | 定向追踪 RSG 中标 EPC 的 fit-out 分包商（scenario+identity 搜法） |
+| 5 | 基建招标 | King Salman Automotive Cluster | sccsinternational.org/market-intelligence/projects-tenders | SAR 547.4m 授予 Nesma and Partners（2026） | Nesma 为目标级总包，可查其建材采购/供应商注册通道 |
+| 6 | 基建招标 | NEOM 工人宿舍 $746m | abc-gcc.net/News/1/390533 | 中建系单位中标；2028 峰值用工 180 万人（Knight Frank） | 工人住房=非目标赛道，仅作 NEOM 供应链续热信号记录 |
 
 ### 📊 市场情报（趋势参考）
-- **区域**: 沙特 KSA
+- **区域**: GCC（UAE/沙特）
 - **内容**:
-  - Diriyah Gate 已累计授标 SAR1200 亿（总 $632 亿），Grand Avenue 1.9km 商业轴带（8.5万㎡零售+2400 套奢华住宅+6 酒店）在 MIPIM 2026 公布——高定拼花直接对标场景
-  - Vision 2030 项目 2028 年高峰期需 180 万工人，中国建筑中标 NEOM 工人村 $7.46 亿——材料采购节奏加速
-  - Red Sea Global 211 栋建筑获 Mostadam 钻石级可持续认证——环保认证（FSC/低 VOC）成沙特准入加分项
+  1. 迪拜 2026 木地板趋势：人字拼持续增长，主流转向**大规格人字（90×600mm+）**与 chevron；灰色水洗风退潮，暖色浅橡木/蜜色灰蜡（warm greige）当道——与方所现有产品方向一致（floorsdubai.ae）。
+  2. UAE 市场 engineered hardwood 全面优于 solid（空调干湿差大），欧洲品牌主力押注工程木；herringbone/chevron 仍是最热花色，铺装费溢价明显（ebarza 2026 采购指南）。
+  3. 全球拼花市场 2026 约 USD 62.7bn，CAGR 6.0% 至 2034；MEA 为新兴高增长区，驱动=酒店开发+豪宅+装饰性地板需求（researchandmarkets）。
 
 ### 🏆 竞品动态
-- **Foglie d'Oro**：与建筑大师 Marco Piva 合作发布 Elementa 系列——"拼花作为可组合系统"概念；Salone 2026 展 Diamante Chic/Ventaglio(Fumé Oak/Sky Blue)/Frato 3D，主打 Total Match 地板+墙板+家具同色系统
-- **Listone Giordano**：Milan Design Week 2026 一次性发布 4 个 Natural Genius 新系列（Piet Boon Opera Aperta、Jouin Trame、Gargano Phibon、Olioso Supernova），单模块凹凸旋转互锁的几何拼花是主流新方向；并经 ICE 支持进入马德里 Casa Decor，开设马德里新展厅
-- **趋势判断**：两家标杆都在走「设计师联名 + 模块化几何拼花 + 地板/墙面 Total Match」，方所可借鉴模块化拼花叙事进 GCC 设计师渠道
+- **Foglie d'Oro**: Salone del Mobile 2026 "SHAPED over TIME"（联袂 Arte Brotto，Total Match 地板+家具+墙系统整体方案）+ High Point Market 2026（联合 Artitalia Group 进北美）——整体空间方案叙事升级。
+- **Listone Giordano**: Natural Genius 系列持续（Trafic×Marc Sadler / Nui×Piero Lissoni），Salone 2026 Hall 24 D37；与昨日简报口径一致，酒店工程线为头号叙事。
+- **Parador**: GCC 渠道再落一子（Goettling 迪拜双品牌线，见 10-24 简报），续监控。
 
 ### 💡 洞察/启发
-- **Interiors International 正在 RAK Oceano 冲刺收尾**，其后续中东新盘签约期是最佳接触点；同时它覆盖欧洲/印度洋酒店项目，一条线索可打两个区域
-- **Crown Bespoke 主动宣布进军 KSA/卡塔尔**——新进入者需要本地化供应链，正是国内拼花工厂以供货商身份切入的低摩擦通道
-- Saudi 材料准入趋势：可持续认证（Mostadam 对标 LEED）将成硬门槛，建议方所提前准备 FSC 链路认证材料包
+- Conmarble 的"体验式展厅"模式印证：**中东高端建材渠道正在从产品陈列转向场景化叙事**——方所式"意品牌代理+场景展厅"模型在利雅得有直接对标空间，ALUPCO 式本地巨头背书是加速器。
+- 大规格人字（90×600mm+）是 2026 明确的产品升级信号，方所可在下一批定制订单中预留该规格样品线。
+- Boffi/Boffi DePadova 等意大利集团密集进 UAE，说明**意大利高端设计供应链在 GCC 正处扩张周期**——正是争取意大利拼花品牌中东代理权的最佳窗口期。
