@@ -30,3 +30,31 @@
 - Conmarble 的"体验式展厅"模式印证：**中东高端建材渠道正在从产品陈列转向场景化叙事**——方所式"意品牌代理+场景展厅"模型在利雅得有直接对标空间，ALUPCO 式本地巨头背书是加速器。
 - 大规格人字（90×600mm+）是 2026 明确的产品升级信号，方所可在下一批定制订单中预留该规格样品线。
 - Boffi/Boffi DePadova 等意大利集团密集进 UAE，说明**意大利高端设计供应链在 GCC 正处扩张周期**——正是争取意大利拼花品牌中东代理权的最佳窗口期。
+
+## [2026-10-26] 商业情报速报
+
+> 过滤：已按 exclude_list.md 执行（公司名/域名/行业标签三重检查，本期黑名单命中 0 条；Floorworld/woodfloors.ae/asdevelop/SPC 类线索未采集）
+
+### 🔥 高价值线索（可直接跟进）
+| # | 类别 | 公司/项目名 | 链接 | 关键信息 | 行动建议 |
+|---|------|-------------|------|----------|----------|
+| 1 | 基建招标 | KAFD 新酒店（利雅得）→ SAUDICO + ALEC FITOUT JV | ksatendersgate.com | KAFD DMC 将 16 层 210 间客房酒店（BUA 26,500㎡）精装总包授予 JV；该 JV 刚完成 Diriyah Gate 游客中心 | 一级目标：ALEC FITOUT 为大型酒店内装总包，锁定其 FF&E/地材采购窗口，背调+入 ZOE 池 |
+| 2 | 基建招标 | AMAALA Triple Bay 精品酒店 → Depa Interiors | gulfconstructiononline.com | Depa 中标 AMAALA Triple Bay 豪华精品酒店精装工程；Depa 为全球顶级酒店内装集团（中东总部迪拜） | 一级目标：Depa 是高端酒店拼花地板的直接决策买方，查其供应商注册/沙特项目采购负责人 |
+| 3 | 渠道/线索 | Al Ijaada Project LLC（迪拜，2013 年起） | alijaada.com/wood-flooring-dubai | 供应+安装工程木/拼花，覆盖 UAE 及 GCC，延伸 spa/健身/桑拿地材赛道，B2B 工程向 | 二级目标：工程渠道商，可评估作为方所产品线 UAE 安装+分销伙伴 |
+| 4 | 竞争格局 | UAE 拼花渠道全景（ebarza 2026 指南） | ebarza.com | 活跃商:Floor Land(Floorworld,排除)、Nordic Homeworx(Kahrs,渠道封闭)、parquetflooring.ae/Risala、Hillswood Designs(沙迦,定制拼花+环保定位)、Floors Dubai | Risala 与 Hillswood 可做背调候选：Risala 15 年+阿布扎比展厅；Hillswood 主打定制拼花设计 |
+
+### 📊 市场情报（趋势参考）
+- **区域**: GCC / 红海沿岸
+- **内容**:
+  1. AMAALA 2026 夏正式开业，全网 9 家度假村、1,600+ 客房陆续投放；Rosewood AMAALA（ACPV 设计）+26 栋 Tristan Auer 设计品牌别墅、Equinox Resort（Foster+Partners/Rockwell Group）已开——**开业潮后的 FF&E 补货与二期采购是当前窗口**。
+  2. GCC 超级工程石材等饰面材料交期已从 8-10 周拉长至 16-24 周（单矿脉同批要求）——拼花同类单一批次供货能力可作投标差异化卖点。
+  3. 沙特别墅拼花指南显示：本地经销已开始强调含水率 <10% 与沙漠气候适配（Lujain），**气候技术参数是 GCC 拼花采购的核心筛选项**。
+
+### 🏆 竞品动态
+- **Foglie d'Oro**: 10/21-22 参加 Architect@Work Paris（Stand 155），展出模块化地板+3D 立面墙板；11/27-29 参加 Naples Arkeda（Hall 6, 607-608）推 3D boiserie——**地面+墙面一体化定制**叙事加速。
+- **Listone Giordano**: 同场 Architect@Work Paris 发布 Natural Genius 新作 Trame（Patrick Jouin）/Supernova（Pietro Olioso）；米兰设计周已发四条新系列（含 Piet Boon）；马德新展厅落地+Casa Decor 2026 Spazio Italia（ICE 支持）。
+
+### 💡 洞察/启发
+- Depa + ALEC FITOUT 同时持有沙特最高端酒店精装合同——**两家即当前沙特奢华酒店拼花地板的超大买方集合**，建议本周内完成两家背调并定位各自采购决策链（B2B 工程向：FF&E/Procurement/Fit_Out）。
+- 竞品集体转向"地板+墙板/boiserie 一体化定制"，方所可评估在多层实木拼花之外引入墙面木饰面配套样本，跟齐叙事。
+- AMAALA 开业潮=实测期：开业后 6-12 个月的维修/翻新/补货采购（尤其公共区域高频磨损地面）是避开新建招标红海的长尾入口。
