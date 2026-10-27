@@ -58,3 +58,33 @@
 - Depa + ALEC FITOUT 同时持有沙特最高端酒店精装合同——**两家即当前沙特奢华酒店拼花地板的超大买方集合**，建议本周内完成两家背调并定位各自采购决策链（B2B 工程向：FF&E/Procurement/Fit_Out）。
 - 竞品集体转向"地板+墙板/boiserie 一体化定制"，方所可评估在多层实木拼花之外引入墙面木饰面配套样本，跟齐叙事。
 - AMAALA 开业潮=实测期：开业后 6-12 个月的维修/翻新/补货采购（尤其公共区域高频磨损地面）是避开新建招标红海的长尾入口。
+
+## [2026-10-28] 商业情报速报
+
+> 过滤：已按 exclude_list.md 执行（asdevelop / FloorWorld / Woodfloors ME / Bostik / Gerflor / Indus / SPC·LVT·PVC 类线索命中即弃，本期黑名单命中 0 条入库）
+
+### 🔥 高价值线索（可直接跟进）
+| # | 类别 | 公司/项目名 | 链接 | 关键信息 | 行动建议 |
+|---|------|-------------|------|----------|----------|
+| 1 | 基建招标 | Diriyah Square 五酒店+三住宅 $730m 授标 | app.fundz.net/agreements/diriyah-contract-94a576 | Diriyah Company 授出合计 $730m 两标：413 间豪华酒店客房+34 套品牌公寓，Diriyah Square 核心区 | 追踪中标 EPC/fit-out 分包，锁定酒店 FF&E 与地材采购包（scenario+identity 搜法） |
+| 2 | 基建招标 | Diriyah 住宅交付窗口（2026-10 起） | kanzotech.com | Diriyah 累计授标超 SAR 120bn（~$32bn）；14 家国际酒店集团确认进驻（Ritz-Carlton/Rosewood/Raffles/Four Seasons 等）；住宅 2026 年 10 月起交付，多处进入**最终精装+调试阶段** | 交付前精装窗口是拼花进场的时点：背调 Diriyah 主要总包（El-Seif/中建/Shapoorji Pallonji/Albawani）的地材供应商注册通道 |
+| 3 | 渠道/线索 | Luxury Antonovich Design（迪拜） | antonovich-design.ae/wood-floors.html | 迪拜高端设计+精装集团，自营艺术拼花业务：设计师出图→3D 可视化→向"全球领先拼花工厂"定制→含安装+25 年质保 | 一级目标：其"全球工厂直采"即中国拼花工厂切入点；背调并接触其材料采购/设计总监 |
+| 4 | 渠道/线索 | JDR Building Materials Trading LLC（迪拜） | jdrbuilding.com/about | 迪拜建材贸易商，BOQ 报价+批发+进出口，覆盖 UAE/GCC 的精装与 fit-out 材料供应 | 三级目标：贸易型渠道，作 GCC 分销备选池观察，季度跟进 |
+| 5 | 竞争信号 | Coloria Group（进入 GCC 拼花叙事） | coloriagroup.net | 一站式建材集团公开主打"定制人字/鱼骨/Logo 拼花+混木种染色"，直指利雅得/吉达酒店与豪宅，附 LEED/GSAS 认证话术 | 竞争监测：其定制拼花线与方所定位重叠，关注其沙特项目中标记录 |
+
+### 📊 市场情报（趋势参考）
+- **区域**: GCC（沙特/阿联酋）
+- **内容**:
+  1. NEOM 部分标段收缩，但**Diriyah Gate 与 Qiddiya 采购通道保持活跃**，高端饰面材料需求正向此两项目集中（stonetrades 2026 sourcing 报告）——资源再分配信号，猎人搜索权重应向 Diriyah/Qiddiya 倾斜。
+  2. 利雅得 Grade-A 写字楼空置率仅 2%，900,000㎡ 新增面积 2025–2027 集中交付（Diriyah Gate/Misk City/Riyadh Front），660+ 跨国区域总部落地——办公精装量巨大，但该赛道正被 carpet/LVT/SPC 抢占默认规格（tefloor）。
+  3. NEOM/Tabuk 区域湿热+海岸环境排除湿敏基层，采购逻辑转向标准化预制+本地库存——拼花投标需回应含水率与交期双参数。
+
+### 🏆 竞品动态
+- **Foglie d'Oro**: Architect@Work Paris（10/21–22, Stand 155）+ Napoli Arkeda（11/27–29, Hall 6, 607-608）连续参展推 3D boiserie/模块化地板——地面+墙面一体化叙事持续加码（与 10-26 简报口径一致，新增 Arkeda 细节）。
+- **Parador/Kahrs**: 本期无新动态（Goettling 迪拜线续监控）。
+
+### 💡 洞察/启发
+- **Diriyah 取代 NEOM 成为当前最优猎场**：$730m 新授标+住宅 10 月交付+14 家奢华酒店品牌确认，且采购叙事偏 heritage/高端饰面（比 NEOM 更契合拼花）。建议本周把 Diriyah 总包与 fit-out 分包作为定向挖掘主目标。
+- Luxury Antonovich 的"工厂直采+25 年质保"模式证明：**设计工作室自营定制拼花是高端渠道的真实成交路径**——方所可向 GCC 设计工作室打包"中国智造产能+意式设计授权"的供应链提案。
+- 利雅得办公赛道被 SPC/LVT 占据默认规格，拼花不应正面硬打写字楼，应继续锁定**酒店/别墅/文化建筑**（Diriyah heritage 区正是拼花主场）。
+
