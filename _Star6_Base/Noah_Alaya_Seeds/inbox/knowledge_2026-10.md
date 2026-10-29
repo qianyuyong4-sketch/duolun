@@ -38,3 +38,39 @@
 ---
 
 *数据来源: web_search 公开检索 · 采集人: Noah/心体2560 · 过滤: exclude_list.md*
+
+---
+
+## [2026-10-30] 商业情报速报
+
+> 过滤依据：exclude_list.md（asdevelop.org/.com、Floorworld、Wood Floors Middle East、Bostik/Gerflor/Vinifloor、Indus Floors/Arabia、nonprofit/NGO 类均已剔除）
+
+### 🔥 高价值线索（可直接跟进）
+
+| # | 类别 | 公司/项目名 | 链接 | 关键信息 | 行动建议 |
+|---|------|-------------|------|----------|----------|
+| 1 | 基建招标 | Depa Interiors（RSG 年度 7 单总包商） | https://gulfconstructiononline.com/ArticleTA/417832/Depa-snaps-up-$259m-Saudi-Arabia,-UAE-fitout-orders | Depa 斩获 $259M 订单：含 Red Sea Global 的 Desert Rock Hotel（50 别墅+10 客房）与 Amaala Yacht Club 精装工程——本年度已是 RSG 第 7 个酒店项目授予 Depa | **Tier 1**：Depa 是 RSG 体系最活跃的 fit-out 供应商，其材料采购链即高端木地板入口；背调采购部门并建联，主推 engineered herringbone/chevron |
+| 2 | 基建招标 | Diriyah Square — MAN & MAG JV / Urbacon | https://finance.yahoo.com/real-estate/articles/man-mag-jv-urbacon-win-093608635.html | Diriyah 新授 $727.9M 合同：MAN-MAG JV（$353.1M，3 酒店+2 住宅）与 Urbacon Saudi（$374.8M，3 酒店+1 住宅），范围明确含 **fit-out** | Tier 1：两家总包即将进入精装材料采购期；锁定 procurement/FF&E 负责人，趁 early procurement 阶段切入拼花送样 |
+| 3 | 基建招标 | Qiddiya World Cup Stadium — IKK Fangda JV | https://www.cbnme.com/news/ikk-fangda-jv-wins-us306-million-facade-contract-for-qiddiyas-world-cup-stadium/ | 中沙联合体（Fangda 51% + IKK Group 49%）中标 $306M Qiddiya 体育场幕墙；863 天工期，含博物馆与附属建筑 | Tier 2 观察：幕墙为主，但附属建筑内装材料有配套空间；IKK Group 为沙特多行业集团，可探整体建材合作面 |
+| 4 | 设计渠道 | Antonovich Group（Dubai/Riyadh） | https://antonovich-design.ae/blog/luxury-fit-out-services-in-dubai-by-antonovich-group-luxury-antonovich-design.html | 迪拜+利雅得双城运营的高端 fit-out 集团，官方服务清单明确含「Italian marble, wooden parquet, designer flooring」安装；客户为 villas/royal palaces/penthouses | Tier 1：服务清单直接点名 parquet，正中方所产品线；背调后锁定采购负责人，主打橡木拼花+定制花色 |
+| 5 | 设计渠道 | Elliot James（Dubai D3/London/Singapore） | https://elliotjames.com/post/interior-fit-out-company-dubai | Dubai Design District 驻场，三档服务均含 FF&E 采购+国际制造商资源；采购环节涉及 stone/lighting/custom joinery 国际供应商 | Tier 2：其采购生态是欧洲高端材料入口，方所可作为「工厂直供定制拼花」切入其供应商池 |
+| 6 | 市场数据 | 沙特拼花面板进口行情 (HS 441872/79) | https://app.indexbox.io/indicators/441872h441879/682 | 近12个月（至2026.4）沙特拼花面板进口 $11.0M，同比 **-8.3%**，均价 $1,818/吨；固定投资 -1.7%，制造产出 -8.8% | 大盘进口收缩 → 单靠贸易流量不够，须绑定 mega-project 采购（线索1/2）；避免吨位价格战，走项目定制溢价 |
+| 7 | 市场数据 | GCC 拼花市场结构报告 | https://indexbox.io/store/gcc-parquet-flooring-market-analysis-forecast-size-trends-and-insights | GCC 2035 预测 40K 吨/$135M（CAGR +4.0%）；沙特占 GCC 进口 52%；高端段由欧洲品牌+FSC/PEFC 认证主导 | 验证既有判断：FSC 认证+欧洲对标叙事是进 GCC 高端段门票；中期可评估沙特本地 finishing operation 合资可行性 |
+
+### 📊 市场情报（趋势参考）
+
+- **区域**: NEOM 缩减坐实——Trojena $4.7B 水坝合同终止（Webuild，工程 30% 时「for convenience」解约），Sindalah 游艇岛无限期停摆，PIF 2026–2030 资金转向 Humain AI/Diriyah/Red Sea。NEOM 线索优先级整体下调。
+- **区域**: 需求正向 Diriyah Gate（$63B、40+ 酒店、300+ 品牌住宅、566K m² 零售 GFA）和 Qiddiya 集中；沙特 giga 项目授标额同比 +20% 达 $196bn。
+- **区域**: GCC 高端建材单一矿场/色差一致性要求把标准交货期从 8–10 周推至 16–24 周——拼花供应商若有稳定产能+可承诺交期，本身就是卖点。
+
+### 🏆 竞品动态
+
+- **Foglie d'Oro**: 继 Salone del Mobile（4.21–26）后，确认参展 **High Point Market 2026**（4.25–29，北卡，联合 Artitalia Group 美国渠道，showroom: 200 Steele St, High Point）与 **Arkeda 2026**（11.27–29，那不勒斯）。对美打法 = 兄弟品牌家具 + 地板 + boiserie 一体化。
+- **Listone Giordano**: 米兰设计周发布 Natural Genius 四个新系列，合作设计师含 Patrick Jouin、Piet Boon、Emanuel Gargano——设计师联名仍是其核心引擎。
+- **启示**: 竞品 2026 主战场是「展会矩阵 + 设计师联名 + 地板/家具/墙板整案」。方所可复制「拼花 + 木饰面」配套，展会打点可先走 Domotex / 大湾区国际地板展。
+
+### 💡 洞察/启发
+
+- **本周最优先动作**: Depa Interiors 背调+建联。RSG 年度 7 个酒店项目全走 Depa，一个入口覆盖 The Red Sea + Amaala 全部奢华酒店线，杠杆率远超零散注册供应商门户。
+- **NEOM 降权**: Trojena 解约+Sindalah 停摆坐实收缩，NEOM 相关线索池降为 Tier 3 观察，外呼产能转向 Diriyah 总包商（MAN-MAG、Urbacon、El-Seif）。
+- **定价地理**: 沙特进口均价 $1,818/吨 vs UAE $4,988/吨——同一产品在阿联酋卖 2.4 倍价。方所 GCC 首攻市场建议设为 **UAE（高单价）**，沙特走项目制大单。
