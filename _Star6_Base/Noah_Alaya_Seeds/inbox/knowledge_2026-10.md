@@ -74,3 +74,43 @@
 - **本周最优先动作**: Depa Interiors 背调+建联。RSG 年度 7 个酒店项目全走 Depa，一个入口覆盖 The Red Sea + Amaala 全部奢华酒店线，杠杆率远超零散注册供应商门户。
 - **NEOM 降权**: Trojena 解约+Sindalah 停摆坐实收缩，NEOM 相关线索池降为 Tier 3 观察，外呼产能转向 Diriyah 总包商（MAN-MAG、Urbacon、El-Seif）。
 - **定价地理**: 沙特进口均价 $1,818/吨 vs UAE $4,988/吨——同一产品在阿联酋卖 2.4 倍价。方所 GCC 首攻市场建议设为 **UAE（高单价）**，沙特走项目制大单。
+
+---
+
+## [2026-10-31] 商业情报速报
+
+> 过滤依据：exclude_list.md（asdevelop.org/.com、Floorworld、Wood Floors Middle East、Bostik/Gerflor/Viniflor、Indus Floors/Arabia、nonprofit/NGO 类均已剔除；本日无命中）
+
+### 🔥 高价值线索（可直接跟进）
+
+| # | 类别 | 公司/项目名 | 链接 | 关键信息 | 行动建议 |
+|---|------|-------------|------|----------|----------|
+| 1 | 基建招标 | Diriyah Heroes' Park — Satco | https://zawya.com/en/business/travel-tourism/satco-wins-105mln-diriyah-park-construction-contract-400171 | Satco 中标 SAR393M（$105M）Heroes' Park 主建工程：场地准备、步道/硬景、地下管线；Diriyah 总盘子 $63B | Tier 2：景观类为主，但 Satco 为沙特老牌总包，可探其 Diriyah 其他标段的内装材料面 |
+| 2 | 基建招标 | SAMoCA 当代艺术博物馆 — Hassan Allam × Albawani JV | https://instagram.com/p/DXqZl1uCMVl?hl=en | SAR1.84bn（$490M）沙特当代艺术博物馆合同授予 Hassan Allam（埃及）+ Albawani（沙特）JV，属 Diriyah 文化板块 | Tier 2：文化场馆精装标准高，进入采购期后可推定制拼花/鱼骨拼 |
+| 3 | 供应链信号 | HydeSourcing × NEOM 总包战略供应协议 | https://hydesourcing.com/en/news/news-1786956948472 | 中国背景供应商 HydeSourcing 6 月与 NEOM 总包签长期材料供应协议（含跨境物流+现场技术支持打包），证明中国供应链直供总包路径可行 | 参考样板：复制「总包直供+全链条服务」模式向 Diriyah/Qiddiya 总包复制（MAN-MAG、Urbacon、El-Seif） |
+| 4 | 设计渠道 | GroundedDesign（Dubai, Jumeirah Golf Estates） | https://designboom.com/architecture/travertine-timber-desert-toned-textures-groundeddesign-villa-limni-dubai | Villa Limni 539㎡ 豪宅翻新：卧室用 Kährs 天然木地板+ TAF House 材料协作，媒体曝光于 designboom | Tier 2：Kährs 用户=高端拼花品位已验证；背调后推「欧洲同源·工厂直供定制」替代方案 |
+| 5 | 设计渠道 | OutMazed Design（Dubai, The Villa 社区） | https://outmazeddesign.ae/fit-out-joinery/interior-fit-out-in-the-villa-dubai | 自有施工队+木作车间，Project Jewel 750㎡ 别墅含木地板铺装（2020）；The Villa 社区多案在手 | Tier 2：自有车间型 fit-out，拼花供应缺口明显；建联报价 herringbone/chevron |
+| 6 | 设计渠道 | CosmoCrafts（Dubai, 自有地板事业部） | https://cosmocrafts.ae/hardwood-vs-engineered-wood-flooring-dubai | 2026 指南主推 engineered wood（5–6mm 耐磨层）为迪拜别墅首选，含 parquet 分部；电话 +971 55 145 2819 直接可联 | Tier 1：可直接联系、明确做 parquet 且无 vinyl 主营倾向；先背调再送样 |
+| 7 | 设计渠道 | Fovero（Dubai villa fit-out） | https://fovero.co/villa-fitout-dubai | 服务迪拜豪宅市场，供应清单含 engineered/solid wood（注：兼营 LVT，需在沟通中锚定实木高端线） | Tier 3 观察：有 LVT 业务，按互斥规则降权，仅作拼花分部单独评估 |
+
+### 📊 市场情报（趋势参考）
+
+- **区域**: Diriyah 板块持续放标——Heroes' Park（$105M）、SAMoCA（$490M）、Diriyah Square 五酒店三住宅（$727.9M）接连授标，采购链进入总包→分包→材料传导期，未来 1–2 季度是精装材料切入窗口。
+- **区域**: 迪拜别墅翻新/fit-out 内容营销密集（CosmoCrafts/Wasleen/Fovero 均在 2026 发专业指南），本地渠道对 engineered wood 的教育已成熟，推定制拼花的话术阻力小。
+- **区域**: 豪宅精装材料对比逻辑（engineered 优于 solid 抗 UAE 湿度循环）已是本地共识——方所多层实木+拼花定位与当地话语体系天然对齐。
+
+### 🏆 竞品动态
+
+- **Listone Giordano**: Natural Genius 2026 第四个系列细节曝光——**Trame**（Patrick Jouin 设计，6.30 发布）：橡木表面激光雕刻图形纹路，光影随视角变化；三色 Fior di Sale / Grigio Minerale / Cuoio；oak、brushed、glued-down 条形规格。至此四系列（Trame/Opera Aperta/Phibon/Supernova）全部落地。
+- **Kährs**: 继续渗透迪拜豪宅设计圈（GroundedDesign Villa Limni 卧室+楼梯应用），以「天然木地板+设计媒体曝光」路径做渠道——无新系列但渠道动作值得跟踪。
+- **启示**: LG 的雕刻表面差异化（触觉+光影）开辟了拼花新卖点维度；方所拼花的定制雕刻/激光镶嵌能力可直接对标叙事。
+
+### 💡 洞察/启发
+
+- **本日最优先动作**: 背调 CosmoCrafts（#6，电话可直联+parquet 专营+无排除项），若工商信息含实木地板经营范围即入池 Tier 1。
+- **总包直供路径验证**: HydeSourcing 案例证明中国材料商可绕过本地经销商直接与 giga-project 总包签战略供应协议——建议整理其签约要素（质量管控+跨境物流+现场支持打包）作为向 MAN-MAG/Urbacon 递方案的框架。
+- **设计媒体杠杆**: GroundedDesign 经 designboom 曝光的案例说明迪拜设计圈吃「媒体可引用案例」这一套；方所给渠道商的物料包可含英文案例故事稿，降低渠道转发门槛。
+
+---
+
+*数据来源: web_search 公开检索 · 采集人: Noah/心体2560 · 过滤: exclude_list.md*
