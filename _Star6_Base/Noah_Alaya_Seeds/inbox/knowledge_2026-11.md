@@ -28,3 +28,33 @@
 - Diriyah Square 五个豪华酒店新中标=最近的确定性精装窗口，总包（MAN-MAG、Urbacon） flooring 采购将在 2026Q1-Q2 启动，现在切入时机最佳。
 - Listone Giordano 走"设计师联名+南欧展厅"路线，Foglie d'Oro 走"区块链溯源+酒店工程"路线——方所可对标做"定制拼花+项目溯源故事"的组合叙事。
 - Gulf 市场技术门槛点在含水率/耐候论证（45-50°C、湿度差 30-35%），产品资料包应前置工程数据（kiln-dried<10%、热胀系数、防潮安装方案）以通过 spec-in 审核。
+
+## [2026-11-04] 商业情报速报
+
+> 采集来源：NEOM/Diriyah/KAFD/Amaala 招标动态、GCC 精装承包商扫描、竞品展会信息。已按排除字典过滤（FloorWorld/Woodfloors ME 渠道封闭对象、asdevelop、SPC/LVT 类）。
+
+### 🔥 高价值线索（可直接跟进）
+| # | 类别 | 公司/项目名 | 链接 | 关键信息 | 行动建议 |
+|---|------|-------------|------|----------|----------|
+| 1 | 基建招标 | KAFD 十六层酒店精装项目（利雅得） | https://ksatendersgate.com/kafd-awards-contract-for-latest-hospitality-project-to-saudico-alec-fitout | SAUDICO + ALEC FITOUT JV 中标 210 间客房酒店全项精装（26,500㎡ BUA），室内设计 LW；该 JV 刚完成 Diriyah Gate 游客中心 | Tier1：联系 ALEC FITOUT 采购部，主推酒店客房/大堂人字拼+拼花 |
+| 2 | 基建招标 | Diriyah Wadi Safar Montage 酒店+品牌住宅 | https://meed.com/diriyah-tenders-wadi-safar-montage-hotel-contract | 200 间客房酒店+30 套品牌住宅招标中，SSH 主设计、Turner & Townsend 项目管理；后续还有同类标段 | 跟踪中标方公告；同时接触 SSH 设计团队做 spec-in |
+| 3 | 基建招标 | Amaala Triple Bay 豪华精品酒店精装 | https://gulfconstructiononline.com/ArticleTA/287877/depa-secures-saudi-luxury-hotel-fit-out-works-contract | Depa Interiors 中标 Amaala Triple Bay 精品酒店精装；Depa 是 Red Sea Global 常用精装商（今年已第 7 个 RSG 项目，含 Desert Rock 酒店、Amaala 游艇会） | Depa 为重复采购方，建立供应商注册关系可覆盖整条 RSG 项目线 |
+| 4 | 渠道线索 | KAT BLACK Studio（Dubai） | https://khaleejtimes.com/kt-network/kat-black-unveils-dubai-hills-villa-transformation-amid-shift-towards-restrained-luxury-design | Dubai Hills 6,000 sqft 豪宅全定制交付；设计风向转向克制工艺派（橡木饰面+手工质感），主力别墅客群，Sheikh Zayed Road 展厅 | Tier2：寄橡木拼花样板册，主打"craft-led"材质叙事契合其定位 |
+| 5 | 渠道线索 | Orro Interior Design LLC（Dubai/Abu Dhabi） | https://linkedin.com/company/orro-interior-design-llc | 2003 年成立，201-500 人，自营 joinery+MEP 的 turnkey 精装承包商，覆盖豪宅/F&B/酒店/影院，EMAAR 注册供应商 | Tier2：以"进口拼花配套其自有 joinery"切入，询 EMAAR 项目清单 |
+| 6 | 渠道线索 | K4 Fit-Out（Dubai） | https://k4.ae/fitout/journal/best-design-and-build-companies-in-dubai | 11 个自营工种（含 joinery/石材/金属）单合同交付，主攻 Palm Jumeirah/Emirates Hills 超豪私宅 | Tier2：高端定制拼花与其自有木作车间互补，寄样品+定制能力介绍 |
+| 7 | 渠道线索 | HydeSourcing | https://hydesourcing.com/en/news/news-1786956948472 | 6/18 与 NEOM 总包签长期工程材料供应协议，成为 NEOM 战略材料供应商，提供一站式供应链服务 | Tier1：材料集成商模式已被验证，接触其建材品类线谈拼花供货 |
+
+### 📊 市场情报（趋势参考）
+- **区域**: 沙特 — NEOM Oxagon 污水厂标段二度延期（MEED 10/28），Neom Green Hydrogen 中间设施 RFQ 11/22 截止；基建材料供应机会向战略供应商集中（HydeSourcing 模式）。
+- **区域**: Dubai — UAE 高端室内设计市场预计 2027 年超 85 亿迪拉姆；别墅设计风向从极致奢华转向"克制工艺派"（travertine+fluted oak+手工质感），对拼花的人文叙事有利。
+- **区域**: Dubai 价格带 — Urban Flooring 公布：工程人字拼 110-160 AED/㎡、chevron 120-180、定制/实拼 180-400，高端定制空间明确。
+
+### 🏆 竞品动态
+- **Foglie d'Oro**: 11/27-29 参加那不勒斯 Arkeda 2026（Hall 6, Stand 607-608）主推 3D boiserie 系列——地板向墙板延伸；此前 10/17-21 亮相美国 High Point Market（与 Arte Brotto、Artitalia Group 合作）。
+- **Listone Giordano**: Milan Design Week 2026 发布 Natural Genius 四个新系列（Olioso/Gargano/Jouin/Piet Boon 联名）；马德新展厅运营中，并参与 Casa Decor 2026。
+- **渠道封闭监测**: FloorWorld 继续以 Royal Parquet/Swiss Hardwoods 代理覆盖 UAE+Oman 拼花安装（不客开）。
+
+### 💡 洞察/启发
+- Depa 与 RSG 的"一年七个项目"关系说明：进入 Amaala/Red Sea 生态最高效路径是成为其精装总包（Depa、ALEC FITOUT、K4、Orro）的上游拼花供应商，而非逐个项目投标。
+- Foglie d'Oro 的"3D boiserie"动向验证地板+墙板一体化趋势，与 Salone 的 Total Match 展示一脉相承——方所可将拼花延展为墙面木作包，在酒店大堂场景做整体方案。
+- "克制工艺派"设计转向意味着：浅中暖色橡木+哑光油面+人字/鱼骨细纹是最匹配 Dubai 豪宅下一轮需求的产品叙事。
