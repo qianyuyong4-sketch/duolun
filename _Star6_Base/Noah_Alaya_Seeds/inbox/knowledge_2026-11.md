@@ -58,3 +58,31 @@
 - Depa 与 RSG 的"一年七个项目"关系说明：进入 Amaala/Red Sea 生态最高效路径是成为其精装总包（Depa、ALEC FITOUT、K4、Orro）的上游拼花供应商，而非逐个项目投标。
 - Foglie d'Oro 的"3D boiserie"动向验证地板+墙板一体化趋势，与 Salone 的 Total Match 展示一脉相承——方所可将拼花延展为墙面木作包，在酒店大堂场景做整体方案。
 - "克制工艺派"设计转向意味着：浅中暖色橡木+哑光油面+人字/鱼骨细纹是最匹配 Dubai 豪宅下一轮需求的产品叙事。
+
+## [2026-11-05] 商业情报速报
+
+> 采集来源：Diriyah/NEOM 招标动态、GCC 设计/采购渠道扫描、竞品展会与市场报告。已按排除字典过滤（FloorWorld/Woodfloors ME、asdevelop、SPC/LVT/非营利类）。
+
+### 🔥 高价值线索（可直接跟进）
+| # | 类别 | 公司/项目名 | 链接 | 关键信息 | 行动建议 |
+|---|------|-------------|------|----------|----------|
+| 1 | 基建招标 | Diriyah Two · One Hotel 施工合同 | https://meed.com/diriyah-awards-191m-hotel-construction-construction | Diriyah Company 授予 BEC Arabia + Ashoka Buildcon JV SAR717M（$192M）合同，建 One Hotel（Media & Innovation District，GFA 31,000㎡）；BEC Arabia 去年 11 月还中得同区 $800M 南办公楼项目 | Tier1：联系 BEC Arabia 采购部（已两度中标 Diriyah），主推酒店精装拼花+人字拼 |
+| 2 | 基建招标 | Diriyah · Four Seasons Hotel & Private Residences | https://meed.com/diriyah-signs-up-private-firm-for-four-seasons-project | Diriyah 与 Midad Development 签联合开发协议：159 间客房 Four Seasons 酒店+私宅，总面积 235,938㎡ | 跟踪后续总包/精装招标；提前对 Midad 及其指定设计方做 spec-in |
+| 3 | 渠道线索 | TRIKA ARABIA（Dubai） | https://instagram.com/trika.arabia | Boutique FF&E 采购+艺术策展公司，11/5-8 参展 Downtown Design Dubai「The Sourced Room」（Studio 502 设计），聚合国际家具/灯光/表面材料品牌做 spec-to-delivery | Tier1：趁 Downtown Design 展期（本周）接触，拼花可作为其 surfaces 品类缺口切入 |
+| 4 | 渠道线索 | OBRAS International（重复确认） | https://obrasintl.com/interior-design-solutions-architects-uae-gcc | 引用 UAE 室内设计市场 2026 达 $1.94bn、CAGR 近 10% 至 2031（Mordor）；其五厂牌组合缺木地板品类 | 11/04 已列线索，今日补充市场规模佐证，优先级维持 Tier1 |
+| 5 | 渠道线索 | Giorgetti（Riyadh 扩张，渠道参照） | https://wwd.com/home-design/interior-design/middle-east-conflict-home-design-impact-1239097493 | Giorgetti 坚持中东扩张计划，2026 年将在 Riyadh 开店——欧洲奢侈品牌对沙特零售信心仍在 | 参照信号：Riyadh 高端零售/展厅窗口开启，方所可同步评估利雅得渠道伙伴 |
+
+### 📊 市场情报（趋势参考）
+- **区域**: 中东整体 — WWD 报道中东冲突+霍尔木兹海峡扰动为全球家居/室内行业蒙上阴影，但 Giorgetti 等头部品牌仍推进 Riyadh 开店计划（风险与信心并存）。
+- **区域**: GCC — IndexBox GCC 拼花地板报告：市场高度依赖进口，高端段由西欧品牌（FSC/PEFC 认证+技术规格）主导溢价；Jebel Ali/Dammam/Hamad 港为物流枢纽，差异化竞争点在延长质保、认证安装团队、数字可视化等增值服务。
+- **区域**: 中东宏观 — 中东木拼花板市场 2024 消费 844K 吨/$3.3bn，土耳其占产量 89%；到 2035 达 862K 吨/$3.4bn（CAGR +0.2%/+0.3%，慢增长但高端段结构性溢价明显）。进口均价 $4,271/吨，同比 +2.6%。
+
+### 🏆 竞品动态
+- **Foglie d'Oro**: Salone del Mobile 2026 主题确认 SHAPED over TIME，与 Arte Brotto 联展，主打 Total Match（地板+家具+墙系统一体化，2D→3D 延伸）；展陈含 Diamante Chic 经典拼花 + Azalea 3D Art 墙面（Colorsense Sky Blue/Mountain Rose + 大理石嵌片 + LED）。
+- **Listone Giordano**: Natural Genius 2026 四新系列已确证（Piet Boon Opera Aperta、Gargano Phibon 等）；工程案例新增 Sorrento Ara Maris 酒店（140 Cannella 哑光橡木，Classica Michelangelo 线，天然油面，"船木"叙事）。
+- **渠道封闭监测**: 无新增。
+
+### 💡 洞察/启发
+- BEC Arabia 连续中标 Diriyah 两大标段（$192M 酒店 + $800M 办公），是 Diriyah 生态最稳定的总包入口之一——比追逐单项目更值得建立长期供应商关系。
+- Listone Giordano 的 Ara Maris 案例（船木灵感+哑光油面）与 Dubai"克制工艺派"风向同构：**"海岸/航海叙事 + 哑光橡木拼花"** 可作为面向红海度假项目（Red Sea Global/Amaala）的产品故事线。
+- GCC 报告指出竞争差异化在"增值服务"而非价格——方所对中东渠道的报价包应标配：FSC 认证、含水率/耐候工程数据、认证安装指导、数字铺装可视化，这与 spec-in 审核要求完全重合。
