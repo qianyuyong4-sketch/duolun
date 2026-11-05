@@ -86,3 +86,30 @@
 - BEC Arabia 连续中标 Diriyah 两大标段（$192M 酒店 + $800M 办公），是 Diriyah 生态最稳定的总包入口之一——比追逐单项目更值得建立长期供应商关系。
 - Listone Giordano 的 Ara Maris 案例（船木灵感+哑光油面）与 Dubai"克制工艺派"风向同构：**"海岸/航海叙事 + 哑光橡木拼花"** 可作为面向红海度假项目（Red Sea Global/Amaala）的产品故事线。
 - GCC 报告指出竞争差异化在"增值服务"而非价格——方所对中东渠道的报价包应标配：FSC 认证、含水率/耐候工程数据、认证安装指导、数字铺装可视化，这与 spec-in 审核要求完全重合。
+
+## [2026-11-06] 商业情报速报
+
+> 采集来源：NEOM/利雅得基建动态、Dubai 人字拼装渠道扫描、GCC 地板市场报告、竞品展会信息。已按排除字典过滤（FloorWorld/Woodfloors ME 渠道封闭、asdevelop、Shoukat Interior 等以 SPC/LVT 为主的互斥客户）。
+
+### 🔥 高价值线索（可直接跟进）
+| # | 类别 | 公司/项目名 | 链接 | 关键信息 | 行动建议 |
+|---|------|-------------|------|----------|----------|
+| 1 | 渠道线索 | Floorway (floorway.ae) | https://floorway.ae/portfolio/herringbone-parquet-flooring-project-at-villa-7-sector-e-emirates-hills | Dubai 高端拼花安装商，2026-07 完成 Emirates Hills 私宅人字拼工程（工程橡木，胶粘法），报价 AED 155-170/sq.ft，明确向客户推荐 engineered 而非 solid（认可工程板稳定性） | Tier1：主推定制人字拼/拼花（其现有品类缺拼花定制），工程数据包切入 |
+| 2 | 渠道线索 | DST Wooden Flooring (dstw.ae) | https://dstw.ae/dubai-hills-project | Dubai Hills 别墅项目供应意大利 Garbelotto 橡木人字拼并安装——欧洲品牌转售型安装商，客户为高端私宅业主 | Tier2：以"拼花定制+更优交期"对标 Garbelotto 报价，争取成为其第二供应源 |
+| 3 | 渠道线索 | Kustom Space (kustomspace.ae) | https://kustomspace.ae/herringbone-flooring-dubai | Dubai 人字拼专精安装商，覆盖 Palm Jumeirah/Dubai Hills/Arabian Ranches 等，工程实木报价 AED 220-450/㎡，案例以橡木浅-中色为主 | Tier2：发拼花定制画册+价格支持；注意其兼营 LVT/laminate，合作需限定木地板品类 |
+| 4 | 基建招标 | 利雅得地铁红线延长线（至 Diriyah Gate） | https://agbi.com/infrastructure/2026/11/us-french-group-wins-contract-to-build-riyadh-metro-extension | Parsons 领衔美法联合体中标 PM/CM 合同，线路北延至 Diriyah Gate——Diriyah 交通配套提速，周边酒店/商业精装节奏将加快 | 间接机会：持续跟踪 Diriyah Gate 沿线酒店标段授标，Pre-qual 材料供应商名单窗口 |
+
+### 📊 市场情报（趋势参考）
+- **区域**: GCC — GCC 地板市场 2026 规模 $5.8bn，CAGR 6.4%（2035 达 $10.14bn）；KSA+UAE 占最大份额；giga 项目+酒店业为最大驱动（morganreedinsights.com）。
+- **区域**: 中东 — 工程硬木地板市场 2026-2035 预计年增 4-6%，高端供应 60-80% 依赖进口，欧洲为溢价来源；住宅占消费 55-70%（IndexBox）。
+- **区域**: 中东 — 木地板行业 2023 $5.84bn → 2034 预计 $11.74bn（CAGR 6.6%）；KSA 2034 达 $1.53bn、UAE $1.46bn；工程木细分增速最快（6.6% CAGR，FMI）。
+
+### 🏆 竞品动态
+- **Foglie d'Oro**: 2026-10-17~21 参加 High Point Market（北卡），与 Arte Brotto 联展、Artitalia Group 为美国官方合作方——正式进军北美渠道；地板+boiserie 一体化叙事延续。
+- **Listone Giordano**: Natural Genius 2026 四系列确证发布于米兰设计周（Piet Boon/Jouin/Gargano/Olioso 四设计师联名）；参与马德里 Casa Decor 2026（ICE 主办 Spazio Italia）。
+- **渠道封闭监测**: 无新增。
+
+### 💡 洞察/启发
+- Dubai 人字拼安装商生态呈"欧洲品牌转售+本地安装"双轨：Floorway/DST 这类商既缺拼花定制能力又缺第二供应源——是方所"定制拼花 OEM+安装指导"模式最直接的切入点，且他们已替我们完成了客户教育（engineered 优于 solid）。
+- 竞品集体转向"地板+墙板+家具"整体空间方案（Foglie d'Oro Total Match、Listone 设计师联名）——单卖地板的溢价空间正在收窄，方所可评估以 boiserie/墙板配套作为第二增长品类。
+- Parsons 中标 Diriyah 交通配套=Diriyah Gate 精装供应链确定性再+1；结合前几日 BEC Arabia 双标段，Diriyah 生态是当前 KSA 侧投入产出比最高的客开战场。
