@@ -113,3 +113,32 @@
 - Dubai 人字拼安装商生态呈"欧洲品牌转售+本地安装"双轨：Floorway/DST 这类商既缺拼花定制能力又缺第二供应源——是方所"定制拼花 OEM+安装指导"模式最直接的切入点，且他们已替我们完成了客户教育（engineered 优于 solid）。
 - 竞品集体转向"地板+墙板+家具"整体空间方案（Foglie d'Oro Total Match、Listone 设计师联名）——单卖地板的溢价空间正在收窄，方所可评估以 boiserie/墙板配套作为第二增长品类。
 - Parsons 中标 Diriyah 交通配套=Diriyah Gate 精装供应链确定性再+1；结合前几日 BEC Arabia 双标段，Diriyah 生态是当前 KSA 侧投入产出比最高的客开战场。
+
+## [2026-11-07] 商业情报速报
+
+> 采集来源：Salone Riyadh/INDEX Saudi 展会动态、Dubai/Riyadh 渠道扫描、竞品展会信息。已按排除字典过滤（FloorWorld/Woodfloors ME 渠道封闭、asdevelop、SPC/LVT 互斥类）。
+
+### 🔥 高价值线索（可直接跟进）
+| # | 类别 | 公司/项目名 | 链接 | 关键信息 | 行动建议 |
+|---|------|-------------|------|----------|----------|
+| 1 | 展会窗口 | Salone del Mobile.Riyadh 首届 | https://wwd.com/home-design/interior-design/middle-east-conflict-home-design-impact-1239097493 | 米兰家具展首届利雅得站 11/26-28 于 KAFD 举办，Molteni&C/Cassina/Poliform/Minotti/Giorgetti 等头部奢侈设计品牌齐聚 | Tier1：若可参加/观展，集中接触欧洲品牌的中东渠道负责人；至少远程跟踪品牌方 KSA 代理招募公告 |
+| 2 | 渠道线索 | Flaer（Sobha Group，Dubai） | https://gulfnews.com/gn-focus/company-news/flaer-makes-its-dubai-debut-at-downtown-design-2026-1.500738574 | Sobha 旗下高端家具品牌，Downtown Design 2026 首秀（11/4-8, Booth D12），UAE 自有 Industry 4.0 制造基地，Dubai 永久展厅即将开业 | Tier2：其定制家具+室内整装模式缺拼花品类，接触 Sobha Furniture 采购谈木地板配套 |
+| 3 | 渠道线索 | Laura Hammett Studio（Dubai 新设） | https://eng.pressbee.net/show4958346.html | 伦敦顶级室内设计工作室 11 月开设 Dubai 分部并更名 Laura Hammett Studio；其 Laura Hammett Living 已入驻 Riyadh 高端买手店 Dgallerie | Tier2：新设分部正处供应商组建期，寄橡木拼花/人字拼样板册，主打超豪私宅定制叙事 |
+| 4 | 渠道线索 | Chabros International Group | https://instagram.com/chabrosgroup | 木地板+木皮专业商，展厅覆盖 Riyadh/Dubai/Abu Dhabi/Doha/Muscat/Bahrain/Beirut 七城（Riyadh 新展厅 2025 年初开业）；Dubai Design Week 2026 与 MEK Architecture 联展（Stand D16） | Tier1：GCC 七城渠道+缺拼花定制产能=理想第二供应源对象；先发拼花定制画册+FSC/工程数据包 |
+| 5 | 渠道线索 | Conmarble（Riyadh） | https://gc-worldwide.com/Article/464259/How_Conmarble_is_instilling_wellbeing_into_interiors | 表面材料商，上月新开 Riyadh Al Olaya 230㎡ 展厅；已参与 Diriyah 内 House of Al Saud/Capella Hotel/King Salman Library 等项目，背靠 ALUPCO 快速放大投标规模（去年十倍） | Tier2：自然材料/健康建材叙事契合方所；接触其 Diriyah 在手项目谈拼花表面配套 |
+| 6 | 市场情报 | INDEX Saudi Arabia 2026 数据 | https://index-saudi.com/index-saudi-arabia-opens-in-riyadh-with-architecture-and-design-commission-as-strategic-partner-spotlighting-the-kingdoms-evolving-design-landscape | Saudi 室内精装市场 2031 预计达 SAR 31.3bn（TechSci）；Vision 2030 以来累计公布地产+基建项目 SAR 4.88tn（Knight Frank）；RICEC 展会聚合本地供应商/设计师/开发商 | 用于报价包与客开话术的宏观佐证数据；关注 INDEX 展商名录筛本地 fit-out 商 |
+
+### 📊 市场情报（趋势参考）
+- **区域**: 沙特 — Salone 首届利雅得站（11/26-28, KAFD）为欧洲奢侈设计品牌集体落地沙特的标志性事件；INDEX Saudi 披露精装市场 SAR 31.3bn@2031，本地设计话语权（沙特讲者过半）持续上升。
+- **区域**: GCC — IndexBox GCC 拼花报告再确证：市场为净进口结构，高端段由欧洲品牌主导溢价，LVT 仿拼花在低端放量（与我们无关，反衬真木拼花的差异化定位）。
+- **区域**: Dubai — Downtown Design 2026（11/4-8）聚集 Flaer/TRIKA 等新渠道力量，设计端新进入者密集，供应商窗口集中在本季。
+
+### 🏆 竞品动态
+- **Foglie d'Oro**: Salone del Mobile.Milano 2026（4/21-26, Hall 14 D47）SHAPED over TIME 主题确证，Total Match 地板+家具+墙系统一体化叙事延续；High Point Market 北美渠道扩张。
+- **Listone Giordano**: Natural Genius 2026 四新系列（Milan Design Week 发布，Piet Boon/Jouin/Gargano/Olioso 联名）确证。
+- **渠道封闭监测**: 无新增。
+
+### 💡 洞察/启发
+- Salone Riyadh 首届+Giorgetti 2026 开店说明：**欧洲品牌正在以"展会+直营"双轨抢占利雅得**，本地代理名额将被快速瓜分——方所若想在 KSA 建渠道，未来 2-3 个月是锁定本地代理/集成商（Chabros、Conmarble 类）的窗口期。
+- Chabros 七城展厅+设计周联名打法，验证"渠道商+设计师联名"是 GCC 木地板最有效的 spec-in 路径——方所可将 Listone 式设计师联名故事打包进对渠道商的推介材料。
+- Laura Hammett/Flaer 等"新入局者"组建供应商名单期=冷启动最易窗口，新设分部没有历史供应商绑定，样品册直达即有机会。
