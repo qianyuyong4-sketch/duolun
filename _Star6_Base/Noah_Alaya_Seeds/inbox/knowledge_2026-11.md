@@ -142,3 +142,30 @@
 - Salone Riyadh 首届+Giorgetti 2026 开店说明：**欧洲品牌正在以"展会+直营"双轨抢占利雅得**，本地代理名额将被快速瓜分——方所若想在 KSA 建渠道，未来 2-3 个月是锁定本地代理/集成商（Chabros、Conmarble 类）的窗口期。
 - Chabros 七城展厅+设计周联名打法，验证"渠道商+设计师联名"是 GCC 木地板最有效的 spec-in 路径——方所可将 Listone 式设计师联名故事打包进对渠道商的推介材料。
 - Laura Hammett/Flaer 等"新入局者"组建供应商名单期=冷启动最易窗口，新设分部没有历史供应商绑定，样品册直达即有机会。
+
+## [2026-11-08] 商业情报速报
+
+> 采集来源：GCC 精装授标与产能动向、Dubai 渠道扫描、竞品展会信息。已按排除字典过滤（FloorWorld/Woodfloors ME 渠道封闭、asdevelop、SPC/LVT 互斥类）。
+
+### 🔥 高价值线索（可直接跟进）
+| # | 类别 | 公司/项目名 | 链接 | 关键信息 | 行动建议 |
+|---|------|-------------|------|----------|----------|
+| 1 | 产能动向 | ALEC FITOUT 哈伊马角制造基地投产 | https://dailyguardian.ae/alec-fitout-makes-long-term-investment-in-uae-based-manufacturing-skilled-employment-and-advanced-production-capability | 11/2 新开 7,500㎡ RAK 工厂（24 台产线：CNC/木皮压贴/饰面），正为 Wynn Al Marjan Island 综合度假村做精装——其大型酒店/超豪品牌住宅管线扩张，木制品外采需求同步放大 | Tier1（11-04 已建档的 JV 对象升级）：联系其采购部，主打酒店工程拼花+墙面木作，配合其 RAK 产能做半成品板材供应 |
+| 2 | 基建招标 | Wynn Al Marjan Island（RAK） | https://khaleejtimes.com/business/uae-fit-out-sector-sees-manufacturing-push-as-new-rak-facility-opens | ALEC FITOUT 迄今最大合同之一；RAK 首个综合赌场度假村，酒店+餐饮精装体量大 | 跟踪其 furniture/fixtures 采购窗口；RAK 新市场，竞争烈度低于 Dubai |
+| 3 | 渠道线索 | Al Aqili Furnishings (AAF) | https://gulfconstructiononline.com/ArticleEssentials/370881/AAF_seals_landmark_contract | UAE 老牌地板+室内解决方案商，刚拿下 Fakhruddin Properties Dubai Sports City 282 套服务式公寓 Dhs26M 全项精装（地板+墙纸+灯具+家具），此前已交付其 Sheikh Zayed Road 总部 | Tier1：本项目刚签约、采购执行期就在当下——以其 flooring 品类缺口切入，主推工程人字拼/拼花定制 |
+| 4 | 渠道线索 | Fakhruddin Properties | https://gulfconstructiononline.com/ArticleEssentials/370881/AAF_seals_landmark_contract | Sharjah/UAE 开发商，连续发包精装整包（总部+酒店公寓），偏好交钥匙供应商 | Tier2：作为 AAF 的上游共同接触；或直接注册其供应商库 |
+
+### 📊 市场情报（趋势参考）
+- **区域**: UAE — 精装行业出现"本地制造化"转向：ALEC FITOUT 在 RAK 自建 7,500㎡ 工厂（含木皮压贴线），意味着总包更倾向本地化交付，海外供应应转为"半成品/定制拼花坯料+本地饰面"模式适配。
+- **区域**: GCC — Diriyah $730M 五酒店三住宅项目（MAN-MAG + Urbacon）已进入 facade+fit-out+MEP 全项执行期（agbi.com），精装采购链 Q1 启动。
+- **区域**: UAE — 服务式公寓/酒店公寓板块精装发包活跃（Fakhruddin 连续两单），中大体量整包地板需求是新增量场景。
+
+### 🏆 竞品动态
+- **Foglie d'Oro**: Salone Milano 2026（4/21-26, Hall 14 D47）Total Match 一体化叙事确证；High Point Market 北美扩张后，11/27-29 转战那不勒斯 Arkeda 2026（3D boiserie 系列）。
+- **Listone Giordano**: Natural Genius 2026 四系列（Piet Boon/Jouin/Gargano/Olioso 联名）+马德新展厅+ Casa Decor 2026，南欧设计师渠道持续加密。
+- **渠道封闭监测**: 无新增。
+
+### 💡 洞察/启发
+- ALEC FITOUT 的 RAK 工厂释放明确信号：**GCC 精装总包正在内卷化产能，外采将向"高工艺定制件"集中**——拼花/艺术拼花恰是其 CNC 标准产线做不了的品类，方所的定制产能是对口补位。
+- Al Aqili 这类"地板起家的整包商"是比纯 fit-out 商更精准的客开对象： flooring 是其主营业务，补拼花定制缺口的决策链最短。
+- 本周线索集中在"新设分部/新投产基地/新中标项目"三类冷启动窗口——建议将"新开工公告"设为每周固定监测项，供应商组建期的转化率远高于存量替换。
