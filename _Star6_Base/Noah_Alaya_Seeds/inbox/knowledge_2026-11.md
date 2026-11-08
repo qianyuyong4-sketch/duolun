@@ -168,4 +168,33 @@
 ### 💡 洞察/启发
 - ALEC FITOUT 的 RAK 工厂释放明确信号：**GCC 精装总包正在内卷化产能，外采将向"高工艺定制件"集中**——拼花/艺术拼花恰是其 CNC 标准产线做不了的品类，方所的定制产能是对口补位。
 - Al Aqili 这类"地板起家的整包商"是比纯 fit-out 商更精准的客开对象： flooring 是其主营业务，补拼花定制缺口的决策链最短。
-- 本周线索集中在"新设分部/新投产基地/新中标项目"三类冷启动窗口——建议将"新开工公告"设为每周固定监测项，供应商组建期的转化率远高于存量替换。
+- 本周线索集中在"新开工公告/新设分部/新投产基地"三类冷启动窗口——建议将"新开工公告"设为每周固定监测项，供应商组建期的转化率远高于存量替换。
+
+## [2026-11-09] 商业情报速报
+
+> 采集来源：NEOM/Diriyah 招标与供应链动态、GCC 地板市场行情（IndexBox 2026）、竞品展会动态、Dubai/Riyadh 高端 fit-out 渠道扫描。已按排除字典过滤（asdevelop/非营利/塑料地板类）。
+
+### 🔥 高价值线索（可直接跟进）
+| # | 类别 | 公司/项目名 | 链接 | 关键信息 | 行动建议 |
+|---|------|-------------|------|----------|----------|
+| 1 | 渠道线索 | Antonovich Group | https://antonovich-design.ae | Dubai 头部 luxury design & build，自有工厂+展厅，Palm Jumeirah/Al Barari 别墅与王室项目，明确自营 flooring 供应（door-to-door 全屋配送），业务延伸 Dubai→Riyadh | Tier1：定制拼花+人字拼切入其材料供应商名单，主打 majlis/主卧场景 |
+| 2 | 渠道线索 | Spazio Interior Decoration | https://spazio.ae/saudi-arabia | 2008 年起深耕沙特：Riyadh/Jeddah 私人宫殿+别墅精装，迪拜设计团队+土耳其工厂，已交付沙特宫殿项目，沙特业务持续扩张 | Tier1：宫殿级定制拼花叙事，直接联系迪拜总部采购 |
+| 3 | 渠道线索 | Rayfitout | https://rayfitout.com/services/interior-design-company-in-dubai-new-ongoing | 30 年 UAE 经验，自有 15,000 sqft joinery 工厂，FF&E 采购线明确采购 American hardwoods/意大利大理石，覆盖 Saadiyat/Yas/Palm Jumeirah 顶级别墅 | Tier2：以硬木地板供应商身份进入其 FF&E 采购清单 |
+| 4 | 渠道线索 | Hamzari Group | https://hamzarigroup.com | Dubai/Abu Dhabi/GCC 豪华总承包，bespoke interior+FF&E integration+custom joinery 为核心业务，端到端交付 | Tier2：邮件引荐定制拼花目录，主打高规格 spec 项目 |
+| 5 | 渠道线索 | Eire Gulf Interiors | https://eiregulf.com/interior-fitout-services | Dubai/Abu Dhabi/Riyadh fit-out 承包商，主营 luxury restaurant/5-star hotel/premium retail 精装 | Tier2：酒店+零售场景拼花补位报价 |
+| 6 | 基建情报 | NEOM 供应链窗口 | https://supplychaindigital.com/news/how-neom-is-transforming-global-supply-chain-infrastructure | NEOM 与 DSV 的 $10bn 物流 JV 全面运营，Oxagon 建创新中心；NEOM Supplier Portal 是官方准入入口，强调循环经济+ESG，"sustainable timber"被点名为核心采购品类 | 通过 NEOM Supplier Portal 注册，准备 FSC/PEFC 认证材料包 |
+| 7 | 基建情报 | Riyadh Metro Red Line 延伸至 Diriyah Gate | https://agbi.com/infrastructure/2026/11/us-french-group-wins-contract-to-build-riyadh-metro-extension | Parsons 领衔联合体中标 PM 服务，红线延伸终点=Diriyah Gate，锁定 Diriyah 片区 2026-2028 精装需求放量 | 跟踪 Diriyah Gate 沿线商业/酒店配套 flooring 采购公告 |
+
+### 📊 市场情报（趋势参考）
+- **区域**: GCC 拼花市场 — 2024 年消费 2.6 万吨/$76M，2035 预测 4 万吨/$135M（CAGR +4.0%/+5.4%）；沙特占进口量 52%（4.7K 吨），UAE 进口额第一（$12M），Qatar 增速最快。
+- **区域**: 价格分层 — UAE 进口单价 $4,988/吨 vs 沙特 $2,072/吨（溢价 2.4x）：UAE 是欧洲高端品牌门户，沙特以中端量为主但 mega-project 高端需求正在抬升——双市场应差异化报价。
+- **区域**: 结构趋势 — engineered parquet 巩固主流地位（尺寸稳定性适配 GCC 气候）；GCC 本地无原生木材产能，全靠进口半成品+本地 finishing；LVT/SPC 侵蚀中低端，实木拼花被挤向 ultra-premium 利基（正是方所定位区间）。
+
+### 🏆 竞品动态
+- **Foglie d'Oro**: 新增两站行程——Arkeda 2026（那不勒斯，11/27-29，主打 3D boiserie 墙地一体化）与 High Point Market 2026（北卡，10/17-21，借 Artitalia Group 切美国渠道）——"地板+墙板 3D 连续系统"成为新叙事方向。
+- **Listone Giordano**: Milan Design Week 2026 发布四条 Natural Genius 新系列（Piet Boon/Patrick Jouin/Emanuel Gargano/Pietro Olioso 四设计师联名），马德新展厅+Casa Decor 参与——设计师联名密度加大，品牌 IP 化加速。
+
+### 💡 洞察/启发
+- **Antonovich/Spazio/Rayfitout 三家均自带 FF&E 采购职能且公开招募材料供应商**——本周最可执行的渠道突破口：分别代表"王室宫殿/顶奢别墅/成熟总包"三种客户画像，可同时投递定制拼花资料包做 A/B 测试。
+- UAE $4,988/吨 vs 沙特 $2,072/吨 的价差说明沙特高端段由项目制精装承包（而非品牌代理）主导——切入沙特应走"承包商 FF&E 清单"而非零售代理。
+- NEOM Supplier Portal 点名 sustainable timber 且强制 ESG——FSC 认证是进入 giga-project 的硬门票，建议优先补齐认证材料包。
