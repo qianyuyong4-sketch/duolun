@@ -61,3 +61,36 @@
 - **RSG 内部团队即最终 spec 关口**：Four Seasons Amaala 由 RSG 自建 interior architecture 团队直接操盘，意味着材料指定可绕过中间设计顾问直达甲方——Sarah Assaf 团队是本周期最值得投入关系的 4 个名字。
 - **AvL 注册潮是低成本的窗口**：MASS 公开门户、RSG 表单、NEOM 供应商库均为免费注册、自动收 RFQ；建议本周批量完成 3 家注册，勾 FF&E/finishing materials 类目。
 - **高端段增速(8-10%) > 大盘(5-7%)**：中东拼花唯一安全生态位是 premium spec（宽板、厚耐磨层、认证齐全），中端已让给 LVT——报价策略应对齐 USD 40-65/㎡ landed 区间而非拼成本。
+
+## [2026-11-14] 商业情报速报
+
+> 过滤说明：排除字典已加载（asdevelop、Floorworld、Wood Floors Middle East、Bostik/Gerflor、Indus 及 nonprofit/NGO 标签）。今日结果未见命中黑名单；HydeSourcing 仅作为 NEOM 切入先例引用，不列为客开对象。
+
+### 🔥 高价值线索（可直接跟进）
+| # | 类别 | 公司/项目名 | 链接 | 关键信息 | 行动建议 |
+|---|------|-------------|------|----------|----------|
+| 1 | 基建招标 | Diriyah × Satco（Heroes' Park） | neom.directory/index.php/neom-news/diriyah-awards-105mn-contract-for-heroes-park-development | Diriyah Company 授予 Saudi Arabian Trading & Construction Company（Satco）SAR393M（$105M）Heroes' Park 主体施工合同，属 Diriyah Two 片区 | Tier2：公共园林+游客设施后续含接待/展陈精装；跟踪 Satco 的 fit-out 分包与材料采购口 |
+| 2 | 基建招标 | Parsons 牵头财团（Riyadh Metro 红线延伸至 Diriyah Gate） | agbi.com/infrastructure/2026/11/us-french-group-wins-contract-to-build-riyadh-metro-extension | Parsons 获利雅得地铁红线延伸段（终点 Diriyah Gate）项目与施工管理合同；RCRC 1月已授施工标 | Tier2：交通枢纽站点精装是工程拼花场景；关注后续车站内饰材料指定 |
+| 3 | 基建准入 | NEOM 供应链先例： HydeSourcing 签战略材料供应协议 | hydesourcing.com/en/news/news-1786956948472 | 6月18日与中国供应链公司签 NEOM 总包方材料采购协议，覆盖质量控制+跨境物流+本地配送+现场技术支持 | 情报参考：证明 NEOM 总包接受中国供应链「服务包」模式；复制其四件套叙事（质检+物流+本地交付+驻场）触达 Asas Al-Mohileb 等总包 |
+| 4 | 总包商 | Asas Al-Mohileb（NEOM 混凝土总包） | gulfconstructiononline.com/Article/1628871 | 承建 NEOM The Line 供应 20,000+ m³/天混凝土站群，向 Putzmeister 下 SAR80M 设备大单——采购力强、基建主包身份 | Tier2：基建主包非精装直接买方，但可入其供应商库做长线布局 |
+| 5 | 设计渠道 | Antonovich Group（迪拜） | antonovich-design.ae | 迪拜奢华 design & build 集团：自有施工+fit-out+门到门家具供应（含 flooring 品类），Palm Jumeirah/Dubai Hills 别墅案例，Forbes 报道 | Tier1：自带材料采购权且明示供应 flooring——高端别墅拼花直接买方；邮件触达其采购部门，附别墅鱼骨拼案例册 |
+| 6 | 设计渠道 | Spazio（迪拜总部+沙特业务+土耳其工厂） | spazio.ae/saudi-arabia | 2008年起深耕沙特：宫殿/majlis/豪华别墅+商业 fit-out，迪拜设计团队+土耳其制造工厂，Riyadh/Jeddah 多项目 | Tier1： palace 级定制场景完美对口拼花；触达询其地板供应商结构 |
+| 7 | 设计渠道 | A&T Group Interiors | atginteriors.com/news-and-insights/at-group-interiors-recognized-in-the-2026-cid-fit-out-firm-powerlist | 入选 2026 CID Fit-Out Firm Powerlist；迪拜总部+利雅得扩张，UAE/KSA 高端 fit-out 16 年，创始人 Atti Assi / CEO Tareq Khalafawi | Tier1：双市场高定 fit-out，材料采购口活跃；LinkedIn 触达决策人 |
+| 8 | 设计渠道 | Furmories（阿治曼） | furmoriesinterior.com/pages/interior-design-company-dubai | 别墅整装：设计+自有制造+安装一体，明确使用天然石材/橡木/胡桃木实木饰面，服务 Dubai/Abu Dhabi 私宅 | Tier2：中小型但材质偏好天然实木；WhatsApp 触达询拼花供应 |
+
+### 📊 市场情报（趋势参考）
+- **区域**: GCC / 中东
+- **内容**:
+  1. GCC parquet 市场 2035 展望：需求集中于沙特+阿联酋高端项目（奢华住宅塔、五星酒店、旗舰店）；中端市场最拥挤（多品牌建材商+综合地板进口商），高端欧洲品牌溢价 2 倍以上仍供不应求。
+  2. GCC 拼花产品结构：工程多层实木因尺寸稳定性成为主流选择；沙特为净进口国，高端工程/实木拼花主要来自德国/瑞典/波兰（FSC/PEFC 认证是采购决策因素）。
+  3. 竞争分化策略：价值增值服务（延长质保、认证安装团队、数字可视化工具、售后体系）正成为高端段差异化关键，单拼价格难以突围。
+
+### 🏆 竞品动态
+- **Foglie d'Oro × Arte Brotto**：Salone del Mobile 2026「SHAPED over TIME」，家具与地板表面一体化设计语言，延续 Total Match 生态打法。
+- **Listone Giordano**：Natural Genius 2026 新增 Patrick Jouin 设计的 **Trame** 系列（橡木表面雕纹触感研究），并以**限量+指定伙伴分销**策略测试市场（Circular/Graphit 与 Terre di Vigna 联名 Alisea/Passoni Design）——「limited edition + select partners」渠道打法值得借鉴。
+- 启发：竞品正把地板从建材升维为「设计师单品+稀缺渠道」运营，方所可用小批量联名系列绑定中东头部 design & build 商。
+
+### 💡 洞察/启发
+- **Design & Build 商是比经销商更短的路径**：Antonovich / Spazio / A&T 三家均自有采购权且明示供应 flooring，跳过经销商层级直达 spec；本周可打包 3 家邮件触达，附别墅拼花案例+认证包。
+- **NEOM 中国供应链先例已验证**：HydeSourcing 的「供应链服务包」模式证明总包方接受非欧洲货源；Asas Al-Mohileb 等基建主包的供应商库注册是低成本长线卡位。
+- **Diriyah 资金流确认**：Satco/Nesma/Parsons 三连发说明 NEOM 降温后 Diriyah Two 正处于放单高峰——其后续酒店/文化建筑精装标是 2026 Q1-Q2 主战场。
