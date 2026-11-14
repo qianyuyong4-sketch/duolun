@@ -94,3 +94,34 @@
 - **Design & Build 商是比经销商更短的路径**：Antonovich / Spazio / A&T 三家均自有采购权且明示供应 flooring，跳过经销商层级直达 spec；本周可打包 3 家邮件触达，附别墅拼花案例+认证包。
 - **NEOM 中国供应链先例已验证**：HydeSourcing 的「供应链服务包」模式证明总包方接受非欧洲货源；Asas Al-Mohileb 等基建主包的供应商库注册是低成本长线卡位。
 - **Diriyah 资金流确认**：Satco/Nesma/Parsons 三连发说明 NEOM 降温后 Diriyah Two 正处于放单高峰——其后续酒店/文化建筑精装标是 2026 Q1-Q2 主战场。
+
+## [2026-11-15] 商业情报速报
+
+> 过滤说明：排除字典已加载（asdevelop、Floorworld、Wood Floors Middle East、Bostik/Gerflor、Indus 及 nonprofit/NGO 标签）。今日结果未命中黑名单；Spazio / Antonovich / Foglie d'Oro / Listone Giordano 为 11-14 已入库线索，仅做增量补充不重复列表。
+
+### 🔥 高价值线索（可直接跟进）
+| # | 类别 | 公司/项目名 | 链接 | 关键信息 | 行动建议 |
+|---|------|-------------|------|----------|----------|
+| 1 | 基建招标 | Diriyah Wadi Safar 大包：Albawani × Urbacon JV | meed.com/diriyah-awards-multi-billion-construction-contract | Diriyah Company 授出 SR80亿（$2B）Wadi Safar 合同：Aman、Six Senses、Chedi、Faena 四家奢华酒店+马球俱乐部+零售设施；此前7月 El-Seif×中建获 Northern District $2B 合同 | Tier1：四家奢华酒店 2026-2028 进入精装采购窗口；跟踪 Albawani/Urbacon 材料采购口，备「奢华酒店房区工程拼花」方案包 |
+| 2 | 基建招标 | Salini Saudi（Webuild）× First Fix MEP 包 | cbnme.com/news/first-fix-lands-sar-353-million-mep-deal-in-diriyah-city | First Fix 获 SAR353M Diriyah City MEP 分包（业主为 Salini Saudi）；Salini 已持 Diriyah Square 零售 precinct SAR22.49亿 + 超大地库 SAR39.9亿——是 Diriyah 最活跃总包 | Tier1：Salini 手握 Diriyah Square 400 商铺零售区精装执行权——商业空间拼花场景直接对口；触达其材料采购/spec 团队 |
+| 3 | 总包商 | Interiors International Industries（迪拜） | onevillenews.com/2026/06/30/the-luxe-developers-awards-an-aed150-million-contract-as-interior-fit-out-progresses-at-oceano | 获 The Luxe Developers AED150M 合同执行 Oceano（Al Marjan 岛 AED15亿超豪海滨盘）精装；案例含 Atlantis The Royal、Mandarin Oriental、Savoy、Dorchester、Six Senses Southern Dunes（沙特）；集团总监 Jonathan Peters | Tier1：顶级酒店+超豪住宅双轨 fit-out，且已进沙特 Six Senses 体系——与 RSG 高端酒店链重叠；LinkedIn 触达 Jonathan Peters，附酒店拼花案例 |
+| 4 | 设计渠道 | Mirabello Interiors（卡塔尔） | mirabellointeriors.com/home | 30年高定精装商：执行卡塔尔最大休闲目的地 246 客房+84 私人别墅+Arabian Village 完整精装（300万㎡） | Tier1：卡塔尔高端酒店/别墅双场景、体量大；邮件触达询其木材饰面采购结构，主推别墅区人字拼/鱼骨拼 |
+| 5 | 设计渠道 | Crown Bespoke International（迪拜/利雅得） | crown-building.com/crown-bespoke-international | 超豪别墅/宫殿从零到交付整装：Palm Jumeirah、Emirates Hills、Saadiyat 案例；正开拓沙特超豪私宅市场（Hamzari Group 平台） | Tier1：私宅 palace 级定制，直接采购进口饰面材料；官网明示欢迎合作引荐——邮件+WhatsApp 双触达 |
+| 6 | 设计渠道 | ALEC Fitout（增量确认） | alecfitout.ae | 案例确认含 Four Seasons Amaala（KSA，96 客房含总统套房）fit-out、Jumeirah Marsa Al Arab、One Za'abeel One&Only；UAE+KSA 双基地 | Tier1（11-12 已入库）：Four Seasons Amaala 精装由其执行，与 RSG 内部团队形成双入口；触达时点正当时 |
+
+### 📊 市场情报（趋势参考）
+- **区域**: GCC / 中东
+- **内容**:
+  1. GCC 拼花市场 2026 结构确认：本地制造基础薄弱、进口商网络主导；高端段由西欧品牌（FSC/PEFC 认证+技术规格）把持，中端被东欧/土耳其供给挤压，低端 LVT 逐价格战——唯 premium spec 端值得投入。
+  2. MENA 木拼花板产量 87% 集中于土耳其（73.6 万吨/年），GCC 需求几乎全靠进口；沙特+阿联酋为高价值进口枢纽，酒店 hospitality 为进口市场第一终端。
+  3. 产品趋势：工程多层实木因稳定性+地暖兼容持续替代实木；表面科技（耐磨涂层、抗菌易洁）成为酒店标书差异化要点；需求端 biophilic 自然材质偏好上升利好真木拼花。
+
+### 🏆 竞品动态
+- **Listone Giordano**：Natural Genius 2026 补充——Studio Piet Boon「Opera Aperta」（文艺复兴建筑比例转译）与 Patrick Jouin「Trame」（橡木表面雕纹，Fior di Sale/Grigio Minerale/Cuoio 三色）构成 2026 双主打；酒店 contract 渠道新增 Ara Maris 案例（哑光橡木 140 Cannella 船木灵感）。
+- **Foglie d'Oro**：Salone 2026「SHAPED over TIME」+ Diamante Chic 复古拼花与 Azalea 3D 墙面组合，延续地板→墙面→家具一体化叙事。
+- 启发：两大竞品均以「设计师签名系列+酒店 contract 案例」双轮驱动；Trame 的「表面雕刻触感」方向与方所拼花工艺可对接，可评估一款浅雕纹橡木新品。
+
+### 💡 洞察/启发
+- **Diriyah 奢华酒店集群是 2026 Q1 最确定的采购窗口**：Wadi Safar 四酒店（Aman/Six Senses/Chedi/Faena）+ Diriyah Square 零售区均由活跃总包执行，且多与已入库的 fit-out 商（ALEC、Havelock One、Interiors International）交叉——建议本周把这批总包/精装商打包触达，主诉「Najdi 传统+现代奢华」定制拼花方案。
+- **Al Marjan 岛正在形成超豪酒店带**：Wynn（ALEC 执行）+ Oceano（Interiors International 执行），RAK 从低价市场升维为 luxury hub；RAK 本地无高端拼花渠道，先入者得。
+- **卡塔尔被低估**：Mirabello 案例显示卡塔尔度假村/别墅精装体量大且竞争烈度低于迪拜——建议将 Doha 列入 12 月开发批次，HS 4418710090 关键词组合「Qatar resort villa fit-out」。
