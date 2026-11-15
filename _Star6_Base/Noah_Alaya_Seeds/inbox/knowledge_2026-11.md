@@ -125,3 +125,33 @@
 - **Diriyah 奢华酒店集群是 2026 Q1 最确定的采购窗口**：Wadi Safar 四酒店（Aman/Six Senses/Chedi/Faena）+ Diriyah Square 零售区均由活跃总包执行，且多与已入库的 fit-out 商（ALEC、Havelock One、Interiors International）交叉——建议本周把这批总包/精装商打包触达，主诉「Najdi 传统+现代奢华」定制拼花方案。
 - **Al Marjan 岛正在形成超豪酒店带**：Wynn（ALEC 执行）+ Oceano（Interiors International 执行），RAK 从低价市场升维为 luxury hub；RAK 本地无高端拼花渠道，先入者得。
 - **卡塔尔被低估**：Mirabello 案例显示卡塔尔度假村/别墅精装体量大且竞争烈度低于迪拜——建议将 Doha 列入 12 月开发批次，HS 4418710090 关键词组合「Qatar resort villa fit-out」。
+
+## [2026-11-16] 商业情报速报
+
+> 过滤说明：排除字典已加载（asdevelop、Floorworld、Wood Floors Middle East、Bostik/Gerflor、Indus 及 nonprofit/NGO 标签）。今日结果未命中黑名单；INDECO MATERIAL（Foshan 集采商，低端物流整合模型，非高端拼花采购口）与 JDR Building（综合建材贸易商，中低端）判为低价值不入表。Diriyah $720M / Wadi Safar / RSG 注册等 11-12~11-15 已入库，仅增量更新。
+
+### 🔥 高价值线索（可直接跟进）
+| # | 类别 | 公司/项目名 | 链接 | 关键信息 | 行动建议 |
+|---|------|-------------|------|----------|----------|
+| 1 | 基建招标 | Diriyah Arena 包：卡塔尔 MEP 中标方 | meed.com/qatari-firm-wins-diriyah-arena-mep-and-technology-contract | 11月11日：卡塔尔公司中标 Diriyah Arena + 3 办公楼 + 停车设施 MEP/技术主包；Diriyah 项目群持续放标，11月密集授标 | Tier1：Arena 及配套办公楼进入设备/材料采购期；确认中标主体全称后触达其材料采购口，随 MEP 后场接入精装供应商名单 |
+| 2 | 基建招标 | Riyadh Metro Red Line 延线（Parsons 牵头美法联合体） | agbi.com/infrastructure/2026/11/us-french-group-wins-contract-to-build-riyadh-metro-extension | Parsons 中标 Red Line 延线 PMC/建设管理，北端终点即 Diriyah Gate——交通动脉直连 Diriyah 项目群，沿线上盖/站点商业将随开通加密 | Tier2：地铁通达进一步锁定 Diriyah 高端商业/酒店完工时间表；以此为触达话术强化「2027 前完成 spec 进入」紧迫性 |
+| 3 | 设计渠道 | Crown Bespoke International（增量确认） | crown-building.com/crown-bespoke-international | 详情确认：酒店大堂/VIP 贵宾厅/企业总部精装 + 私人航空贵宾厅；Qatar 市场官网明示「actively looking to grow」欢迎引荐 | Tier1（11-15 已入库）：新信息——卡塔尔扩张窗口开放，触达时可同步推 Doha 度假村拼花场景，与 Mirabello 线索交叉验证 |
+| 4 | 港口基建 | Port of NEOM 集装箱码头下月开港 | agbi.com/sectors/giga-projects | NEOM 港口集装箱码头即将运营——NEOM 物料进口通道正式打通，直供 NEOM 工地的海运物流成本/时效改善 | Tier2：为 NEOM 供应商注册（11-12 已入库）补充物流论据；报价时可主打 Jeddah→NEOM 港直航缩短交期 |
+
+### 📊 市场情报（趋势参考）
+- **区域**: GCC / 中东（IndexBox + MMA 2026 数据交叉）
+- **内容**:
+  1. 沙特拼花板进口（HS 4418 系）截至 2026-04 的 12 个月为 $11.0M，同比降 8.3%；均价 $1,818/吨——总量收缩但单价上行，印证「premium spec 段才是可做市场」，量价背离利好高定拼花。
+  2. 中东木地板市场 $38.6B（2025）→$64.7B（2036），CAGR 4.8%；沙特 8.2% 为增长最快国别；87% 安装为工程结构（空调房 28% 湿度的物理约束）、79% 需求走项目 spec 渠道而非零售——渠道打法必须是「设计师/开发商前置指定」。
+  3. 五大厂商（Mohawk/Shaw/Kahrs/Tarkett/大自然）合计仅 18% 份额，供给高度碎片化；装饰拼花+酒店 hospitality 是毛利率最高细分——方所定位与该结构性空白吻合。
+
+### 🏆 竞品动态
+- **Foglie d'Oro**：High Point Market 2026（美国）与 Arte Brotto 联展，美区由 Artitalia Group 作为 Brotto 集团官方代理——「地板+家具+墙面」一体化叙事正式输出美国市场。
+- **Listone Giordano**：Patrick Jouin「Trame」系列（橡木表面细雕纹，30/06 发布）为 2026 下半年主推，瞄准顶级住宅+contract 项目。
+- 启发：竞品打法收敛为「集团化联展+设计师签名+contract 案例」三件套；Trame 雕纹方向连续两日出现，方所浅雕纹橡木新品评估优先级应上调。
+
+### 💡 洞察/启发
+- **11 月 Diriyah 授标节奏极快**（$720M 酒店 → $2B Wadi Safar → Arena MEP 一周内接连落地），精装材料采购窗口正在从「2027 交付」压缩到「本季度锁定供应商名单」——建议把已入库的 Urbacon/Albawani/Salini/First Fix 四线打包成一组触达序列，本周完成首轮邮件。
+- **沙特进口量降价升**是战略级信号：中低端量被 LVT 吞掉，premium 段单价坚挺——方所应放弃拼量报价，全部资源投向 spec 前置（设计师+总包采购口），与 ZOE 闭环的「净种」判定标准一致。
+- **NEOM 港口开港 + RSG 注册通道**（已入库）构成物流+准入双就位：12 月前完成 NEOM/RSG 双注册，把「直航 NEOM 港、交期可控」写进标准报价函。
+
