@@ -30,4 +30,34 @@
 - 竞品把地板做成"建筑系统"（Foglie d'Oro 墙地一体、LGT 设计师款）——方所可用拼花+护墙板组合概念对冲中东酒店客户
 
 ---
-*采集过滤：已按排除字典剔除 SPC/PVC/LVT 类经销商（NOVA Select、Metawood、Kemsol、Coloria 等）及渠道封闭名单（FloorWorld、Wood Floors ME）。*
+
+## [2026-11-18] 商业情报速报
+
+### 🔥 高价值线索（可直接跟进）
+| # | 类别 | 公司/项目名 | 链接 | 关键信息 | 行动建议 |
+|---|------|-------------|------|----------|----------|
+| 1 | 精装/设计端 | Antonovich Group（Dubai） | https://antonovich-design.ae | 20+年、5000+高端项目；自有大理石/木地板安装与家具产线；Palm Jumeirah、Al Barari、Dubai Hills 别墅；服务 Riyadh 皇家宫殿 | Tier 2：官网有 fit-out 材料采购入口，别墅拼花/鱼骨拼场景高度契合，电话+邮件联系其材料采购部 |
+| 2 | 精装/设计端 | Designsmith（Dubai/Abu Dhabi） | https://designsmith.ae | 37年经验、1600+ 豪宅项目；顶层公寓/豪宅翻新含 premium flooring 与地暖地板安装 | Tier 2：翻新场景=underfloor heating 兼容拼花卖点，发场景信附地暖规格案例 |
+| 3 | 精装/设计端 | Spazio（Dubai，2008年成立） | https://spazio.ae | 住宅全包精装，MBR District One 别墅、Emaar Business Bay 豪宅；含 flooring + joinery + FF&E 一体 | Tier 3：中高端楼盘量较大，可做季度跟进培育 |
+| 4 | 基建招标 | Diriyah × Satco（Heroes' Park） | https://neom.directory/index.php/neom-news/diriyah-awards-105mn-contract-for-heroes-park-development | SAR3.93亿公共公园主体工程 | 周边配套，间接；记录 JV/分包链 |
+| 5 | 基建招标 | Parsons 联合体 × Riyadh Metro 红线延伸至 Diriyah | https://agbi.com/infrastructure/2026/11/us-french-group-wins-contract-to-build-riyadh-metro-extension | RCRC 授标 PM/CM 服务，北端终点 Diriyah Gate | 交通接入改善 Diriyah 后期酒店/商业内装节奏，间接利好；PM 渠道留档 |
+| 6 | 供应链准入 | MASS Construction AVL 供应商门户（沙特） | https://abrvendors.triplexnile.com | 开放 AVL 注册：提交公司简介+业绩即可进入合格供应商库 | 立即注册：本地+国际供应商均可，是沙特工程准入的低成本通道 |
+
+### 📊 市场情报（趋势参考）
+- **区域**: 沙特/阿联酋
+- **内容**:
+  - Diriyah 持续密集授标（Wadi Safar SR80亿、Heroes' Park $105m、Metro 延线确认），配套精装与 FF&E 窗口将在此后 6–12 个月集中释放
+  - 沙特 AVL 体系日趋制度化：MASS 等总包开放自助注册门户，SASO 认证+产能+业绩是三大门槛
+  - Dubai 顶层公寓/别墅翻新市场活跃（Designsmith、Spazio 2025-26 案例密集），地暖兼容地板是高频规格
+
+### 🏆 竞品动态
+- **Foglie d'Oro**: Salone del Mobile 2026「SHAPED over TIME」60周年展确认（与 Arte Brotto 联合，地板→墙面 3D 连续系统；Diamante Chic 首款拼花复刻）；Azalea 注册设计模块提供胡桃/橡木+大理石/金属嵌件定制——高端定制叙事持续加码
+
+### 💡 洞察/启发
+- Antonovich 的「design→build→furnish」门到门模式与 Lux & Beyond/As Design Deco 同型，是最接近方所目标客开画像的中东经销商——建议优先背调+WhatsApp 首触
+- MASS AVL 注册是零成本 Saudi 准入动作，可本周完成；同类总包（Nesma、Albawani、El-Seif）官网均有 vendor portal，可批量注册
+- 竞品用注册设计模块（Azalea）绑定定制叙事——方所拼花可在中东物料中强调「专属纹样/嵌件定制」差异化
+
+---
+*采集过滤：已按排除字典剔除渠道封闭名单（FloorWorld、Wood Floors ME）与 SPC/PVC/地坪类线索；MASS/竞品描述无行业排除标签命中。*
+
