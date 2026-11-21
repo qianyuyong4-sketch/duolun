@@ -70,3 +70,41 @@
 - **Armada Casa 是「Havwoods 模式」的空位镜像**：Havwoods 已证明「境外品牌×沙特本地多品类经销商」能吃下 KAFD 级项目；方所可循同路径接触 Armada Casa 及同类新开经销商（避其 WPC 线，主推意系定制拼花+人字/鱼骨）。
 - **利雅得/麦地那酒店翻新市场是「小单快跑」入口**：Dongsheng 地毯案例显示翻新酒店业主接受中国供应链直谈；麦地那宗教旅游酒店翻新需求稳定，方所可用 600㎡ 级拼花小单建立首案例再滚动。
 - **暖自然色调+大规格人字=2026 spec 关键词**：给 GCC 设计师渠道的话术应主打「浅-中暖橡木、90×600mm+ 大规格人字/Chevron、低 VOC 认证齐套」，与 Dubai 趋势报告逐条对齐。
+
+---
+
+# Noah 商业情报速报 · 2026-11-22
+
+> 来源：Noah 系统每日知识采集 cron job
+> 过滤：已按 rules/exclude_list.md 三重过滤（公司名/域名/行业标签）。FloorWorld、Wood Floors ME、asdevelop、Hillswood(SPC线)、塑料地板类结果未纳入。
+> 数据说明：web_extract 不可用，全部基于 web_search 摘要通道，5 组检索全部成功。
+
+## [2026-11-22] 商业情报速报
+
+### 🔥 高价值线索（可直接跟进）
+| # | 类别 | 公司/项目名 | 链接 | 关键信息 | 行动建议 |
+|---|------|-------------|------|----------|----------|
+| 1 | 经销商 | Wood Works（woodworks.sa，吉达+利雅得） | woodworks.sa | 沙特本土高端拼花经销商，双展厅（吉达 Al Rabwah + 利雅得 Al Hamra），主营 engineered hardwood + luxury parquet，官网直接挂 WhatsApp/电话/邮箱（info@woodworks.sa） | ⭐ 本期最优线索：联系方式齐备可直接触达，品类对口（无 vinyl/SPC 线）。建议立即背调+WhatsApp 开发（Tier 2） |
+| 2 | 经销商 | KeyOne Flooring（keyone.sa） | keyone.sa/en/branches | 沙特四城布局（利雅得/吉达/达曼/塔布克含仓库），地板项目咨询服务型公司 | 四城网络=覆盖面广，背调确认是否含工程拼花品类及合作品牌（Tier 3） |
+| 3 | 渠道 | Coloria Group（coloriagroup.net） | coloriagroup.net | 沙特「一站式建筑方案商」，主推 herringbone/chevron/basketweave 拼花，利雅得别墅场景（4mm 橡木顶层工程拼花话术） | 拼花叙事对口但疑似自有贴牌产品线；背调确认供应链模式（Tier 3） |
+| 4 | 设计渠道 | Space by NGC（迪拜 Al Quoz） | linkedin.com/posts/ngc-middleeast_spacebyngc | NGC 新开 5,400 sq ft 材料体验中心+specification studio（11/12 开业），建筑师/室内设计师在此选样：墙面/织物/**地板**/声学；设计 Keane，fit-out Motif Interiors | 新开 spec 渠道正处选品供应商填充期——方所样品入驻/选型库合作窗口（Tier 2，直接联系 NGC 团队） |
+| 5 | 基建融资 | Diriyah Wadi Safar 酒店群 | brentdesk.com/hospitality/diriyah-secures-sar2-4bn-financing-for-wadi-safar-hotels | 11/16 Diriyah×Alinma Bank 签 SAR24 亿融资，支持 Wadi Safar（62k㎡ 目的地）酒店/休闲资产开发 | 融资落地=采购即将放量；Wadi Safar 纳入大项目雷达，跟踪其酒店精装包授标 |
+| 6 | 风险信号 | Diriyah One Hotel 取消 | skift.com/2026/11/20/saudi-arabias-diriyah-scraps-191-million-hotel-build | 11/19 Diriyah 取消 SAR7.17 亿 One Hotel 主合同（BEC Arabia×Ashoka Buildcon JV），「雇主内部原因」 | ⚠ Diriyay 包存在授标后取消风险——对 Diriyah 线索的跟进优先排已开工/已融资包（如 Wadi Safar、Diriyah Square 六酒店），避免押注未落地包 |
+
+### 📊 市场情报（趋势参考）
+- **区域**: GCC / 沙特 / UAE
+- **内容**:
+  - NEOM 2026 年 3 月起经历「再校准」：现代 EidE&C/三星 C&T 隧道合同、Webuild 大坝/The Bow 合同被取消，PIF 预算转向 2030 世界博览/2034 世界杯等近程目标；供应商正从 NEOM 大批量模式转向 Diriyah/Qiddiya/UAE 酒店翻新的「高精度小批量定制」方向（stonetrades.com/insights/middle-east-stone-sourcing-2026）——对拼花供应商同样适用：定制化小单窗口放大
+  - GCC giga-project 材料采购新规：单一矿源/同批次色调一致性要求、第三方 Dry-Lay 出厂检验、Digital Material Passport（QR 溯源）逐步成为标配（stonetrades.com）——木地板可预判同类 spec 门槛，提前备齐批次一致性+溯源文件体系
+  - UAE 室内设计市场 2026 达 USD 19.4 亿、CAGR≈10% 至 2031（obrasintl.com 引 Mordor）——specification 渠道竞争加剧，材料商「single-source 供应关系」模式（OBRAS 五品牌组合）正在流行
+
+### 🏆 竞品动态
+- **Foglie d'Oro**：Salone 2026「SHAPED over TIME」细节公布——Total Match 概念：地板模块从 2D 拓展到 3D 墙面（Relevo 3D Azalea 花卉模块+大理石 Fior di Pesco 插片+内置 LED），Colorsense Sky Blue/Mountain Rose 色系；另确认参加美国 High Point Market（与 Artitalia Group 合作）。「地板→墙面→灯光一体化空间方案」叙事正式落地
+- **Listone Giordano**：三线并进——①Circular 循环经济系（Graphit×Alisea 回收木 + Terre di Vigna×Passoni Design，限量为精选伙伴 bespoke 供应）；②马德里 Casa Decor 2026（意大利贸易署 ICE「Spazio Italia」项目）；③热那亚 Genova Design Week 开 Arena Listone Giordano concept store，Fidra 成为热那亚省独家经销——「城市级独家经销+设计周策展」的渠道深耕模式值得注意
+- **Chabros International**：利雅得新展厅（2025 开业）持续运营，主打 herringbone 社媒内容；GCC 七城展厅网络（利雅得/迪拜/阿布扎比/多哈/马斯喀特/巴林/贝鲁特）——多国拼花渠道竞争者，观察哨维持
+
+### 💡 洞察/启发
+- **「NEOM 退潮、Diriyah/Qiddiya/UAE 酒店翻新接棒」是本季度最重要的资源配置信号**：stone 行业已明确观察到供应商从大批量标品转向高精度定制小单——这正是方所「意系定制拼花」的优势区。建议资源从 NEOM 线转向 Wadi Safar/Diriyah Square/UAE 酒店翻新三条已验证有资金落地的线。
+- **Space by NGC 模式=低门槛 spec 入口**：新开体验中心需要持续填充选型库，相比 Hotel 总包竞标，向 spec studio 送样/入册是成本最低的「写入早期 spec」动作；迪拜可复制此模型排查其他材料图书馆（如 existing spec hubs）。
+- **Wood Works（woodworks.sa）与昨日 Armada Casa 形成沙特拼花经销商双确认**：沙特本土「premium parquet」零售/工程经销生态正在成形且联系方式公开化——可批量筛「.sa 域名+parquet」关键词，形成沙特经销商挖掘子清单。
+- **LG「城市独家经销+设计周策展」模式启发**：与其铺多经销商，不如在利雅得/迪拜找一家伙伴做「方所品牌空间+设计周活动」绑定，用策展稀缺性换取 spec 心智占位。
