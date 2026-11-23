@@ -183,3 +183,40 @@
 - **规格对齐是 spec 入册的前置条件**：GCC 三家供应商目录交叉出的 90–600/92×600/153×910 规格带应写入方所出口目录页——设计师选型库只收录规格可对标的样品。
 - **东部省（Khobar/Dammam）是未开垦拼花市场**：现有线索集中在利雅得/吉达/迪拜，Alwatyan 的存在证明东部省别墅带（Khobar Corniche）有拼花消费力，且竞争密度更低——可作为「小单快跑」第二试点城市带。
 
+---
+
+# Noah 商业情报速报 · 2026-11-24（第二辑）
+
+> 来源：Noah 系统每日知识采集 cron job（下午批次）
+> 过滤：已按 rules/exclude_list.md 三重过滤。FloorWorld、Wood Floors ME、Golden Wood（Kährs 独家代理=封闭渠道）、asdevelop、SPC/LVT 为主业的结果未纳入线索表。
+> 数据说明：web_extract 不可用，全部基于 web_search 摘要通道，5 组检索成功；与第一辑重复条目（Diriyah Square 授标、Antonovich、Chengzi、DST、Chabros）已去重。
+
+## [2026-11-24·PM] 商业情报速报
+
+### 🔥 高价值线索（可直接跟进）
+| # | 类别 | 公司/项目名 | 链接 | 关键信息 | 行动建议 |
+|---|------|-------------|------|----------|----------|
+| 1 | 精装总包 | Depa Interiors（RSG 七连包） | gulfconstructiononline.com/ArticleTA/417832/Depa-snaps-up-$259m-Saudi-Arabia,-UAE-fitout-orders | Depa 新揽 AED9.5 亿（$259M）订单：RSG 线 SAR7.5 亿占大头——Desert Rock Hotel（50 别墅+10 房）+ Amaala Yacht Club fit-out + Amaala 两家五星酒店内装；系今年 RSG 授予 Depa 的第 7 个重大酒店项目；CEO Haitham Tuqan 公开表态 | ⭐ 本辑最优线索：Depa=RSG 生态内装材料采购的集中决策点，一次背调覆盖多项目拼花/木作 spec 入口。背调 Depa + 接触其采购/材料团队（Tier 1 级） |
+| 2 | 项目情报 | Ritz-Carlton AMAALA 开业 | gccbusinessnews.com/red-sea-global-opens-ritz-carlton-amaala | 11/22 RSG 开业 Triple Bay Marina 最大度假村（390 房/69 套房），Foster + Partners 建筑、L&W 内装——AMAALA 年内第 8 家开业 | 已开业=后续维修/翻新/别墅扩展采购持续；记录 L&W 内装供应商体系；AMAALA Yacht Club（游艇场景）与方所海洋特渠叙事可挂钩 |
+| 3 | 决策人情报 | RSG 内部建筑团队（Four Seasons AMAALA） | gc-worldwide.com/Article/488882/Luxury,_shaped_by_the_landscape_at_Triple_Bay | Four Seasons AMAALA 获 Gold Key 2026 双奖（最佳度假村+最佳奢华客房，内装 Goddard Littlefair）；RSG 团队具名：Sarah Assaf（Senior Director–Interior Architecture）、Mazn Khalifa、Saniya Bordawekar、Maie Bekhitt（Senior Manager–FF&E）；spec 明文要求「rot-resistant engineered timber」海洋级耐久 | ⭐ 罕见的具名 FF&E/内装决策人名单——Maie Bekhitt（FF&E）是地板材料 spec 直接口；海洋环境耐久工程木=方所工程拼花技术叙事切入点。LinkedIn 触达（Tier 1） |
+| 4 | 项目雷达 | Diriyah × Versatile International（石材咨询三连任） | gulfconstructiononline.com/Article/488916/diriyah-inks-720m-luxury-hotels-residences-deals | Diriyah 与区域石材项目管理咨询公司 Versatile 签第三个三年期合同，覆盖全资产组合的饰面设计顾问+供应链+安装监督 | 「饰面供应链咨询」模式进入 Diriyah 体系——木地板未来可能走同类咨询管控通道；跟踪 Versatile 是否拓展木材品类 |
+| 5 | 采购信号 | HydeSourcing × NEOM 总包长期供货协议 | hydesourcing.com/en/news/news-1786956948472 | 6/18 与 NEOM 总包签建材长期供货协议，含生产质检+跨境物流+现场技术支持整包服务（与第一辑 11-20 条互为补充：服务整包模式细节） | 中国供应链「服务整包」模式在 NEOM 跑通的第二实证；方所报价可参考其「质保+物流+驻场」打包结构 |
+
+### 📊 市场情报（趋势参考）
+- **区域**: GCC / 中东
+- **内容**:
+  - IndexBox：中东工程硬木地板 2026–2035 年增 4–6%/年（Gulf 酒店/住宅推高上限）；住宅占需求 55–70%；UAE=进口与分销枢纽（含转口，勿把 UAE 销量当终端消费）；沙特=最大单一需求市场
+  - MarketMinds：中东木地板 87% 安装为工程结构（空调 28% 湿度物理约束）、79% 走 specification 渠道、沙特 8.2% CAGR 全域最快；「酒店 spec + 大批量同花色交付 + 设计服务」赛道毛利 36–50%；警示案例：区域酒店集团中层物业整体改spec LVT，木地板丢单——防守线必须备好低 VOC/寿命周期文件
+  - MorganReed：GCC 地板市场 2026 年 $58 亿 → 2035 年 $101.4 亿（6.4% CAGR）；Estidama 与沙特绿建规范强制低 VOC 正抬升门槛
+
+### 🏆 竞品动态
+- **Foglie d'Oro**：High Point Market 2026（10/17–21，美国）与美国官方伙伴 Artitalia Group（Brotto Group 北美代理）联合出展——FdO「欧洲制造×美国本地代理」双市场打法正式成形；GCC 侧暂无新动作（Arkeda 11/27–29 待观察）
+- **Listone Giordano**：米兰设计周 2026 四联名（Piet Boon / Patrick Jouin / Gargano / Olioso）+ Seed Festival 可持续互动展——设计师联名密度再确认，无 GCC 渠道新变化
+- **Chabros International**：GCC 七城展厅（利雅得/迪拜/阿布扎比/多哈/马斯喀特/巴林/贝鲁特）+ 利雅得新厅（2025 开）持续铺 herringbone 内容——多国渠道竞争者，观察哨维持
+
+### 💡 洞察/启发
+- **RSG 具名团队是本周最稀缺资产**：FF&E、内装建筑高级经理四人均具名且接受专访——GCC giga-project 内装决策人极少公开，建议本周内完成 LinkedIn 触达（话术锚点：海洋级耐久工程木 + Saudi-inspired craftsmanship，与其受访口径完全同频）。
+- **Depa「七连包」意味着 RSG 精装采购高度集中**：与其散打各酒店项目，不如直接进入 Depa 的供应商名录评估流程——单点突破可覆盖 Desert Rock/Amaala Yacht Club/两酒店多项目材料入口。
+- **「酒店 LVT 化」防守与「海洋耐久」进攻可以合一**：MarketMinds 的丢单案例 + RSG 的 rot-resistant timber spec 说明——方所应把「Contract-grade 工程拼花（耐盐雾/耐湿/低 VOC/E1-CARB 文件齐套）」做成一页纸 spec 技术答辩材料，既防 LVT 替代又中 RSG 类业主下怀。
+
+
