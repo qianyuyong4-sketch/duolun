@@ -147,3 +147,39 @@
 - **Urbacon 双包在手（Waldorf 超级街区 + Diriyah Square 三酒店）**=当前 GCC 最集中的精装采购决策点，单一背调可覆盖 SAR40 亿+级内装材料入口，性价比最高的一步棋。
 - **「写字楼 SPC 化」反向划定战场**：与其在 Grade-A 写字楼卷 LVT/地毯，不如借 UAE 19.4 亿内装市场中的酒店翻新+豪宅线，把「低 VOC 认证齐套+批次一致性文件」作为对拼 carpet/LVT spec 话术的防守武器提前备好。
 
+---
+
+# Noah 商业情报速报 · 2026-11-24
+
+> 来源：Noah 系统每日知识采集 cron job
+> 过滤：已按 rules/exclude_list.md 三重过滤（公司名/域名/行业标签）。FloorWorld、Wood Floors ME、asdevelop、SPC/LVT 为主业的结果未纳入线索表（Al Ijaada/Alwatyan 的 SPC/viny 侧线仅作互斥评级参考）。
+> 数据说明：web_extract 不可用，全部基于 web_search 摘要通道，4 组检索全部成功。
+
+## [2026-11-24] 商业情报速报
+
+### 🔥 高价值线索（可直接跟进）
+| # | 类别 | 公司/项目名 | 链接 | 关键信息 | 行动建议 |
+|---|------|-------------|------|----------|----------|
+| 1 | 渠道/供应商 | Kindred Timber（kindredtimber.global，迪拜） | kindredtimber.global/timber-supplier-dubai-uae.html | 自有工厂（越南/泰国/欧洲）直供 UAE 酒店/别墅/品牌公寓：工程橡木 plank/herringbone/chevron + 墙板/门/木作「同材种同涂装一体化」；The Foundation 项目人字拼从大堂铺进电梯轿厢 | ⭐ 本期最优线索：整木空间一体化叙事与 FdO Total Match 同构、与方所「拼花+boiserie」话术天然契合；但同时是竞争对手（自有工厂直供）。建议背调定位：竞合伙伴（其越南/泰国厂缺欧洲定制拼花工艺=方所切入位）（Tier 2） |
+| 2 | 设计渠道 | Kat Black Design Studio（katblackuae.com，迪拜） | katblackuae.com/parquet-flooring-dubai | 专做迪拜高端住宅（Dubai Hills/Palm Jumeirah/Emirates Hills）herringbone/chevron/Versailles；Versailles 面板从**法国/意大利专业拼花工厂**采购——明确存在欧洲定制拼花采购缺口 | 别墅豪宅=方所核心画像，且其已在找欧系拼花货源——直接背调+寄样（Tier 2）⭐ |
+| 3 | 经销商 | Alwatyan Wooden Flooring（alwatyan.com，胡拜尔，2009 创立） | alwatyan.com | 沙特东部省工程实木专营商：chevron/herringbone/mosaic/plank 明确在列，Khobar Corniche 别墅案例；联系 info@alwatyan.com / 0138646830；11-50 人 | 品类对口、联系方式齐备；⚠ 兼营 laminate/vinyl/WPC（互斥线，契合度≤2星）——背调核实拼花占比后决定（Tier 3） |
+| 4 | 工程案例 | Al Ijaada Project LLC（alijaada.com，迪拜） | alijaada.com/parquet-flooring-dubai | UAE/GCC 供应+安装商，2026/11 发布拼花工艺页：herringbone 92×600 3mm 耐磨层、chevron、Versailles/Chantilly 面板，服务 majlis/酒店大堂/别墅 | 工艺叙事专业但兼营 SPC（互斥线）；Versailles/Chantilly 面板或需外采欧洲货源——背调核实供应链模式（Tier 3） |
+| 5 | 价格情报 | 迪拜拼花价格带更新（Urban Flooring 公开报价） | urbanfloorings.com/parquet-flooring | 工程人字拼 110–160 AED/㎡、chevron 120–180、solid/定制 180–400；铺装人工溢价 +30–70/㎡ | 方所定制拼花应锚定 180–400 AED/㎡「solid/premium & custom」档，避开 110–160 大众工程带 |
+
+### 📊 市场情报（趋势参考）
+- **区域**: GCC / 沙特 / UAE
+- **内容**:
+  - 迪拜高端拼花 spec 规格带集中在 90–153mm 宽 × 450–910mm 长、15mm 总厚、0.6–4mm 耐磨层（Kindred/Al Ijaada/Urban 三家目录交叉验证）——方所出口规格目录可按此带对齐报价
+  - 「同材种同涂装一体化」（地板+墙板+门+固定家具同 finish）正在成为 UAE 酒店/品牌公寓 spec 标准叙事（Kindred 明文主打）——与 FdO Total Match 趋势互相印证，方所拼花+boiserie 话术窗口确认
+  - 沙特胡拜尔/东部省（Khobar Corniche 别墅案例）是继利雅得/吉达后第三个有明确拼花消费证据的城市带；Alwatyan 2009 年即深耕此地
+
+### 🏆 竞品动态
+- **Havwoods**：官网正式挂出沙特利雅得展厅页（Armada Company Ltd，Al Mathar District, Takhassousi St，+966 54 224 7855）——11-21 发现的 Armada Casa 合作已固化为官方 showrooms 列表，英系品牌沙特桥头堡落成；方所若走 Armada 路线需差异化（意系定制 vs 英系标品）
+- **FloorWorld**：Royal Parquet Herringbone 90×600×15mm 3mm 耐磨层+25 年质保在 UAE 全线推广——黑名单渠道，但其「超长质保+glue-down 标准化」话术是 GCC 拼花零售主流打法，作反面对照
+- （承接 11-20/22/23：FdO Total Match/Arkeda、LG 城市独家经销、Chabros 七城网络均无新增变化）
+
+### 💡 洞察/启发
+- **「欧系货源缺口」出现两处独立实证**：Kat Black 明文从法国/意大利工厂采购 Versailles 面板、Al Ijaada 的 Versailles/Chantilly 供应来源存疑——利雅得/迪拜高端定制拼花的本地渠道端存在「想要欧系工艺但货源不稳」的真实缺口，方所「意大利定制+按图定制（sketches-to-floor）」正是对症解药。建议本周把 Kat Black、Kindred、Al Ijaada 三家列入背调队列。
+- **规格对齐是 spec 入册的前置条件**：GCC 三家供应商目录交叉出的 90–600/92×600/153×910 规格带应写入方所出口目录页——设计师选型库只收录规格可对标的样品。
+- **东部省（Khobar/Dammam）是未开垦拼花市场**：现有线索集中在利雅得/吉达/迪拜，Alwatyan 的存在证明东部省别墅带（Khobar Corniche）有拼花消费力，且竞争密度更低——可作为「小单快跑」第二试点城市带。
+
